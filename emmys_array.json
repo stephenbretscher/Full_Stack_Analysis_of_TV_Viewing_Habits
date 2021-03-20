@@ -1,0 +1,1185 @@
+{
+    "0": {
+        "No.": "0",
+        "Nominees": "Better Call Saul",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "1": {
+        "No.": "1",
+        "Nominees": "The Crown",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "2": {
+        "No.": "2",
+        "Nominees": "The Handmaid\u2019s Tale",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "3": {
+        "No.": "3",
+        "Nominees": "Killing Eve",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "4": {
+        "No.": "4",
+        "Nominees": "The Mandalorian",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "5": {
+        "No.": "5",
+        "Nominees": "Ozark",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "6": {
+        "No.": "6",
+        "Nominees": "Stranger Things",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "7": {
+        "No.": "7",
+        "Nominees": "Succession",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "8": {
+        "No.": "8",
+        "Nominees": "The Crown",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "9": {
+        "No.": "9",
+        "Nominees": "Big Little Lies",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "10": {
+        "No.": "10",
+        "Nominees": "Ozark",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "11": {
+        "No.": "11",
+        "Nominees": "Westworld",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "12": {
+        "No.": "12",
+        "Nominees": "Killing Eve",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "13": {
+        "No.": "13",
+        "Nominees": "Succession",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "14": {
+        "No.": "14",
+        "Nominees": "Big Little Lies",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "15": {
+        "No.": "15",
+        "Nominees": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "16": {
+        "No.": "16",
+        "Nominees": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "17": {
+        "No.": "17",
+        "Nominees": "The Morning Show",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "18": {
+        "No.": "18",
+        "Nominees": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "19": {
+        "No.": "19",
+        "Nominees": "The Morning Show",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "20": {
+        "No.": "20",
+        "Nominees": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "21": {
+        "No.": "21",
+        "Nominees": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "22": {
+        "No.": "22",
+        "Nominees": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "23": {
+        "No.": "23",
+        "Nominees": "Westworld",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "24": {
+        "No.": "24",
+        "Nominees": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "25": {
+        "No.": "25",
+        "Nominees": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "26": {
+        "No.": "26",
+        "Nominees": "Homeland",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "27": {
+        "No.": "27",
+        "Nominees": "The Morning Show,",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "28": {
+        "No.": "28",
+        "Nominees": "Ozark,",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "29": {
+        "No.": "29",
+        "Nominees": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "30": {
+        "No.": "30",
+        "Nominees": "Succession",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "31": {
+        "No.": "31",
+        "Nominees": "Succession",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "32": {
+        "No.": "32",
+        "Nominees": "Better Call Saul,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "34": {
+        "No.": "34",
+        "Nominees": "The Crown",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "36": {
+        "No.": "36",
+        "Nominees": "Ozark,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "38": {
+        "No.": "38",
+        "Nominees": "Succession,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "40": {
+        "No.": "40",
+        "Nominees": "The Crown",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "42": {
+        "No.": "42",
+        "Nominees": "Ozark",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "43": {
+        "No.": "43",
+        "Nominees": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "44": {
+        "No.": "44",
+        "Nominees": "Euphoria",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "45": {
+        "No.": "45",
+        "Nominees": "Ozark",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "46": {
+        "No.": "46",
+        "Nominees": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "47": {
+        "No.": "47",
+        "Nominees": "The Morning Show",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "48": {
+        "No.": "48",
+        "Nominees": "Succession",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "49": {
+        "No.": "49",
+        "Nominees": "Pose",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "50": {
+        "No.": "50",
+        "Nominees": "Succession",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "51": {
+        "No.": "51",
+        "Nominees": "The Masked Singer",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "52": {
+        "No.": "52",
+        "Nominees": "Nailed It!",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "53": {
+        "No.": "53",
+        "Nominees": "RuPaul\u2019s Drag Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "54": {
+        "No.": "54",
+        "Nominees": "Top Chef",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "55": {
+        "No.": "55",
+        "Nominees": "The Voice",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "56": {
+        "No.": "56",
+        "Nominees": "Little Fires Everywhere",
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "57": {
+        "No.": "57",
+        "Nominees": "Mrs. America",
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "58": {
+        "No.": "58",
+        "Nominees": "Unbelievable",
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "59": {
+        "No.": "59",
+        "Nominees": "Unorthodox",
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "60": {
+        "No.": "60",
+        "Nominees": "Watchmen",
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "61": {
+        "No.": "61",
+        "Nominees": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "62": {
+        "No.": "62",
+        "Nominees": "Unbelievable",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "63": {
+        "No.": "63",
+        "Nominees": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "64": {
+        "No.": "64",
+        "Nominees": "Watchmen",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "65": {
+        "No.": "65",
+        "Nominees": "Hollywood",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "66": {
+        "No.": "66",
+        "Nominees": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "67": {
+        "No.": "67",
+        "Nominees": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "68": {
+        "No.": "68",
+        "Nominees": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "69": {
+        "No.": "69",
+        "Nominees": "Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "70": {
+        "No.": "70",
+        "Nominees": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "71": {
+        "No.": "71",
+        "Nominees": "Hollywood",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "72": {
+        "No.": "72",
+        "Nominees": "Hollywood",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "73": {
+        "No.": "73",
+        "Nominees": "Little Fires Everywhere,",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "74": {
+        "No.": "74",
+        "Nominees": "Normal People",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "75": {
+        "No.": "75",
+        "Nominees": "Unorthodox",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "76": {
+        "No.": "76",
+        "Nominees": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "77": {
+        "No.": "77",
+        "Nominees": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "78": {
+        "No.": "78",
+        "Nominees": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "79": {
+        "No.": "79",
+        "Nominees": "Mrs. America",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "80": {
+        "No.": "80",
+        "Nominees": "Normal People",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "81": {
+        "No.": "81",
+        "Nominees": "Unbelievable",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "82": {
+        "No.": "82",
+        "Nominees": "Unorthodox",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "83": {
+        "No.": "83",
+        "Nominees": "Watchmen",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "84": {
+        "No.": "84",
+        "Nominees": "Watchmen",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "85": {
+        "No.": "85",
+        "Nominees": "Bad Education",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "86": {
+        "No.": "86",
+        "Nominees": "Normal People",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "87": {
+        "No.": "87",
+        "Nominees": "Hollywood",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "88": {
+        "No.": "88",
+        "Nominees": "I Know This Much Is True",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "89": {
+        "No.": "89",
+        "Nominees": "Mrs. America",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "90": {
+        "No.": "90",
+        "Nominees": "Unorthodox",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "91": {
+        "No.": "91",
+        "Nominees": "Watchmen",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "92": {
+        "No.": "92",
+        "Nominees": "Self Made",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "93": {
+        "No.": "93",
+        "Nominees": "Little Fires Everywhere",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "94": {
+        "No.": "94",
+        "Nominees": "The Daily Show With Trevor Noah",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "95": {
+        "No.": "95",
+        "Nominees": "Full Frontal With Samantha Bee",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "96": {
+        "No.": "96",
+        "Nominees": "Jimmy Kimmel Live!",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "97": {
+        "No.": "97",
+        "Nominees": "Last Week Tonight With John Oliver",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "98": {
+        "No.": "98",
+        "Nominees": "The Late Show With Stephen Colbert",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "99": {
+        "No.": "99",
+        "Nominees": "Curb Your Enthusiasm",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "100": {
+        "No.": "100",
+        "Nominees": "Dead to Me",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "101": {
+        "No.": "101",
+        "Nominees": "The Good Place",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "102": {
+        "No.": "102",
+        "Nominees": "Insecure",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "103": {
+        "No.": "103",
+        "Nominees": "The Kominsky Method",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "104": {
+        "No.": "104",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "105": {
+        "No.": "105",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "106": {
+        "No.": "106",
+        "Nominees": "What We Do in the Shadows",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "107": {
+        "No.": "107",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "108": {
+        "No.": "108",
+        "Nominees": "The Good Place",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "109": {
+        "No.": "109",
+        "Nominees": "GLOW",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "110": {
+        "No.": "110",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "111": {
+        "No.": "111",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "112": {
+        "No.": "112",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "113": {
+        "No.": "113",
+        "Nominees": "Insecure",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "114": {
+        "No.": "114",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "115": {
+        "No.": "115",
+        "Nominees": "Ramy",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "116": {
+        "No.": "116",
+        "Nominees": "The Kominsky Method",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "117": {
+        "No.": "117",
+        "Nominees": "Brooklyn Nine-Nine",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "118": {
+        "No.": "118",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "119": {
+        "No.": "119",
+        "Nominees": "The Good Place",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "120": {
+        "No.": "120",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "121": {
+        "No.": "121",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "122": {
+        "No.": "122",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "123": {
+        "No.": "123",
+        "Nominees": "The Great,",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "124": {
+        "No.": "124",
+        "Nominees": "The Marvelous Mrs. Maisel,",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "125": {
+        "No.": "125",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "126": {
+        "No.": "126",
+        "Nominees": "Modern Family",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "127": {
+        "No.": "127",
+        "Nominees": "Ramy,",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "128": {
+        "No.": "128",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "129": {
+        "No.": "129",
+        "Nominees": "Will & Grace,",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "130": {
+        "No.": "130",
+        "Nominees": "The Good Place,",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "131": {
+        "No.": "131",
+        "Nominees": "The Great,",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "132": {
+        "No.": "132",
+        "Nominees": "Schitt\u2019s Creek,",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "133": {
+        "No.": "133",
+        "Nominees": "Schitt\u2019s Creek,",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "134": {
+        "No.": "134",
+        "Nominees": "What We Do In the Shadows",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "135": {
+        "No.": "135",
+        "Nominees": "What We Do In the Shadows",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "136": {
+        "No.": "136",
+        "Nominees": "What We Do In the Shadows",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "137": {
+        "No.": "137",
+        "Nominees": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "138": {
+        "No.": "138",
+        "Nominees": "Black Monday",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "139": {
+        "No.": "139",
+        "Nominees": "The Good Place",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "140": {
+        "No.": "140",
+        "Nominees": "The Kominsky Method",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "141": {
+        "No.": "141",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "142": {
+        "No.": "142",
+        "Nominees": "Ramy",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "143": {
+        "No.": "143",
+        "Nominees": "Dead to Me",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "144": {
+        "No.": "144",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "145": {
+        "No.": "145",
+        "Nominees": "Dead to Me",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "146": {
+        "No.": "146",
+        "Nominees": "Schitt\u2019s Creek",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "TRUE"
+    },
+    "147": {
+        "No.": "147",
+        "Nominees": "Insecure",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "148": {
+        "No.": "148",
+        "Nominees": "Black-ish",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "149": {
+        "No.": "149",
+        "Nominees": "The Late Show With Stephen Colbert",
+        "Awards": "Variety Talk Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "150": {
+        "No.": "150",
+        "Nominees": "At Home With Amy Sedaris",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "151": {
+        "No.": "151",
+        "Nominees": "Documentary Now!",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "152": {
+        "No.": "152",
+        "Nominees": "Drunk History",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "153": {
+        "No.": "153",
+        "Nominees": "I Love You, America With Sarah Silverman",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "154": {
+        "No.": "154",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "TRUE"
+    },
+    "155": {
+        "No.": "155",
+        "Nominees": "Who Is America?",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "FALSE"
+    },
+    "157": {
+        "No.": "157",
+        "Nominees": "Baskets",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "158": {
+        "No.": "158",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "159": {
+        "No.": "159",
+        "Nominees": "Unbreakable Kimmy Schmidt",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "160": {
+        "No.": "160",
+        "Nominees": "Atlanta",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "161": {
+        "No.": "161",
+        "Nominees": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "162": {
+        "No.": "162",
+        "Nominees": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    },
+    "163": {
+        "No.": "163",
+        "Nominees": "Barry",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "TRUE"
+    },
+    "164": {
+        "No.": "164",
+        "Nominees": "Unbreakable Kimmy Schmidt",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "FALSE"
+    },
+    "165": {
+        "No.": "165",
+        "Nominees": "Modern Family",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "FALSE"
+    },
+    "166": {
+        "No.": "166",
+        "Nominees": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "FALSE"
+    },
+    "167": {
+        "No.": "167",
+        "Nominees": "Key & Peele",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "FALSE"
+    },
+    "168": {
+        "No.": "168",
+        "Nominees": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "FALSE"
+    },
+    "33": {
+        "No.": "33",
+        "Nominees": "Better Call Saul,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "35": {
+        "No.": "35",
+        "Nominees": "Ozark,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "37": {
+        "No.": "37",
+        "Nominees": "Ozark,",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "39": {
+        "No.": "39",
+        "Nominees": "The Morning Show",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "41": {
+        "No.": "41",
+        "Nominees": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "FALSE"
+    },
+    "156": {
+        "No.": "156",
+        "Nominees": "Will & Grace",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "FALSE"
+    }
+}

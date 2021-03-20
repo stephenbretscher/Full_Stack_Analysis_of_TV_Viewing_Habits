@@ -118,12 +118,12 @@
 121,The People v. O.J. Simpson: American Crime Story,Writing for a TV Movie/Limited Series,2016,False
 122,The People v. O.J. Simpson: American Crime Story,Writing for a TV Movie/Limited Series,2016,False
 123,The People v. O.J. Simpson: American Crime Story,Writing for a TV Movie/Limited Series,2016,False
-124,The Amazing Race,Reality Competition Program,2016,False
-125,American Ninja Warrior,Reality Competition Program,2016,False
-126,Dancing with the Stars,Reality Competition Program,2016,False
-127,Project Runway,Reality Competition Program,2016,False
-128,Top Chef,Reality Competition Program,2016,False
-129,The Voice,Reality Competition Program,2016,True
+124,The Amazing Race,Reality Competition Series,2016,False
+125,American Ninja Warrior,Reality Competition Series,2016,False
+126,Dancing with the Stars,Reality Competition Series,2016,False
+127,Project Runway,Reality Competition Series,2016,False
+128,Top Chef,Reality Competition Series,2016,False
+129,The Voice,Reality Competition Series,2016,True
 130,Black-ish,"Lead Actor, Comedy",2016,False
 131,Master of None,"Lead Actor, Comedy",2016,False
 132,The Last Man on Earth,"Lead Actor, Comedy",2016,False
@@ -136,13 +136,13 @@
 139,Black-ish,"Lead Actress, Comedy",2016,False
 140,Inside Amy Schumer,"Lead Actress, Comedy",2016,False
 141,Grace and Frankie,"Lead Actress, Comedy",2016,False
-142,Master of None,Directing for a Comedy,2016,False
-143,Silicon Valley,Directing for a Comedy,2016,False
-144,Silicon Valley,Directing for a Comedy,2016,False
-145,Transparent,Directing for a Comedy,2016,False
-146,Veep,Directing for a Comedy,2016,False
-147,Veep,Directing for a Comedy,2016,False
-148,Veep,Directing for a Comedy,2016,False
+142,Master of None,Directing for a Comedy Series,2016,False
+143,Silicon Valley,Directing for a Comedy Series,2016,False
+144,Silicon Valley,Directing for a Comedy Series,2016,False
+145,Transparent,Directing for a Comedy Series,2016,False
+146,Veep,Directing for a Comedy Series,2016,False
+147,Veep,Directing for a Comedy Series,2016,False
+148,Veep,Directing for a Comedy Series,2016,False
 149,Veep,"Supporting Actress, Comedy",2016,False
 150,Transparent,"Supporting Actress, Comedy",2016,False
 151,Mom,"Supporting Actress, Comedy",2016,False
@@ -235,12 +235,12 @@
 70,Last Week Tonight with John Oliver,Directing for a Variety Special,2017,False
 71,The Late Show with Stephen Colbert,Directing for a Variety Special,2017,False
 72,Saturday Night Live,Directing for a Variety Special,2017,True
-73,Big Little Lies,"Writing for a limited series, movie, or dramatic special",2017,False
-74,Black Mirror: San Junipero,"Writing for a limited series, movie, or dramatic special",2017,True
-75,Fargo,"Writing for a limited series, movie, or dramatic special",2017,False
-76,Feud: Bette and Joan,"Writing for a limited series, movie, or dramatic special",2017,False
-77,Feud: Bette and Joan,"Writing for a limited series, movie, or dramatic special",2017,False
-78,The Night Of,"Writing for a limited series, movie, or dramatic special",2017,False
+73,Big Little Lies,Writing for a TV Movie/Limited Series,2017,False
+74,Black Mirror: San Junipero,Writing for a TV Movie/Limited Series,2017,True
+75,Fargo,Writing for a TV Movie/Limited Series,2017,False
+76,Feud: Bette and Joan,Writing for a TV Movie/Limited Series,2017,False
+77,Feud: Bette and Joan,Writing for a TV Movie/Limited Series,2017,False
+78,The Night Of,Writing for a TV Movie/Limited Series,2017,False
 79,Better Call Saul,Directing for a Drama,2017,False
 80,The Crown,Directing for a Drama,2017,False
 81,The Handmaid’s Tale,Directing for a Drama,2017,True
@@ -248,12 +248,12 @@
 83,Homeland,Directing for a Drama,2017,False
 84,Stranger Things,Directing for a Drama,2017,False
 85,Westworld,Directing for a Drama,2017,False
-86,The Amazing Race,Reality Competition Program,2017,False
-87,American Ninja Warrior,Reality Competition Program,2017,False
-88,Project Runway,Reality Competition Program,2017,False
-89,RuPaul’s Drag Race,Reality Competition Program,2017,False
-90,Top Chef,Reality Competition Program,2017,False
-91,The Voice,Reality Competition Program,2017,True
+86,The Amazing Race,Reality Competition Series,2017,False
+87,American Ninja Warrior,Reality Competition Series,2017,False
+88,Project Runway,Reality Competition Series,2017,False
+89,RuPaul’s Drag Race,Reality Competition Series,2017,False
+90,Top Chef,Reality Competition Series,2017,False
+91,The Voice,Reality Competition Series,2017,True
 92,Atlanta,Writing for a Comedy Series,2017,False
 93,Atlanta,Writing for a Comedy Series,2017,False
 94,Master of None,Writing for a Comedy Series,2017,True
@@ -351,12 +351,12 @@
 23,Last Week Tonight with John Oliver,Variety Talk Series,2018,True
 24,The Late Late Show with James Corden,Variety Talk Series,2018,False
 25,The Late Show with Stephen Colbert,Variety Talk Series,2018,False
-26,At Home with Amy Sedaris,Variety Sketch,2018,False
-27,Drunk History,Variety Sketch,2018,False
-28,"I Love You, America",Variety Sketch,2018,False
-29,Portlandia,Variety Sketch,2018,False
-30,Saturday Night Live,Variety Sketch,2018,True
-31,Tracey Ullman’s Show,Variety Sketch,2018,False
+26,At Home with Amy Sedaris,Variety Sketch Series,2018,False
+27,Drunk History,Variety Sketch Series,2018,False
+28,"I Love You, America",Variety Sketch Series,2018,False
+29,Portlandia,Variety Sketch Series,2018,False
+30,Saturday Night Live,Variety Sketch Series,2018,True
+31,Tracey Ullman’s Show,Variety Sketch Series,2018,False
 32,The Amazing Race,Reality Competition Series,2018,False
 33,American Ninja Warrior,Reality Competition Series,2018,False
 34,Project Runway,Reality Competition Series,2018,False
@@ -461,13 +461,13 @@
 133,Insecure,"Lead Actress, Comedy",2018,False
 134,Black-ish,"Lead Actress, Comedy",2018,False
 135,Grace and Frankie,"Lead Actress, Comedy",2018,False
-136,Atlanta,Directing for a Comedy,2018,False
-137,Atlanta,Directing for a Comedy,2018,False
-138,Barry,Directing for a Comedy,2018,False
-139,GLOW,Directing for a Comedy,2018,False
-140,Silicon Valley,Directing for a Comedy,2018,False
-141,The Marvelous Mrs. Maisel,Directing for a Comedy,2018,True
-142,The Big Bang Theory,Directing for a Comedy,2018,False
+136,Atlanta,Directing for a Comedy Series,2018,False
+137,Atlanta,Directing for a Comedy Series,2018,False
+138,Barry,Directing for a Comedy Series,2018,False
+139,GLOW,Directing for a Comedy Series,2018,False
+140,Silicon Valley,Directing for a Comedy Series,2018,False
+141,The Marvelous Mrs. Maisel,Directing for a Comedy Series,2018,True
+142,The Big Bang Theory,Directing for a Comedy Series,2018,False
 143,Atlanta,Writing for a Comedy Series,2018,False
 144,Atlanta,Writing for a Comedy Series,2018,False
 145,Barry,Writing for a Comedy Series,2018,False
@@ -575,12 +575,12 @@
 83,Russian Doll,Writing for a Comedy Series,2019,False
 84,Russian Doll,Writing for a Comedy Series,2019,False
 85,The Good Place,Writing for a Comedy Series,2019,False
-86,Barry,Directing for a Comedy,2019,False
-87,Barry,Directing for a Comedy,2019,False
-88,The Big Bang Theory,Directing for a Comedy,2019,False
-89,Fleabag,Directing for a Comedy,2019,True
-90,The Marvelous Mrs. Maisel,Directing for a Comedy,2019,False
-91,The Marvelous Mrs. Maisel,Directing for a Comedy,2019,False
+86,Barry,Directing for a Comedy Series,2019,False
+87,Barry,Directing for a Comedy Series,2019,False
+88,The Big Bang Theory,Directing for a Comedy Series,2019,False
+89,Fleabag,Directing for a Comedy Series,2019,True
+90,The Marvelous Mrs. Maisel,Directing for a Comedy Series,2019,False
+91,The Marvelous Mrs. Maisel,Directing for a Comedy Series,2019,False
 92,Chernobyl,Limited Series,2019,True
 93,Escape at Dannemora,Limited Series,2019,False
 94,Fosse/Verdon,Limited Series,2019,False
@@ -768,13 +768,13 @@
 120,Schitt’s Creek,"Supporting Actor, Comedy",2020,True
 121,The Marvelous Mrs. Maisel,"Supporting Actor, Comedy",2020,False
 122,Saturday Night Live,"Supporting Actor, Comedy",2020,False
-123,"The Great,",Directing for a Comedy,2020,False
-124,"The Marvelous Mrs. Maisel,",Directing for a Comedy,2020,False
-125,The Marvelous Mrs. Maisel,Directing for a Comedy,2020,False
-126,Modern Family,Directing for a Comedy,2020,False
-127,"Ramy,",Directing for a Comedy,2020,False
-128,Schitt’s Creek,Directing for a Comedy,2020,True
-129,"Will & Grace,",Directing for a Comedy,2020,False
+123,"The Great,",Directing for a Comedy Series,2020,False
+124,"The Marvelous Mrs. Maisel,",Directing for a Comedy Series,2020,False
+125,The Marvelous Mrs. Maisel,Directing for a Comedy Series,2020,False
+126,Modern Family,Directing for a Comedy Series,2020,False
+127,"Ramy,",Directing for a Comedy Series,2020,False
+128,Schitt’s Creek,Directing for a Comedy Series,2020,True
+129,"Will & Grace,",Directing for a Comedy Series,2020,False
 130,"The Good Place,",Writing for a Comedy Series,2020,False
 131,"The Great,",Writing for a Comedy Series,2020,False
 132,"Schitt’s Creek,",Writing for a Comedy Series,2020,True

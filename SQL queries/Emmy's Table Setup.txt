@@ -1,0 +1,7 @@
+CREATE TABLE emmys_data (
+"Index" Int
+,"Title" VARCHAR
+,"Awards" VARCHAR
+,"Year" Int
+,"is_winner" BOOLEAN
+);

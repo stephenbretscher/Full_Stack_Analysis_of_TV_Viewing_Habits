@@ -1,0 +1,13 @@
+Create Table tv_shows_csv (
+"Index" Int primary key
+, "Title" VARCHAR 
+, "Year" Int
+, "Age" VARCHAR
+, "IMDb" Decimal 
+, "Rotten Tomatoes" VARCHAR
+, "Netflix" Int 
+, "Hulu" Int
+, "Prime Video" Int
+, "Disney+" Int
+, "type" Int
+);

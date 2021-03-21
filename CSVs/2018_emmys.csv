@@ -5,7 +5,7 @@
 3,The Handmaid’s Tale,Drama Series,2018,False
 4,Stranger Things,Drama Series,2018,False
 5,This Is Us,Drama Series,2018,False
-6,Westworld,Drama Series,2018,False
+6,estworld,Drama Series,2018,False
 7,Atlanta,Comedy Series,2018,False
 8,Barry,Comedy Series,2018,False
 9,Black-ish,Comedy Series,2018,False
@@ -27,14 +27,14 @@
 25,The Late Show with Stephen Colbert,Variety Talk Series,2018,False
 26,At Home with Amy Sedaris,Variety Sketch,2018,False
 27,Drunk History,Variety Sketch,2018,False
-28,"I Love You, America",Variety Sketch,2018,False
+28,"Love You, America",Variety Sketch,2018,False
 29,Portlandia,Variety Sketch,2018,False
 30,Saturday Night Live,Variety Sketch,2018,True
 31,Tracey Ullman’s Show,Variety Sketch,2018,False
 32,The Amazing Race,Reality Competition Series,2018,False
 33,American Ninja Warrior,Reality Competition Series,2018,False
 34,Project Runway,Reality Competition Series,2018,False
-35,RuPaul’s Drag Race,Reality Competition Series,2018,True
+35,uPaul’s Drag Race,Reality Competition Series,2018,True
 36,Top Chef,Reality Competition Series,2018,False
 37,The Voice,Reality Competition Series,2018,False
 38,The Crown,"Lead Actress, Drama",2018,True
@@ -42,13 +42,13 @@
 40,The Handmaid’s Tale,"Lead Actress, Drama",2018,False
 41,Killing Eve,"Lead Actress, Drama",2018,False
 42,The Americans,"Lead Actress, Drama",2018,False
-43,Westworld,"Lead Actress, Drama",2018,False
+43,estworld,"Lead Actress, Drama",2018,False
 44,Ozark,"Lead Actor, Drama",2018,False
 45,This Is Us,"Lead Actor, Drama",2018,False
-46,Westworld,"Lead Actor, Drama",2018,False
+46,estworld,"Lead Actor, Drama",2018,False
 47,The Americans,"Lead Actor, Drama",2018,True
 48,This Is Us,"Lead Actor, Drama",2018,False
-49,Westworld,"Lead Actor, Drama",2018,False
+49,estworld,"Lead Actor, Drama",2018,False
 50,Game of Thrones,Directing for a Drama,2018,False
 51,Game of Thrones,Directing for a Drama,2018,False
 52,Ozark,Directing for a Drama,2018,False
@@ -67,7 +67,7 @@
 65,The Handmaid’s Tale,"Supporting Actress, Drama",2018,False
 66,Game of Thrones,"Supporting Actress, Drama",2018,False
 67,The Crown,"Supporting Actress, Drama",2018,False
-68,Westworld,"Supporting Actress, Drama",2018,True
+68,estworld,"Supporting Actress, Drama",2018,True
 69,The Handmaid’s Tale,"Supporting Actress, Drama",2018,False
 70,Game of Thrones,"Supporting Actor, Drama",2018,False
 71,Game of Thrones,"Supporting Actor, Drama",2018,True
@@ -81,7 +81,7 @@
 79,Super Bowl LII Halftime Show Starring Justin Timberlake,Directing for a Variety Special,2018,False
 80,The Oscars,Directing for a Variety Special,2018,True
 81,Full Frontal with Samantha Bee Presents: The Great American,Writing for a Variety Special,2018,False
-82,WINNER: John Mulaney: Kid Gorgeous at Radio City,Writing for a Variety Special,2018,True
+82,John Mulaney: Kid Gorgeous at Radio City,Writing for a Variety Special,2018,True
 83,Michelle Wolf: Nice Lady,Writing for a Variety Special,2018,False
 84,Patton Oswalt: Annihilation,Writing for a Variety Special,2018,False
 85,Steve Martin & Martin Short: An Evening You Will Forget for the Rest of Your Life,Writing for a Variety Special,2018,False
@@ -112,7 +112,7 @@
 110,U.S.S. Callister (Black Mirror),Writing for a TV Movie/Limited Series,2018,True
 111,Godless,"Supporting Actor, TV Movie/Limited Series",2018,True
 112,Jesus Christ Superstar Live in Concert,"Supporting Actor, TV Movie/Limited Series",2018,False
-113,Waco,"Supporting Actor, TV Movie/Limited Series",2018,False
+113,aco,"Supporting Actor, TV Movie/Limited Series",2018,False
 114,The Assassination of Gianni Versace: American Crime Story,"Supporting Actor, TV Movie/Limited Series",2018,False
 115,The Assassination of Gianni Versace: American Crime Story,"Supporting Actor, TV Movie/Limited Series",2018,False
 116,The Looming Tower,"Supporting Actor, TV Movie/Limited Series",2018,False
@@ -132,7 +132,7 @@
 130,Better Things,"Lead Actress, Comedy",2018,False
 131,The Marvelous Mrs. Maisel,"Lead Actress, Comedy",2018,True
 132,Mom,"Lead Actress, Comedy",2018,False
-133,Insecure,"Lead Actress, Comedy",2018,False
+133,nsecure,"Lead Actress, Comedy",2018,False
 134,Black-ish,"Lead Actress, Comedy",2018,False
 135,Grace and Frankie,"Lead Actress, Comedy",2018,False
 136,Atlanta,Directing for a Comedy,2018,False
@@ -154,8 +154,8 @@
 152,GLOW,"Supporting Actress, Comedy",2018,False
 153,Saturday Night Live,"Supporting Actress, Comedy",2018,False
 154,Saturday Night Live,"Supporting Actress, Comedy",2018,False
-155,Roseanne,"Supporting Actress, Comedy",2018,False
-156,Will & Grace,"Supporting Actress, Comedy",2018,False
+155,oseanne,"Supporting Actress, Comedy",2018,False
+156,ill & Grace,"Supporting Actress, Comedy",2018,False
 157,Baskets,"Supporting Actor, Comedy",2018,False
 158,Saturday Night Live,"Supporting Actor, Comedy",2018,False
 159,Unbreakable Kimmy Schmidt,"Supporting Actor, Comedy",2018,False

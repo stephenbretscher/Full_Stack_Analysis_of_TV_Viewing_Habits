@@ -1,5 +1,5 @@
 CREATE TABLE emmys_data (
-"Index" Int
+"Index" Int primary key
 ,"Title" VARCHAR
 ,"Awards" VARCHAR
 ,"Year" Int

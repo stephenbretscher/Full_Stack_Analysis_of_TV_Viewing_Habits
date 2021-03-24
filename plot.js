@@ -53,19 +53,19 @@ d3.json("scores_array.json").then((importedData) => {
       };
   
     // data
-    var chartData = [[trace1, trace2, trace3]];
+    var chartData = [trace1, trace2, trace3];
   
     // Apply the group bar mode to the layout
-    // var layout = {
-    //   title: "Greek gods search results",
+     var layout = {
+      title: "Updated Title",
     //   margin: {
     //     l: 100,
     //     r: 100,
     //     t: 100,
     //     b: 100
     //   }
-    // };
+     };
   
     // Render the plot to the div tag with id "plot"
-    Plotly.newPlot("plot", chartData);
+    Plotly.newPlot("plot", chartData, layout);
   });

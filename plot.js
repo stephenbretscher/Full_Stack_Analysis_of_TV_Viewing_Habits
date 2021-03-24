@@ -58,12 +58,17 @@ d3.json("scores_array.json").then((importedData) => {
     // Apply the group bar mode to the layout
      var layout = {
       title: "Updated Title",
-    //   margin: {
-    //     l: 100,
-    //     r: 100,
-    //     t: 100,
-    //     b: 100
-    //   }
+      autosize: false,
+      width: 5000,
+      height: 5000,
+      margin: {
+        l: 150,
+        r: 50,
+        b: 50,
+        t: 50,
+        pad: 4
+     
+      }
      };
   
     // Render the plot to the div tag with id "plot"

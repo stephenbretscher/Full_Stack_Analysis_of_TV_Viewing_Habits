@@ -4,35 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>First Chart</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <title>Comparing Scores</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
-    <div class="jumbotron text-center">
-        <h1>Data Markers for TV Shows that are on Streaming Services</h1>
-
-    </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <h3>Hulu</h3>
-            </div>
-            <div class="col-sm-4">
-                <h3>Netflix</h3>
-            </div>
-            <div class="col-sm-4">
-                <h3>Amazon Prime Video</h3>
-
-            </div>
-           
-        </div>
-    </div>
-
-    <div id="myDiv"></div>
-    <script src="static/js/piePlot.js"></script>
-    <p><a href="timeline2.html"><h2>Interactive Bar Chart</h2> </a></p>
+    <div id="plot"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.9.1/d3.min.js"></script>
+    <script src="plot.js"></script>
+    <script src="scores_array.json"></script>
 </body>
 </html>

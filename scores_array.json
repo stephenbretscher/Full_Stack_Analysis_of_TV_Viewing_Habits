@@ -1,1327 +1,5567 @@
-var data = [
-{
-    "0": {
-        "Index": "0",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "96%",
+[
+    {
+        "": "0",
         "Title": "The Americans",
-        "No": "11"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "1": {
-        "Index": "1",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "1",
         "Title": "Better Call Saul",
-        "No": "17"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "2": {
-        "Index": "2",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "",
+    {
+        "": "2",
         "Title": "Downton Abbey",
-        "No": "4"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "3": {
-        "Index": "3",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "3",
         "Title": "Game of Thrones",
-        "No": "30"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "4": {
-        "Index": "4",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "4",
         "Title": "Homeland",
-        "No": "7"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "5": {
-        "Index": "5",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "78%",
+    {
+        "": "5",
         "Title": "House of Cards",
-        "No": "10"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "6": {
-        "Index": "6",
-        "IMDb": "8.5",
-        "Rotten Tomatoes": "94%",
+    {
+        "": "6",
         "Title": "Mr. Robot",
-        "No": "3"
+        "Awards": "Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "7": {
-        "Index": "7",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "7",
         "Title": "Black-ish",
-        "No": "12"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "8": {
-        "Index": "8",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "100%",
+    {
+        "": "8",
         "Title": "Master of None",
-        "No": "7"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "9": {
-        "Index": "9",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "86%",
+    {
+        "": "9",
         "Title": "Modern Family",
-        "No": "5"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "10": {
-        "Index": "10",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "10",
         "Title": "Silicon Valley",
-        "No": "12"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "11": {
-        "Index": "11",
-        "IMDb": "7.8",
-        "Rotten Tomatoes": "90%",
+    {
+        "": "11",
         "Title": "Transparent",
-        "No": "8"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "12": {
-        "Index": "12",
-        "IMDb": "7.6",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "12",
         "Title": "Unbreakable Kimmy Schmidt",
-        "No": "8"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "13": {
-        "Index": "13",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "13",
         "Title": "Veep",
-        "No": "24"
+        "Awards": "Comedy Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "14": {
-        "Index": "14",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "88%",
+    {
+        "": "14",
+        "Title": "Homeland",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "15",
         "Title": "How to Get Away with Murder",
-        "No": "2"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "15": {
-        "Index": "15",
-        "IMDb": "7.4",
-        "Rotten Tomatoes": "84%",
+    {
+        "": "16",
         "Title": "Empire",
-        "No": "1"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "16": {
-        "Index": "16",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "17",
         "Title": "Orphan Black",
-        "No": "2"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "17": {
-        "Index": "17",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "62%",
+    {
+        "": "18",
+        "Title": "The Americans",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "19",
+        "Title": "House of Cards",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "20",
         "Title": "Bloodline",
-        "No": "2"
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "18": {
-        "Index": "18",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "21",
+        "Title": "Mr. Robot",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "22",
+        "Title": "Better Call Saul",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "23",
+        "Title": "The Americans",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "24",
         "Title": "Ray Donovan",
-        "No": "4"
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "19": {
-        "Index": "19",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "25",
+        "Title": "House of Cards",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "26",
+        "Title": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "27",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "28",
+        "Title": "House of Cards",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "29",
+        "Title": "Bloodline",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "30",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "31",
+        "Title": "Ray Donovan",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "32",
+        "Title": "Downton Abbey",
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "34",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "36",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "38",
+        "Title": "Homeland",
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "40",
         "Title": "The Knick",
-        "No": "1"
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "20": {
-        "Index": "20",
-        "IMDb": "7.9",
-        "Rotten Tomatoes": "86%",
+    {
+        "": "42",
+        "Title": "Ray Donovan",
+        "Awards": "Directing for a Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "43",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "44",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "45",
+        "Title": "Downton Abbey",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "46",
         "Title": "The Affair",
-        "No": "1"
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "21": {
-        "Index": "21",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "47",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "48",
         "Title": "UnReal",
-        "No": "2"
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "22": {
-        "Index": "22",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "94%",
+    {
+        "": "49",
+        "Title": "The Americans",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "50",
+        "Title": "Downton Abbey",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "51",
+        "Title": "Game of Thrones",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "52",
         "Title": "The Good Wife",
-        "No": "1"
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "23": {
-        "Index": "23",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "53",
+        "Title": "Mr. Robot",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "54",
+        "Title": "UnReal",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "55",
         "Title": "Documentary Now",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "24": {
-        "Index": "24",
-        "IMDb": "7.8",
-        "Rotten Tomatoes": "",
+    {
+        "": "56",
         "Title": "Drunk History",
-        "No": "5"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "25": {
-        "Index": "25",
-        "IMDb": "6.0",
-        "Rotten Tomatoes": "86%",
+    {
+        "": "57",
         "Title": "Inside Amy Schumer",
-        "No": "2"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "26": {
-        "Index": "26",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "58",
         "Title": "Key & Peele",
-        "No": "2"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "27": {
-        "Index": "27",
-        "IMDb": "7.8",
-        "Rotten Tomatoes": "94%",
+    {
+        "": "59",
         "Title": "Portlandia",
-        "No": "3"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "28": {
-        "Index": "28",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "",
+    {
+        "": "60",
         "Title": "Saturday Night Live",
-        "No": "20"
+        "Awards": "Variety Sketch Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "29": {
-        "Index": "29",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "61",
         "Title": "58th Grammy Awards",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "30": {
-        "Index": "30",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "62",
         "Title": "Lemonade",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "31": {
-        "Index": "31",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "63",
         "Title": "Grease: Live!",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "32": {
-        "Index": "32",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "64",
         "Title": "Adele Live in New York City",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "33": {
-        "Index": "33",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "65",
         "Title": "Amy Schumer: Live at the Apollo",
-        "No": "2"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "34": {
-        "Index": "34",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "66",
         "Title": "The Kennedy Center Honors",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "35": {
-        "Index": "35",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "",
+    {
+        "": "67",
         "Title": "Comedians in Cars Getting Coffee",
-        "No": "1"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "36": {
-        "Index": "36",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "68",
         "Title": "The Late Late Show with James Corden",
-        "No": "3"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "37": {
-        "Index": "37",
-        "IMDb": "6.6",
-        "Rotten Tomatoes": "",
+    {
+        "": "69",
         "Title": "Jimmy Kimmel Live!",
-        "No": "6"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "38": {
-        "Index": "38",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "70",
         "Title": "Last Week Tonight with John Oliver",
-        "No": "5"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "39": {
-        "Index": "39",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "71",
         "Title": "Real Time with Bill Maher",
-        "No": "2"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "40": {
-        "Index": "40",
-        "IMDb": "7.3",
-        "Rotten Tomatoes": "",
+    {
+        "": "72",
         "Title": "The Tonight Show Starring Jimmy Fallon",
-        "No": "1"
+        "Awards": "Variety Talk Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "41": {
-        "Index": "41",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "73",
+        "Title": "Amy Schumer: Live at the Apollo",
+        "Awards": "Writing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "74",
         "Title": "John Mulaney: The Comeback Kid",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "42": {
-        "Index": "42",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "75",
         "Title": "Patton Oswalt: Talking for Clapping",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "43": {
-        "Index": "43",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "76",
         "Title": "Tig Notaro: Boyish Girl Interrupted",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "44": {
-        "Index": "44",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "77",
         "Title": "Triumph\u2019s Election Special 2016",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "45": {
-        "Index": "45",
-        "IMDb": "7.8",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "78",
         "Title": "American Crime",
-        "No": "6"
+        "Awards": "Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "46": {
-        "Index": "46",
-        "IMDb": "8.9",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "79",
         "Title": "Fargo",
-        "No": "14"
+        "Awards": "Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "47": {
-        "Index": "47",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "91%",
+    {
+        "": "80",
         "Title": "The Night Manager",
-        "No": "6"
+        "Awards": "Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "48": {
-        "Index": "48",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "81",
         "Title": "The People v. O.J. Simpson: American Crime Story",
-        "No": "13"
+        "Awards": "Limited Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "49": {
-        "Index": "49",
-        "IMDb": "7.9",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "82",
         "Title": "Roots",
-        "No": "1"
+        "Awards": "Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "50": {
-        "Index": "50",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "83",
         "Title": "A Very Murray Christmas",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "51": {
-        "Index": "51",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "84",
         "Title": "All the Way",
-        "No": "4"
+        "Awards": "TV Movie",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "52": {
-        "Index": "52",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "85",
         "Title": "Confirmation",
-        "No": "2"
+        "Awards": "TV Movie",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "53": {
-        "Index": "53",
-        "IMDb": "8.5",
-        "Rotten Tomatoes": "88%",
+    {
+        "": "86",
         "Title": "Luther",
-        "No": "2"
+        "Awards": "TV Movie",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "54": {
-        "Index": "54",
-        "IMDb": "9.1",
-        "Rotten Tomatoes": "78%",
+    {
+        "": "87",
         "Title": "Sherlock",
-        "No": "4"
+        "Awards": "Sherlock",
+        "Year": "Sherlock",
+        "is_winner": "Sherlock"
     },
-    "55": {
-        "Index": "55",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "88",
+        "Title": "All the Way",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "89",
+        "Title": "Sherlock",
+        "Awards": "Sherlock",
+        "Year": "Sherlock",
+        "is_winner": "Sherlock"
+    },
+    {
+        "": "90",
+        "Title": "Luther",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "91",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "92",
+        "Title": "The Night Manager",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "93",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "94",
+        "Title": "Fargo",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "95",
+        "Title": "American Crime",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "96",
         "Title": "Lady Day at Emerson\u2019s Bar and Grill",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "56": {
-        "Index": "56",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "",
+    {
+        "": "97",
+        "Title": "American Crime",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "98",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "99",
+        "Title": "Confirmation",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "100",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "101",
+        "Title": "The Night Manager",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "102",
+        "Title": "Fargo",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "103",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "104",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "105",
+        "Title": "Fargo",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "106",
+        "Title": "All the Way",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "107",
+        "Title": "Fargo",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "108",
+        "Title": "The Night Manager",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "109",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "110",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "111",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "112",
         "Title": "American Horror Story",
-        "No": "4"
+        "Awards": "American Horror Story",
+        "Year": "American Horror Story",
+        "is_winner": "American Horror Story"
     },
-    "57": {
-        "Index": "57",
-        "IMDb": "7.6",
-        "Rotten Tomatoes": "",
+    {
+        "": "113",
+        "Title": "The Night Manager",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "114",
+        "Title": "American Crime",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "115",
+        "Title": "All the Way",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "116",
+        "Title": "American Horror Story",
+        "Awards": "American Horror Story",
+        "Year": "American Horror Story",
+        "is_winner": "American Horror Story"
+    },
+    {
+        "": "117",
+        "Title": "Fargo",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "118",
+        "Title": "Fargo",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "119",
+        "Title": "Fargo",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "120",
+        "Title": "The Night Manager",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "121",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "122",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "123",
+        "Title": "The People v. O.J. Simpson: American Crime Story",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "124",
         "Title": "The Amazing Race",
-        "No": "4"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "58": {
-        "Index": "58",
-        "IMDb": "6.8",
-        "Rotten Tomatoes": "",
+    {
+        "": "125",
         "Title": "American Ninja Warrior",
-        "No": "4"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "59": {
-        "Index": "59",
-        "IMDb": "4.4",
-        "Rotten Tomatoes": "",
+    {
+        "": "126",
         "Title": "Dancing with the Stars",
-        "No": "1"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "60": {
-        "Index": "60",
-        "IMDb": "7.3",
-        "Rotten Tomatoes": "",
+    {
+        "": "127",
         "Title": "Project Runway",
-        "No": "3"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "61": {
-        "Index": "61",
-        "IMDb": "7.5",
-        "Rotten Tomatoes": "",
+    {
+        "": "128",
         "Title": "Top Chef",
-        "No": "5"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "62": {
-        "Index": "62",
-        "IMDb": "6.5",
-        "Rotten Tomatoes": "",
+    {
+        "": "129",
         "Title": "The Voice",
-        "No": "5"
+        "Awards": "Reality Competition Series",
+        "Year": "2016",
+        "is_winner": "True"
     },
-    "63": {
-        "Index": "63",
-        "IMDb": "7.3",
-        "Rotten Tomatoes": "84%",
+    {
+        "": "130",
+        "Title": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "131",
+        "Title": "Master of None",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "132",
         "Title": "The Last Man on Earth",
-        "No": "1"
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "64": {
-        "Index": "64",
-        "IMDb": "8.6",
-        "Rotten Tomatoes": "85%",
+    {
+        "": "133",
         "Title": "Shameless",
-        "No": "6"
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "65": {
-        "Index": "65",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "",
+    {
+        "": "134",
+        "Title": "Silicon Valley",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "135",
+        "Title": "Transparent",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "136",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "137",
+        "Title": "Veep",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "138",
         "Title": "Getting On",
-        "No": "2"
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "66": {
-        "Index": "66",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "139",
+        "Title": "Black-ish",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "140",
+        "Title": "Inside Amy Schumer",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "141",
         "Title": "Grace and Frankie",
-        "No": "4"
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "67": {
-        "Index": "67",
-        "IMDb": "7.2",
-        "Rotten Tomatoes": "",
+    {
+        "": "142",
+        "Title": "Master of None",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "143",
+        "Title": "Silicon Valley",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "144",
+        "Title": "Silicon Valley",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "145",
+        "Title": "Transparent",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "146",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "147",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "148",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "149",
+        "Title": "Veep",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "150",
+        "Title": "Transparent",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "151",
         "Title": "Mom",
-        "No": "3"
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "68": {
-        "Index": "68",
-        "IMDb": "8.2",
-        "Rotten Tomatoes": "98%",
+    {
+        "": "152",
+        "Title": "Transparent",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "153",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "154",
+        "Title": "Getting On",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "155",
         "Title": "Catastrophe",
-        "No": "1"
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "69": {
-        "Index": "69",
-        "IMDb": "7.5",
-        "Rotten Tomatoes": "92%",
+    {
+        "": "157",
+        "Title": "Master of None",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "158",
+        "Title": "Silicon Valley",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "159",
+        "Title": "Silicon Valley",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "160",
+        "Title": "Veep",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "161",
+        "Title": "Veep",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "162",
         "Title": "Baskets",
-        "No": "4"
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "70": {
-        "Index": "70",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "163",
         "Title": "Brooklyn Nine-Nine",
-        "No": "2"
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
     },
-    "71": {
-        "Index": "71",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "164",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "165",
+        "Title": "Modern Family",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "166",
+        "Title": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "167",
+        "Title": "Key & Peele",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "168",
+        "Title": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2016",
+        "is_winner": "False"
+    },
+    {
+        "": "0",
+        "Title": "Better Call Saul",
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "1",
         "Title": "The Crown",
-        "No": "17"
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "72": {
-        "Index": "72",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "2",
         "Title": "The Handmaid\u2019s Tale",
-        "No": "19"
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "True"
     },
-    "73": {
-        "Index": "73",
-        "IMDb": "8.8",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "3",
+        "Title": "House of Cards",
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "4",
         "Title": "Stranger Things",
-        "No": "11"
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "74": {
-        "Index": "74",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "92%",
+    {
+        "": "5",
         "Title": "This Is Us",
-        "No": "14"
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "75": {
-        "Index": "75",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "6",
         "Title": "Westworld",
-        "No": "9"
+        "Awards": "Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "76": {
-        "Index": "76",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "7",
+        "Title": "How to Get Away with Murder",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "8",
+        "Title": "The Crown",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "9",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "10",
+        "Title": "The Americans",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "11",
+        "Title": "Westworld",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "12",
+        "Title": "House of Cards",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "13",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "14",
+        "Title": "Westworld",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "15",
+        "Title": "Better Call Saul",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "16",
+        "Title": "The Americans",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "17",
+        "Title": "Ray Donovan",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "18",
+        "Title": "House of Cards",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "19",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "20",
         "Title": "Big Little Lies",
-        "No": "10"
+        "Awards": "Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "77": {
-        "Index": "77",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "21",
+        "Title": "Fargo",
+        "Awards": "Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "22",
         "Title": "Feud: Bette and Joan",
-        "No": "10"
+        "Awards": "Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "78": {
-        "Index": "78",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "70%",
+    {
+        "": "23",
         "Title": "Genius",
-        "No": "3"
+        "Awards": "Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "79": {
-        "Index": "79",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "24",
         "Title": "The Night Of",
-        "No": "8"
+        "Awards": "Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "80": {
-        "Index": "80",
-        "IMDb": "8.8",
-        "Rotten Tomatoes": "83%",
+    {
+        "": "25",
         "Title": "Black Mirror",
-        "No": "6"
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
     },
-    "81": {
-        "Index": "81",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "26",
         "Title": "Dolly Parton\u2019s Christmas of Many Colors",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "82": {
-        "Index": "82",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "27",
         "Title": "The Immortal Life of Henrietta Lacks",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "83": {
-        "Index": "83",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "28",
+        "Title": "Sherlock",
+        "Awards": "Sherlock",
+        "Year": "Sherlock",
+        "is_winner": "Sherlock"
+    },
+    {
+        "": "29",
         "Title": "The Wizard of Lies",
-        "No": "3"
+        "Awards": "TV Movie",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "84": {
-        "Index": "84",
-        "IMDb": "8.6",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "30",
+        "Title": "Fargo",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "31",
+        "Title": "American Crime",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "32",
+        "Title": "Big Little Lies",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "33",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "34",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "35",
+        "Title": "Big Little Lies",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "36",
+        "Title": "The Night Of",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "37",
+        "Title": "Sherlock",
+        "Awards": "Sherlock",
+        "Year": "Sherlock",
+        "is_winner": "Sherlock"
+    },
+    {
+        "": "38",
+        "Title": "The Wizard of Lies",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "39",
+        "Title": "Fargo",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "40",
+        "Title": "Genius",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "41",
+        "Title": "The Night Of",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "42",
         "Title": "Atlanta",
-        "No": "13"
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "85": {
-        "Index": "85",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "43",
+        "Title": "Black-ish",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "44",
+        "Title": "Master of None",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "45",
+        "Title": "Modern Family",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "46",
+        "Title": "Silicon Valley",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "47",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "48",
+        "Title": "Veep",
+        "Awards": "Comedy Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "49",
         "Title": "Better Things",
-        "No": "2"
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "86": {
-        "Index": "86",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "50",
+        "Title": "Grace and Frankie",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "51",
+        "Title": "Mom",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "52",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "53",
+        "Title": "Veep",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "54",
+        "Title": "Black-ish",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "55",
+        "Title": "Grace and Frankie",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "56",
+        "Title": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "57",
+        "Title": "Master of None",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "58",
+        "Title": "Baskets",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "59",
+        "Title": "Atlanta",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "60",
+        "Title": "Shameless",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "61",
+        "Title": "Transparent",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "62",
         "Title": "Full Frontal with Samantha Bee",
-        "No": "6"
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
     },
-    "87": {
-        "Index": "87",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "63",
+        "Title": "Jimmy Kimmel Live!",
+        "Awards": "Variety Talk Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "64",
+        "Title": "Last Week Tonight with John Oliver",
+        "Awards": "Variety Talk Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "65",
+        "Title": "The Late Late Show with James Corden",
+        "Awards": "Variety Talk Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "66",
         "Title": "The Late Show With Stephen Colbert",
-        "No": "6"
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
     },
-    "88": {
-        "Index": "88",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "67",
+        "Title": "Real Time with Bill Maher",
+        "Awards": "Variety Talk Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "68",
+        "Title": "Drunk History",
+        "Awards": "Directing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "69",
+        "Title": "Jimmy Kimmel Live!",
+        "Awards": "Directing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "70",
+        "Title": "Last Week Tonight with John Oliver",
+        "Awards": "Directing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "71",
+        "Title": "The Late Show With Stephen Colbert",
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
+    },
+    {
+        "": "72",
+        "Title": "Saturday Night Live",
+        "Awards": "Directing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "73",
+        "Title": "Big Little Lies",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "74",
+        "Title": "Black Mirror",
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
+    },
+    {
+        "": "75",
+        "Title": "Fargo",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "76",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "77",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "78",
+        "Title": "The Night Of",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "79",
+        "Title": "Better Call Saul",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "80",
+        "Title": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "81",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "82",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "83",
+        "Title": "Homeland",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "84",
+        "Title": "Stranger Things",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "85",
+        "Title": "Westworld",
+        "Awards": "Directing for a Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "86",
+        "Title": "The Amazing Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "87",
+        "Title": "American Ninja Warrior",
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "88",
+        "Title": "Project Runway",
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "89",
         "Title": "RuPaul\u2019s Drag Race",
-        "No": "3"
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "89": {
-        "Index": "89",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "90%",
+    {
+        "": "90",
+        "Title": "Top Chef",
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "91",
+        "Title": "The Voice",
+        "Awards": "Reality Competition Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "92",
+        "Title": "Atlanta",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "93",
+        "Title": "Atlanta",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "94",
+        "Title": "Master of None",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "95",
+        "Title": "Silicon Valley",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "96",
+        "Title": "Veep",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "97",
+        "Title": "Veep",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "98",
         "Title": "Orange Is the New Black",
-        "No": "1"
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "90": {
-        "Index": "90",
-        "IMDb": "6.1",
-        "Rotten Tomatoes": "",
+    {
+        "": "99",
+        "Title": "Stranger Things",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "100",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "101",
+        "Title": "This Is Us",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "102",
+        "Title": "Westworld",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "103",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "104",
+        "Title": "Full Frontal with Samantha Bee",
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
+    },
+    {
+        "": "105",
+        "Title": "Last Week Tonight with John Oliver",
+        "Awards": "Writing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "106",
         "Title": "Late Night with Seth Meyers",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "91": {
-        "Index": "91",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "",
+    {
+        "": "107",
+        "Title": "The Late Show With Stephen Colbert",
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
+    },
+    {
+        "": "108",
+        "Title": "Saturday Night Live",
+        "Awards": "Writing for a Variety Special",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "109",
+        "Title": "The Night Of",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "110",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "111",
+        "Title": "Big Little Lies",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "112",
+        "Title": "Fargo",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "113",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "114",
+        "Title": "The Night Of",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "115",
+        "Title": "Big Little Lies",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "116",
+        "Title": "Fargo",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "117",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "118",
+        "Title": "Genius",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "119",
+        "Title": "The Night Of",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "120",
+        "Title": "The Night Of",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "121",
+        "Title": "Baskets",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "122",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "123",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "124",
+        "Title": "Modern Family",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "125",
+        "Title": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "126",
+        "Title": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "127",
+        "Title": "The Americans",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "128",
+        "Title": "Better Call Saul",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "129",
+        "Title": "The Crown",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "130",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "131",
+        "Title": "Stranger Things",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "132",
+        "Title": "Westworld",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "133",
         "Title": "Billy on the Street",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "92": {
-        "Index": "92",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "94%",
+    {
+        "": "134",
         "Title": "Documentary Now!",
-        "No": "2"
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "93": {
-        "Index": "93",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "135",
+        "Title": "Drunk History",
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "136",
+        "Title": "Portlandia",
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "137",
+        "Title": "Saturday Night Live",
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "138",
         "Title": "Tracy Ullman\u2019s Show",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2017",
+        "is_winner": "False"
     },
-    "94": {
-        "Index": "94",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "139",
+        "Title": "Atlanta",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "140",
+        "Title": "Silicon Valley",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "141",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "142",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "143",
+        "Title": "Veep",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "144",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "145",
+        "Title": "Big Little Lies",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "146",
+        "Title": "Feud: Bette and Joan",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "147",
+        "Title": "American Crime",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "148",
+        "Title": "The Wizard of Lies",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "149",
+        "Title": "Big Little Lies",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "150",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "151",
+        "Title": "Veep",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "152",
+        "Title": "Transparent",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "153",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "154",
+        "Title": "Transparent",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "155",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "156",
+        "Title": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "157",
+        "Title": "This Is Us",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "158",
+        "Title": "Stranger Things",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "159",
+        "Title": "House of Cards",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "160",
+        "Title": "The Crown",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "True"
+    },
+    {
+        "": "161",
+        "Title": "Homeland",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "162",
+        "Title": "Westworld",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2017",
+        "is_winner": "False"
+    },
+    {
+        "": "0",
+        "Title": "The Americans",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "1",
+        "Title": "The Crown",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "2",
+        "Title": "Game of Thrones",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "3",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "4",
+        "Title": "Stranger Things",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "5",
+        "Title": "This Is Us",
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "6",
         "Title": "estworld",
-        "No": "5"
+        "Awards": "Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "95": {
-        "Index": "95",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "7",
+        "Title": "Atlanta",
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "8",
         "Title": "Barry",
-        "No": "15"
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "96": {
-        "Index": "96",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "92%",
+    {
+        "": "9",
+        "Title": "Black-ish",
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "10",
         "Title": "Curb Your Enthusiasm",
-        "No": "3"
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "97": {
-        "Index": "97",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "11",
         "Title": "GLOW",
-        "No": "4"
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "98": {
-        "Index": "98",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "12",
         "Title": "The Marvelous Mrs. Maisel",
-        "No": "20"
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "99": {
-        "Index": "99",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "13",
+        "Title": "Silicon Valley",
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "14",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "15",
         "Title": "The Alienist",
-        "No": "1"
+        "Awards": "Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "100": {
-        "Index": "100",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "16",
         "Title": "The Assassination of Gianni Versace: American Crime Story",
-        "No": "9"
+        "Awards": "Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "101": {
-        "Index": "101",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "17",
         "Title": "Genius: Picasso",
-        "No": "2"
+        "Awards": "Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "102": {
-        "Index": "102",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "85%",
+    {
+        "": "18",
         "Title": "Godless",
-        "No": "6"
+        "Awards": "Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "103": {
-        "Index": "103",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "90%",
+    {
+        "": "19",
         "Title": "Patrick Melrose",
-        "No": "4"
+        "Awards": "Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "104": {
-        "Index": "104",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "20",
         "Title": "The Daily Show with Trevor Noah",
-        "No": "1"
+        "Awards": "Variety Talk Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "105": {
-        "Index": "105",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "21",
+        "Title": "Full Frontal with Samantha Bee",
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
+    },
+    {
+        "": "22",
+        "Title": "Jimmy Kimmel Live!",
+        "Awards": "Variety Talk Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "23",
+        "Title": "Last Week Tonight with John Oliver",
+        "Awards": "Variety Talk Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "24",
+        "Title": "The Late Late Show with James Corden",
+        "Awards": "Variety Talk Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "25",
+        "Title": "The Late Show With Stephen Colbert",
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
+    },
+    {
+        "": "26",
         "Title": "At Home with Amy Sedaris",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "106": {
-        "Index": "106",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "27",
+        "Title": "Drunk History",
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "28",
         "Title": "Love You America",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "107": {
-        "Index": "107",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "29",
+        "Title": "Portlandia",
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "30",
+        "Title": "Saturday Night Live",
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "31",
         "Title": "Tracey Ullman\u2019s Show",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "108": {
-        "Index": "108",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "32",
+        "Title": "The Amazing Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "33",
+        "Title": "American Ninja Warrior",
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "34",
+        "Title": "Project Runway",
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "35",
         "Title": "uPaul\u2019s Drag Race",
-        "No": "1"
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "109": {
-        "Index": "109",
-        "IMDb": "8.3",
-        "Rotten Tomatoes": "90%",
+    {
+        "": "36",
+        "Title": "Top Chef",
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "37",
+        "Title": "The Voice",
+        "Awards": "Reality Competition Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "38",
+        "Title": "The Crown",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "39",
+        "Title": "Orphan Black",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "40",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "41",
         "Title": "Killing Eve",
-        "No": "12"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "110": {
-        "Index": "110",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "81%",
+    {
+        "": "42",
+        "Title": "The Americans",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "43",
+        "Title": "estworld",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "44",
         "Title": "Ozark",
-        "No": "17"
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "111": {
-        "Index": "111",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "45",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "46",
+        "Title": "estworld",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "47",
+        "Title": "The Americans",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "48",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "49",
+        "Title": "estworld",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "50",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "51",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "52",
+        "Title": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "53",
+        "Title": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "54",
+        "Title": "Stranger Things",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "55",
+        "Title": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "56",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Directing for a Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "57",
+        "Title": "Game of Thrones",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "58",
+        "Title": "Killing Eve",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "59",
+        "Title": "Stranger Things",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "60",
+        "Title": "The Americans",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "61",
+        "Title": "The Crown",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "62",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "63",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "64",
+        "Title": "Stranger Things",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "65",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "66",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "67",
+        "Title": "The Crown",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "68",
+        "Title": "estworld",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "69",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "70",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "71",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "72",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "73",
+        "Title": "Stranger Things",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "74",
+        "Title": "Homeland",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "75",
+        "Title": "The Crown",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "76",
         "Title": "Dave Chappelle: Equanimity",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "112": {
-        "Index": "112",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "77",
         "Title": "Jerry Seinfeld: Jerry Before Seinfeld",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "113": {
-        "Index": "113",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "78",
         "Title": "Steve Martin & Martin Short: An Evening You Will Forget for the Rest of Your Life",
-        "No": "2"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "114": {
-        "Index": "114",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "79",
         "Title": "Super Bowl LII Halftime Show Starring Justin Timberlake",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "115": {
-        "Index": "115",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "80",
         "Title": "The Oscars",
-        "No": "1"
+        "Awards": "Directing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "116": {
-        "Index": "116",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "81",
+        "Title": "Full Frontal with Samantha Bee",
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
+    },
+    {
+        "": "82",
         "Title": "John Mulaney: Kid Gorgeous at Radio City",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "117": {
-        "Index": "117",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "83",
         "Title": "Michelle Wolf: Nice Lady",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "118": {
-        "Index": "118",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "84",
         "Title": "Patton Oswalt: Annihilation",
-        "No": "1"
+        "Awards": "Writing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "119": {
-        "Index": "119",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "88%",
+    {
+        "": "85",
+        "Title": "Steve Martin & Martin Short: An Evening You Will Forget for the Rest of Your Life",
+        "Awards": "Writing for a Variety Special",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "86",
+        "Title": "Genius: Picasso",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "87",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "88",
+        "Title": "Patrick Melrose",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "89",
         "Title": "The Looming Tower",
-        "No": "3"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "120": {
-        "Index": "120",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "90",
         "Title": "Jesus Christ Superstar Live in Concert",
-        "No": "4"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "121": {
-        "Index": "121",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "95%",
+    {
+        "": "91",
+        "Title": "Black Mirror",
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
+    },
+    {
+        "": "92",
         "Title": "The Sinner",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "122": {
-        "Index": "122",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "93",
         "Title": "The Tale",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "123": {
-        "Index": "123",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "94",
+        "Title": "Godless",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "95",
         "Title": "Law & Order True Crime: The Menendez Murders",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "124": {
-        "Index": "124",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "77%",
+    {
+        "": "96",
         "Title": "Seven Seconds",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "125": {
-        "Index": "125",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "97",
+        "Title": "American Horror Story",
+        "Awards": "American Horror Story",
+        "Year": "American Horror Story",
+        "is_winner": "American Horror Story"
+    },
+    {
+        "": "98",
+        "Title": "Godless",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "99",
+        "Title": "Jesus Christ Superstar Live in Concert",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "100",
         "Title": "Paterno",
-        "No": "1"
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "126": {
-        "Index": "126",
-        "IMDb": "8.8",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "101",
         "Title": "Twin Peaks",
-        "No": "2"
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "127": {
-        "Index": "127",
-        "IMDb": "8.2",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "102",
+        "Title": "Patrick Melrose",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "103",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "104",
+        "Title": "The Looming Tower",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "105",
         "Title": "American Vandal",
-        "No": "1"
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "128": {
-        "Index": "128",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "106",
+        "Title": "Godless",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "107",
+        "Title": "Patrick Melrose",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "108",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "109",
+        "Title": "Twin Peaks",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "110",
+        "Title": "Black Mirror",
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
+    },
+    {
+        "": "111",
+        "Title": "Godless",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "112",
+        "Title": "Jesus Christ Superstar Live in Concert",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "113",
         "Title": "aco",
-        "No": "1"
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "129": {
-        "Index": "129",
-        "IMDb": "8.2",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "114",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "115",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "116",
+        "Title": "The Looming Tower",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "117",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "118",
+        "Title": "Jesus Christ Superstar Live in Concert",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "119",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "120",
+        "Title": "The Assassination of Gianni Versace: American Crime Story",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "121",
+        "Title": "American Horror Story",
+        "Awards": "American Horror Story",
+        "Year": "American Horror Story",
+        "is_winner": "American Horror Story"
+    },
+    {
+        "": "122",
+        "Title": "Godless",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "123",
+        "Title": "Black Mirror",
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
+    },
+    {
+        "": "124",
+        "Title": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "125",
         "Title": "The Good Place",
-        "No": "9"
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "130": {
-        "Index": "130",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "126",
+        "Title": "Curb Your Enthusiasm",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "127",
+        "Title": "Atlanta",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "128",
+        "Title": "Barry",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "129",
+        "Title": "Shameless",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "130",
+        "Title": "Better Things",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "131",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "132",
+        "Title": "Mom",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "133",
         "Title": "nsecure",
-        "No": "1"
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "131": {
-        "Index": "131",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "134",
+        "Title": "Black-ish",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "135",
+        "Title": "Grace and Frankie",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "136",
+        "Title": "Atlanta",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "137",
+        "Title": "Atlanta",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "138",
+        "Title": "Barry",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "139",
+        "Title": "GLOW",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "140",
+        "Title": "Silicon Valley",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "141",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "142",
         "Title": "The Big Bang Theory",
-        "No": "2"
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "132": {
-        "Index": "132",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "143",
+        "Title": "Atlanta",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "144",
+        "Title": "Atlanta",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "145",
+        "Title": "Barry",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "146",
+        "Title": "Barry",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "147",
+        "Title": "Silicon Valley",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "148",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "149",
+        "Title": "Atlanta",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "150",
         "Title": "The Marvelous  Mrs. Maisel",
-        "No": "1"
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "True"
     },
-    "133": {
-        "Index": "133",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "151",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "152",
+        "Title": "GLOW",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "153",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "154",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "155",
         "Title": "oseanne",
-        "No": "1"
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "134": {
-        "Index": "134",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "156",
         "Title": "ill & Grace",
-        "No": "1"
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
     },
-    "135": {
-        "Index": "135",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "157",
+        "Title": "Baskets",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "158",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "159",
+        "Title": "Unbreakable Kimmy Schmidt",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "160",
+        "Title": "Atlanta",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "161",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "162",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "False"
+    },
+    {
+        "": "163",
+        "Title": "Barry",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2018",
+        "is_winner": "True"
+    },
+    {
+        "": "0",
+        "Title": "Better Call Saul",
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "1",
         "Title": "Bodyguard",
-        "No": "2"
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "136": {
-        "Index": "136",
-        "IMDb": "8.6",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "2",
+        "Title": "Game of Thrones",
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "3",
+        "Title": "Killing Eve",
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "4",
+        "Title": "Ozark",
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "5",
         "Title": "Pose",
-        "No": "3"
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "True"
     },
-    "137": {
-        "Index": "137",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "6",
         "Title": "Succession",
-        "No": "13"
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "138": {
-        "Index": "138",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "7",
+        "Title": "This Is Us",
+        "Awards": "Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "8",
+        "Title": "Ozark",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "9",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "10",
+        "Title": "Game of Thrones",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "11",
+        "Title": "Better Call Saul",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "12",
+        "Title": "Pose",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "13",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "14",
+        "Title": "Game of Thrones",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "15",
+        "Title": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "16",
         "Title": "How to Get Away With Murder",
-        "No": "1"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "139": {
-        "Index": "139",
-        "IMDb": "8.5",
-        "Rotten Tomatoes": "88%",
+    {
+        "": "17",
+        "Title": "Ozark",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "18",
+        "Title": "This Is Us",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "19",
+        "Title": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "20",
+        "Title": "House of Cards",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "21",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "22",
+        "Title": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "23",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "24",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "25",
+        "Title": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "26",
+        "Title": "House of Cards",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "27",
+        "Title": "This Is Us",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "28",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "29",
+        "Title": "Ozark",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "30",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "31",
+        "Title": "Killing Eve",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "32",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "33",
+        "Title": "Game of Thrones",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "34",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "35",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "36",
+        "Title": "Game of Thrones",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "37",
+        "Title": "Killing Eve",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "38",
+        "Title": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "39",
+        "Title": "Succession",
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "40",
         "Title": "The Handmaid's Tale",
-        "No": "1"
+        "Awards": "Directing for a Drama",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "140": {
-        "Index": "140",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "100%",
+    {
+        "": "41",
+        "Title": "Better Call Saul",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "42",
+        "Title": "Bodyguard",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "43",
+        "Title": "Game of Thrones",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "44",
+        "Title": "Killing Eve",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "45",
+        "Title": "Succession",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "46",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "47",
+        "Title": "Barry",
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "48",
         "Title": "Fleabag",
-        "No": "6"
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "True"
     },
-    "141": {
-        "Index": "141",
-        "IMDb": "7.9",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "49",
+        "Title": "The Good Place",
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "50",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "51",
         "Title": "Russian Doll",
-        "No": "4"
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "142": {
-        "Index": "142",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "52",
         "Title": "Schitt\u2019s Creek",
-        "No": "11"
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "143": {
-        "Index": "143",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "53",
+        "Title": "Veep",
+        "Awards": "Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "54",
+        "Title": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "55",
         "Title": "Black Monday",
-        "No": "2"
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "144": {
-        "Index": "144",
-        "IMDb": "8.2",
-        "Rotten Tomatoes": "90%",
+    {
+        "": "56",
+        "Title": "The Good Place",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "57",
         "Title": "The Kominsky Method",
-        "No": "5"
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "145": {
-        "Index": "145",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "91%",
+    {
+        "": "58",
+        "Title": "Barry",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "59",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "60",
         "Title": "Dead to Me",
-        "No": "4"
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "146": {
-        "Index": "146",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "61",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "62",
+        "Title": "Veep",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "63",
+        "Title": "Russian Doll",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "64",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "65",
+        "Title": "Fleabag",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "66",
+        "Title": "The Kominsky Method",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "67",
+        "Title": "Barry",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "68",
+        "Title": "Veep",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "69",
+        "Title": "Barry",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "70",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "71",
+        "Title": "Barry",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "72",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "73",
+        "Title": "Veep",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "74",
+        "Title": "Fleabag",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "75",
+        "Title": "Fleabag",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "76",
         "Title": "Glow",
-        "No": "1"
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "147": {
-        "Index": "147",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "77",
+        "Title": "Barry",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "78",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "79",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "80",
+        "Title": "Barry",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "81",
+        "Title": "Fleabag",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "82",
         "Title": "Pen15",
-        "No": "1"
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "148": {
-        "Index": "148",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "83",
+        "Title": "Russian Doll",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "84",
+        "Title": "Russian Doll",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "85",
+        "Title": "The Good Place",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "86",
+        "Title": "Barry",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "87",
+        "Title": "Barry",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "88",
+        "Title": "The Big Bang Theory",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "89",
+        "Title": "Fleabag",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "90",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "91",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "92",
         "Title": "Chernobyl",
-        "No": "6"
+        "Awards": "Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
     },
-    "149": {
-        "Index": "149",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "93",
         "Title": "Escape at Dannemora",
-        "No": "5"
+        "Awards": "Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "150": {
-        "Index": "150",
-        "IMDb": "7.9",
-        "Rotten Tomatoes": "81%",
+    {
+        "": "94",
         "Title": "Fosse/Verdon",
-        "No": "7"
+        "Awards": "Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "151": {
-        "Index": "151",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "95",
         "Title": "Sharp Objects",
-        "No": "3"
+        "Awards": "Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "152": {
-        "Index": "152",
-        "IMDb": "8.9",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "96",
         "Title": "When They See Us",
-        "No": "11"
+        "Awards": "Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "153": {
-        "Index": "153",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "89%",
+    {
+        "": "97",
+        "Title": "Sharp Objects",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "98",
+        "Title": "Escape at Dannemora",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "99",
+        "Title": "When They See Us",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "100",
         "Title": "The Act",
-        "No": "2"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "154": {
-        "Index": "154",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "101",
+        "Title": "When They See Us",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "102",
+        "Title": "Fosse/Verdon",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "103",
         "Title": "True Detective",
-        "No": "1"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "155": {
-        "Index": "155",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "95%",
+    {
+        "": "104",
+        "Title": "Escape at Dannemora",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "105",
         "Title": "A Very English Scandal",
-        "No": "4"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "156": {
-        "Index": "156",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "106",
+        "Title": "Chernobyl",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "107",
+        "Title": "When They See Us",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "108",
+        "Title": "Fosse/Verdon",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "109",
+        "Title": "When They See Us",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "110",
+        "Title": "Escape at Dannemora",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "111",
+        "Title": "When They See Us",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "112",
+        "Title": "Chernobyl",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "113",
+        "Title": "A Very English Scandal",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "114",
+        "Title": "When They See Us",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "115",
+        "Title": "The Act",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "116",
+        "Title": "When They See Us",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "117",
+        "Title": "Sharp Objects",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "118",
+        "Title": "When They See Us",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "119",
+        "Title": "Fosse/Verdon",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "120",
+        "Title": "Chernobyl",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "121",
+        "Title": "A Very English Scandal",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "122",
+        "Title": "Chernobyl",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "123",
+        "Title": "Escape at Dannemora",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "124",
+        "Title": "Fosse/Verdon",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "125",
+        "Title": "Fosse/Verdon",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "126",
+        "Title": "When They See Us",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "127",
+        "Title": "A Very English Scandal",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "128",
+        "Title": "Chernobyl",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "129",
         "Title": "Escape At Dannemora",
-        "No": "2"
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "157": {
-        "Index": "157",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "130",
+        "Title": "Escape At Dannemora",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "131",
+        "Title": "Fosse/Verdon",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "132",
+        "Title": "When They See Us",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "133",
+        "Title": "Black Mirror",
+        "Awards": "Black Mirror",
+        "Year": "Black Mirror",
+        "is_winner": "Black Mirror"
+    },
+    {
+        "": "134",
         "Title": "Brexit",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "158": {
-        "Index": "158",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "135",
         "Title": "Deadwood: The Movie",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "159": {
-        "Index": "159",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "136",
         "Title": "King Lear",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "160": {
-        "Index": "160",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "137",
         "Title": "My Dinner With Herv\u00e9",
-        "No": "1"
+        "Awards": "TV Movie",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "161": {
-        "Index": "161",
-        "IMDb": "7.4",
-        "Rotten Tomatoes": "98%",
+    {
+        "": "138",
+        "Title": "American Ninja Warrior",
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "139",
         "Title": "Nailed It!",
-        "No": "2"
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "162": {
-        "Index": "162",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "140",
+        "Title": "RuPaul\u2019s Drag Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "141",
+        "Title": "The Amazing Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "142",
+        "Title": "The Voice",
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "143",
+        "Title": "Top Chef",
+        "Awards": "Reality Competition Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "144",
         "Title": "The Daily Show With Trevor Noah",
-        "No": "2"
+        "Awards": "Variety Talk Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "163": {
-        "Index": "163",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "145",
+        "Title": "Full Frontal with Samantha Bee",
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
+    },
+    {
+        "": "146",
+        "Title": "Jimmy Kimmel Live!",
+        "Awards": "Variety Talk Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "147",
         "Title": "Last Week Tonight With John Oliver",
-        "No": "2"
+        "Awards": "Variety Talk Series",
+        "Year": "2019",
+        "is_winner": "True"
     },
-    "164": {
-        "Index": "164",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "148",
         "Title": "The Late Late Show With James Corden",
-        "No": "1"
+        "Awards": "Variety Talk Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "165": {
-        "Index": "165",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "149",
+        "Title": "The Late Show With Stephen Colbert",
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
+    },
+    {
+        "": "150",
         "Title": "At Home With Amy Sedaris",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "166": {
-        "Index": "166",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "151",
+        "Title": "Documentary Now!",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "152",
+        "Title": "Drunk History",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "False"
+    },
+    {
+        "": "153",
         "Title": "I Love You America With Sarah Silverman",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "167": {
-        "Index": "167",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "154",
+        "Title": "Saturday Night Live",
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "True"
+    },
+    {
+        "": "155",
         "Title": "Who Is America?",
-        "No": "1"
+        "Awards": "Variety Sketch Series",
+        "Year": "2019",
+        "is_winner": "False"
     },
-    "168": {
-        "Index": "168",
-        "IMDb": "8.7",
-        "Rotten Tomatoes": "93%",
+    {
+        "": "0",
+        "Title": "Better Call Saul",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "1",
+        "Title": "The Crown",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "2",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "3",
+        "Title": "Killing Eve",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "4",
         "Title": "The Mandalorian",
-        "No": "1"
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "169": {
-        "Index": "169",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "5",
+        "Title": "Ozark",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "6",
+        "Title": "Stranger Things",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "7",
+        "Title": "Succession",
+        "Awards": "Drama Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "8",
+        "Title": "The Crown",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "9",
+        "Title": "Big Little Lies",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "10",
+        "Title": "Ozark",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "11",
+        "Title": "Westworld",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "12",
+        "Title": "Killing Eve",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "13",
+        "Title": "Succession",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "14",
+        "Title": "Big Little Lies",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "15",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "16",
+        "Title": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "17",
         "Title": "The Morning Show",
-        "No": "5"
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "True"
     },
-    "170": {
-        "Index": "170",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "18",
+        "Title": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "19",
+        "Title": "The Morning Show",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "20",
+        "Title": "Better Call Saul",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "21",
+        "Title": "Succession",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "22",
+        "Title": "The Handmaid\u2019s Tale",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "23",
+        "Title": "Westworld",
+        "Awards": "Supporting Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "24",
+        "Title": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "25",
+        "Title": "The Crown",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "26",
+        "Title": "Homeland",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "27",
+        "Title": "The Morning Show",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "28",
+        "Title": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "29",
+        "Title": "Ozark",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "30",
+        "Title": "Succession",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "31",
+        "Title": "Succession",
+        "Awards": "Directing for a Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "32",
+        "Title": "Better Call Saul",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "33",
+        "Title": "Better Call Saul",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "34",
+        "Title": "The Crown",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "35",
+        "Title": "Ozark",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "36",
+        "Title": "Ozark",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "37",
+        "Title": "Ozark",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "38",
+        "Title": "Succession",
+        "Awards": "Writing for a Drama Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "39",
+        "Title": "The Morning Show",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "40",
+        "Title": "The Crown",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "41",
+        "Title": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "42",
+        "Title": "Ozark",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "43",
+        "Title": "Killing Eve",
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "44",
         "Title": "Euphoria",
-        "No": "1"
+        "Awards": "Lead Actress, Drama",
+        "Year": "2020",
+        "is_winner": "True"
     },
-    "171": {
-        "Index": "171",
-        "IMDb": "6.3",
-        "Rotten Tomatoes": "",
+    {
+        "": "45",
+        "Title": "Ozark",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "46",
+        "Title": "This Is Us",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "47",
+        "Title": "The Morning Show",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "48",
+        "Title": "Succession",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "49",
+        "Title": "Pose",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "50",
+        "Title": "Succession",
+        "Awards": "Lead Actor, Drama",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "51",
         "Title": "The Masked Singer",
-        "No": "1"
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "172": {
-        "Index": "172",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "77%",
+    {
+        "": "52",
+        "Title": "Nailed It!",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "53",
+        "Title": "RuPaul\u2019s Drag Race",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "54",
+        "Title": "Top Chef",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "55",
+        "Title": "The Voice",
+        "Awards": "Reality Competition Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "56",
         "Title": "Little Fires Everywhere",
-        "No": "3"
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "173": {
-        "Index": "173",
-        "IMDb": "7.5",
-        "Rotten Tomatoes": "96%",
+    {
+        "": "57",
         "Title": "Mrs. America",
-        "No": "6"
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "174": {
-        "Index": "174",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "58",
         "Title": "Unbelievable",
-        "No": "3"
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "175": {
-        "Index": "175",
-        "IMDb": "8.1",
-        "Rotten Tomatoes": "94%",
+    {
+        "": "59",
         "Title": "Unorthodox",
-        "No": "4"
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "176": {
-        "Index": "176",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "60",
         "Title": "Watchmen",
-        "No": "11"
+        "Awards": "Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
     },
-    "177": {
-        "Index": "177",
-        "IMDb": "7.7",
-        "Rotten Tomatoes": "57%",
+    {
+        "": "61",
+        "Title": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "62",
+        "Title": "Unbelievable",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "63",
+        "Title": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "64",
+        "Title": "Watchmen",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "65",
         "Title": "Hollywood",
-        "No": "4"
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "178": {
-        "Index": "178",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "66",
+        "Title": "Mrs. America",
+        "Awards": "Supporting Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "67",
+        "Title": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "68",
+        "Title": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "69",
         "Title": "Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend",
-        "No": "1"
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "179": {
-        "Index": "179",
-        "IMDb": "8.8",
-        "Rotten Tomatoes": "83%",
+    {
+        "": "70",
+        "Title": "Watchmen",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "71",
+        "Title": "Hollywood",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "72",
+        "Title": "Hollywood",
+        "Awards": "Supporting Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "73",
+        "Title": "Little Fires Everywhere",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "74",
         "Title": "Normal People",
-        "No": "3"
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "180": {
-        "Index": "180",
-        "IMDb": "7.4",
-        "Rotten Tomatoes": "",
+    {
+        "": "75",
+        "Title": "Unorthodox",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "76",
+        "Title": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "77",
+        "Title": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "78",
+        "Title": "Watchmen",
+        "Awards": "Directing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "79",
+        "Title": "Mrs. America",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "80",
+        "Title": "Normal People",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "81",
+        "Title": "Unbelievable",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "82",
+        "Title": "Unorthodox",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "83",
+        "Title": "Watchmen",
+        "Awards": "Writing for a TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "84",
+        "Title": "Watchmen",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "85",
         "Title": "Bad Education",
-        "No": "1"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "181": {
-        "Index": "181",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "86",
+        "Title": "Normal People",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "87",
+        "Title": "Hollywood",
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "88",
         "Title": "I Know This Much Is True",
-        "No": "1"
+        "Awards": "Lead Actor, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
     },
-    "182": {
-        "Index": "182",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "89",
+        "Title": "Mrs. America",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "90",
+        "Title": "Unorthodox",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "91",
+        "Title": "Watchmen",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "92",
         "Title": "Self Made",
-        "No": "1"
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "183": {
-        "Index": "183",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "93",
+        "Title": "Little Fires Everywhere",
+        "Awards": "Lead Actress, TV Movie/Limited Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "94",
+        "Title": "The Daily Show With Trevor Noah",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "95",
+        "Title": "Full Frontal with Samantha Bee",
+        "Awards": "Full Frontal with Samantha Bee",
+        "Year": "Full Frontal with Samantha Bee",
+        "is_winner": "Full Frontal with Samantha Bee"
+    },
+    {
+        "": "96",
+        "Title": "Jimmy Kimmel Live!",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "97",
+        "Title": "Last Week Tonight With John Oliver",
+        "Awards": "Variety Talk Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "98",
+        "Title": "The Late Show With Stephen Colbert",
+        "Awards": "The Late Show With Stephen Colbert",
+        "Year": "The Late Show With Stephen Colbert",
+        "is_winner": "The Late Show With Stephen Colbert"
+    },
+    {
+        "": "99",
+        "Title": "Curb Your Enthusiasm",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "100",
+        "Title": "Dead to Me",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "101",
+        "Title": "The Good Place",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "102",
         "Title": "Insecure",
-        "No": "3"
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "184": {
-        "Index": "184",
-        "IMDb": "8.4",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "103",
+        "Title": "The Kominsky Method",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "104",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "105",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "106",
         "Title": "What We Do in the Shadows",
-        "No": "1"
+        "Awards": "Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "185": {
-        "Index": "185",
-        "IMDb": "8.0",
-        "Rotten Tomatoes": "97%",
+    {
+        "": "107",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "108",
+        "Title": "The Good Place",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "109",
+        "Title": "GLOW",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "110",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "111",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "112",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "113",
+        "Title": "Insecure",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "114",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "115",
         "Title": "Ramy",
-        "No": "3"
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "186": {
-        "Index": "186",
-        "IMDb": "7.8",
-        "Rotten Tomatoes": "81%",
+    {
+        "": "116",
+        "Title": "The Kominsky Method",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "117",
+        "Title": "Brooklyn Nine-Nine",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "118",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "119",
+        "Title": "The Good Place",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "120",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "121",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "122",
+        "Title": "Saturday Night Live",
+        "Awards": "Supporting Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "123",
         "Title": "The Great",
-        "No": "2"
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "187": {
-        "Index": "187",
-        "IMDb": "7.2",
-        "Rotten Tomatoes": "",
+    {
+        "": "124",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "125",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "126",
+        "Title": "Modern Family",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "127",
+        "Title": "Ramy",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "128",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "129",
         "Title": "Will & Grace",
-        "No": "1"
+        "Awards": "Directing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
     },
-    "188": {
-        "Index": "188",
-        "IMDb": "",
-        "Rotten Tomatoes": "",
+    {
+        "": "130",
+        "Title": "The Good Place",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "131",
+        "Title": "The Great",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "132",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "133",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "134",
         "Title": "What We Do In the Shadows",
-        "No": "3"
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "135",
+        "Title": "What We Do In the Shadows",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "136",
+        "Title": "What We Do In the Shadows",
+        "Awards": "Writing for a Comedy Series",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "137",
+        "Title": "Black-ish",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "138",
+        "Title": "Black Monday",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "139",
+        "Title": "The Good Place",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "140",
+        "Title": "The Kominsky Method",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "141",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "142",
+        "Title": "Ramy",
+        "Awards": "Lead Actor, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "143",
+        "Title": "Dead to Me",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "144",
+        "Title": "The Marvelous Mrs. Maisel",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "145",
+        "Title": "Dead to Me",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "146",
+        "Title": "Schitt\u2019s Creek",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "True"
+    },
+    {
+        "": "147",
+        "Title": "Insecure",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
+    },
+    {
+        "": "148",
+        "Title": "Black-ish",
+        "Awards": "Lead Actress, Comedy",
+        "Year": "2020",
+        "is_winner": "False"
     }
-}
-];
+]

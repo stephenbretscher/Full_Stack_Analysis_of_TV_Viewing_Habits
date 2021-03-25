@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</head>
+<body>
+
+    <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+
+    <script>
+        var xValues = ["Network_2016", "Stream_2016", "Network_2017", "Stream_2017", "Network_2018", "Stream_2018", "Network_2019", "Stream_2019", "Network_2020", "Stream_2020"];
+        var yValues = [7, 5, 16, 13, 14, 15, 12, 13, 13, 9];
+        var barColors = ["purple", "gold", "purple", "gold", "purple", "gold","purple", "gold", "purple", "gold",];
+
+        new Chart("myChart", {
+            type: "bar",
+            data: {
+                labels: xValues,
+                datasets: [{
+                    backgroundColor: barColors,
+                    data: yValues
+                }]
+            },
+            options: {
+                legend: { display: false },
+                title: {
+                    display: true,
+                    text: "Emmys Won between Network vs Stream APP 2016 vs 2020"
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>

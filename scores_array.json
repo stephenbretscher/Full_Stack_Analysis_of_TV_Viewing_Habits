@@ -16,14 +16,14 @@
     {
         "Index": "2",
         "IMDb": "8.7",
-        "Rotten_Tomatoes": "",
+        "Rotten_Tomatoes": "8.4",
         "Title": "Downton Abbey",
         "No": "4"
     },
     {
         "Index": "3",
-        "IMDb": "",
-        "Rotten_Tomatoes": "",
+        "IMDb": "9.3",
+        "Rotten_Tomatoes": "8.9",
         "Title": "Game of Thrones",
         "No": "30"
     },
@@ -505,8 +505,8 @@
     },
     {
         "Index": "72",
-        "IMDb": "",
-        "Rotten_Tomatoes": "",
+        "IMDb": "8.4",
+        "Rotten_Tomatoes": "8.8",
         "Title": "The Handmaid\u2019s Tale",
         "No": "19"
     },
@@ -666,8 +666,8 @@
     },
     {
         "Index": "95",
-        "IMDb": "",
-        "Rotten_Tomatoes": "",
+        "IMDb": "8.3",
+        "Rotten_Tomatoes": "9.9",
         "Title": "Barry",
         "No": "15"
     },

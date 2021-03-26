@@ -26,8 +26,8 @@ d3.json("scores_array.json").then((importedData) => {
   
     // Trace1 for the Greek Data
     var trace1 = {
-      x: data.map(row => row.No),
-      y: data.map(row => row.Title),
+      x: data.map(row => row.No).slice(0,10),
+      y: data.map(row => row.Title).slice(0,10),
       text: data.map(row => row.No),
       name: "Emmys",
       type: "bar",
@@ -35,8 +35,8 @@ d3.json("scores_array.json").then((importedData) => {
     };
 
     var trace2 = {
-        x: data.map(row => row.Rotten_Tomatoes),
-        y: data.map(row => row.Title),
+        x: data.map(row => row.Rotten_Tomatoes).slice(0,10),
+        y: data.map(row => row.Title).slice(0,10),
         text: data.map(row => row.Rotten_Tomatoes),
         name: "Rotten Tomato Score",
         type: "bar",
@@ -44,8 +44,8 @@ d3.json("scores_array.json").then((importedData) => {
       };
 
       var trace3 = {
-        x: data.map(row => row.IMDb),
-        y: data.map(row => row.Title),
+        x: data.map(row => row.IMDb).slice(0,10),
+        y: data.map(row => row.Title).slice(0,10),
         text: data.map(row => row.IMDb),
         name: "IMDb Score",
         type: "bar",
@@ -57,10 +57,10 @@ d3.json("scores_array.json").then((importedData) => {
   
     // Apply the group bar mode to the layout
      var layout = {
-      title: "Updated Title",
+      title: "Emmy's Won by Rating",
       autosize: false,
-      width: 5000,
-      height: 5000,
+      width: 1000,
+      height: 1000,
       margin: {
         l: 150,
         r: 50,

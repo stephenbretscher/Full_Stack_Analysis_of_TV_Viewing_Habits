@@ -1,190 +1,173 @@
-Index,IMDb,Rotten_Tomatoes,Title,No
-0,8.4,9.6,The Americans,11
-1,8.7,9.7,Better Call Saul,17
-2,8.7,,Downton Abbey,4
-3,,,Game of Thrones,30
-4,,,Homeland,7
-5,8.7,7.800000000000001,House of Cards,10
-6,8.5,9.399999999999999,Mr. Robot,3
-7,,,Black-ish,12
-8,8.3,10.0,Master of None,7
-9,8.4,8.6,Modern Family,5
-10,,,Silicon Valley,12
-11,7.8,9.0,Transparent,8
-12,7.6,9.6,Unbreakable Kimmy Schmidt,8
-13,8.3,9.3,Veep,24
-14,8.1,8.8,How to Get Away with Murder,2
-15,7.4,8.4,Empire,1
-16,8.3,9.3,Orphan Black,2
-17,8.0,6.2,Bloodline,2
-18,,,Ray Donovan,4
-19,,,The Knick,1
-20,7.9,8.6,The Affair,1
-21,,,UnReal,2
-22,8.3,9.399999999999999,The Good Wife,1
-23,,,Documentary Now,1
-24,7.8,,Drunk History,5
-25,6.0,8.6,Inside Amy Schumer,2
-26,8.3,9.7,Key & Peele,2
-27,7.8,9.399999999999999,Portlandia,3
-28,8.1,,Saturday Night Live,20
-29,,,58th Grammy Awards,1
-30,,,Lemonade,1
-31,,,Grease: Live!,1
-32,,,Adele Live in New York City,1
-33,,,Amy Schumer: Live at the Apollo,2
-34,,,The Kennedy Center Honors,1
-35,8.1,,Comedians in Cars Getting Coffee,1
-36,,,The Late Late Show with James Corden,3
-37,6.6,,Jimmy Kimmel Live!,6
-38,,,Last Week Tonight with John Oliver,5
-39,,,Real Time with Bill Maher,2
-40,7.3,,The Tonight Show Starring Jimmy Fallon,1
-41,,,John Mulaney: The Comeback Kid,1
-42,,,Patton Oswalt: Talking for Clapping,1
-43,,,Tig Notaro: Boyish Girl Interrupted,1
-44,,,Triumph’s Election Special 2016,1
-45,7.8,9.7,American Crime,6
-46,8.9,9.6,Fargo,14
-47,8.1,9.1,The Night Manager,6
-48,,,The People v. O.J. Simpson: American Crime Story,13
-49,7.9,9.6,Roots,1
-50,,,A Very Murray Christmas,1
-51,,,All the Way,4
-52,,,Confirmation,2
-53,8.5,8.8,Luther,2
-54,9.1,7.800000000000001,Sherlock,4
-55,,,Lady Day at Emerson’s Bar and Grill,1
-56,8.0,,American Horror Story,4
-57,7.6,,The Amazing Race,4
-58,6.8,,American Ninja Warrior,4
-59,4.4,,Dancing with the Stars,1
-60,7.3,,Project Runway,3
-61,7.5,,Top Chef,5
-62,6.5,,The Voice,5
-63,7.3,8.4,The Last Man on Earth,1
-64,8.6,8.5,Shameless,6
-65,8.1,,Getting On,2
-66,8.3,8.9,Grace and Frankie,4
-67,7.2,,Mom,3
-68,8.2,9.8,Catastrophe,1
-69,7.5,9.200000000000001,Baskets,4
-70,8.4,9.7,Brooklyn Nine-Nine,2
-71,8.7,8.9,The Crown,17
-72,,,The Handmaid’s Tale,19
-73,8.8,9.3,Stranger Things,11
-74,8.7,9.200000000000001,This Is Us,14
-75,,,Westworld,9
-76,,,Big Little Lies,10
-77,,,Feud: Bette and Joan,10
-78,8.4,7.0,Genius,3
-79,,,The Night Of,8
-80,8.8,8.299999999999999,Black Mirror,6
-81,,,Dolly Parton’s Christmas of Many Colors,1
-82,,,The Immortal Life of Henrietta Lacks,1
-83,,,The Wizard of Lies,3
-84,8.6,9.7,Atlanta,13
-85,7.7,9.7,Better Things,2
-86,,,Full Frontal with Samantha Bee,6
-87,,,The Late Show With Stephen Colbert,6
-88,,,RuPaul’s Drag Race,3
-89,8.1,9.0,Orange Is the New Black,1
-90,6.1,,Late Night with Seth Meyers,1
-91,7.7,,Billy on the Street,1
-92,8.1,9.399999999999999,Documentary Now!,2
-93,,,Tracy Ullman’s Show,1
-94,,,estworld,5
-95,,,Barry,15
-96,8.7,9.200000000000001,Curb Your Enthusiasm,3
-97,8.0,9.3,GLOW,4
-98,8.7,8.9,The Marvelous Mrs. Maisel,20
-99,,,The Alienist,1
-100,,,The Assassination of Gianni Versace: American Crime Story,9
-101,,,Genius: Picasso,2
-102,8.3,8.5,Godless,6
-103,8.1,9.0,Patrick Melrose,4
-104,,,The Daily Show with Trevor Noah,1
-105,,,At Home with Amy Sedaris,1
-106,,,Love You America,1
-107,,,Tracey Ullman’s Show,1
-108,,,uPaul’s Drag Race,1
-109,8.3,9.0,Killing Eve,12
-110,8.4,8.100000000000001,Ozark,17
-111,,,Dave Chappelle: Equanimity,1
-112,,,Jerry Seinfeld: Jerry Before Seinfeld,1
-113,,,Steve Martin & Martin Short: An Evening You Will Forget for the Rest of Your Life,2
-114,,,Super Bowl LII Halftime Show Starring Justin Timberlake,1
-115,,,The Oscars,1
-116,,,John Mulaney: Kid Gorgeous at Radio City,1
-117,,,Michelle Wolf: Nice Lady,1
-118,,,Patton Oswalt: Annihilation,1
-119,8.0,8.8,The Looming Tower,3
-120,,,Jesus Christ Superstar Live in Concert,4
-121,8.0,9.5,The Sinner,1
-122,,,The Tale,1
-123,,,Law & Order True Crime: The Menendez Murders,1
-124,7.7,7.7,Seven Seconds,1
-125,,,Paterno,1
-126,8.8,8.9,Twin Peaks,2
-127,8.2,9.7,American Vandal,1
-128,,,aco,1
-129,8.2,9.7,The Good Place,9
-130,,,nsecure,1
-131,,,The Big Bang Theory,2
-132,,,The Marvelous  Mrs. Maisel,1
-133,,,oseanne,1
-134,,,ill & Grace,1
-135,8.1,9.3,Bodyguard,2
-136,8.6,9.6,Pose,3
-137,,,Succession,13
-138,,,How to Get Away With Murder,1
-139,8.5,8.8,The Handmaid's Tale,1
-140,8.7,10.0,Fleabag,6
-141,7.9,9.6,Russian Doll,4
-142,,,Schitt’s Creek,11
-143,,,Black Monday,2
-144,8.2,9.0,The Kominsky Method,5
-145,8.1,9.1,Dead to Me,4
-146,,,Glow,1
-147,,,Pen15,1
-148,,,Chernobyl,6
-149,8.0,8.9,Escape at Dannemora,5
-150,7.9,8.100000000000001,Fosse/Verdon,7
-151,,,Sharp Objects,3
-152,8.9,9.6,When They See Us,11
-153,8.0,8.9,The Act,2
-154,,,True Detective,1
-155,7.7,9.5,A Very English Scandal,4
-156,,,Escape At Dannemora,2
-157,,,Brexit,1
-158,,,Deadwood: The Movie,1
-159,,,King Lear,1
-160,,,My Dinner With Hervé,1
-161,7.4,9.8,Nailed It!,2
-162,,,The Daily Show With Trevor Noah,2
-163,,,Last Week Tonight With John Oliver,2
-164,,,The Late Late Show With James Corden,1
-165,,,At Home With Amy Sedaris,1
-166,,,I Love You America With Sarah Silverman,1
-167,,,Who Is America?,1
-168,8.7,9.3,The Mandalorian,1
-169,,,The Morning Show,5
-170,,,Euphoria,1
-171,6.3,,The Masked Singer,1
-172,7.7,7.7,Little Fires Everywhere,3
-173,7.5,9.6,Mrs. America,6
-174,8.4,9.7,Unbelievable,3
-175,8.1,9.399999999999999,Unorthodox,4
-176,,,Watchmen,11
-177,7.7,5.699999999999999,Hollywood,4
-178,,,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,1
-179,8.8,8.299999999999999,Normal People,3
-180,7.4,,Bad Education,1
-181,,,I Know This Much Is True,1
-182,,,Self Made,1
-183,,,Insecure,3
-184,8.4,9.7,What We Do in the Shadows,1
-185,8.0,9.7,Ramy,3
-186,7.8,8.100000000000001,The Great,2
-187,7.2,,Will & Grace,1
-188,,,What We Do In the Shadows,3
+Index,Title,No,IMDb,Rotten_Tomatoes
+0,game of thrones,30,,
+1,veep,24,8.3,9.3
+2,the marvelous mrs maisel,21,,
+3,saturday night live,20,8.1,
+4,handmaid's tale,20,,
+5,better call saul,17,8.7,9.7
+6,ozark,17,8.4,8.100000000000001
+7,the crown,17,8.7,8.9
+8,barry,15,,
+9,fargo,14,8.9,9.6
+10,westworld,14,,
+11,this is us,14,8.7,9.200000000000001
+12,the people v. o.j. simpson: american crime story,13,,
+13,succession,13,,
+14,atlanta,13,8.6,9.7
+15,silicon valley,12,,
+16,black-ish,12,7.1,9.1
+17,killing eve,12,8.3,9.0
+18,schitt’s creek,11,,
+19,stranger things,11,8.8,9.3
+20,when they see us,11,8.9,9.6
+21,watchmen,11,,
+22,the americans,11,8.4,9.6
+23,house of cards,10,8.7,7.800000000000001
+24,feud: bette and joan,10,,
+25,big little lies,10,,
+26,the good place,9,8.2,9.7
+27,unbreakable kimmy schmidt,9,7.6,9.6
+28,the assassination of gianni versace: american crime story,9,,
+29,transparent,8,7.8,9.0
+30,the night of,8,,
+31,master of none,7,8.3,10.0
+32,fosse/verdon,7,7.9,8.100000000000001
+33,homeland,7,,
+34,last week tonight with john oliver,7,,
+35,escape at dannemora,7,8.0,8.9
+36,chernobyl,6,,
+37,godless,6,8.3,8.5
+38,full frontal with samantha bee,6,,
+39,the night manager,6,8.1,9.1
+40,american crime,6,7.8,9.7
+41,black mirror,6,8.8,8.299999999999999
+42,the late show with stephen colbert,6,,
+43,mrs. america,6,7.5,9.6
+44,fleabag,6,8.7,10.0
+45,jimmy kimmel live!,6,6.6,
+46,the morning show,5,,
+47,drunk history,5,7.8,
+48,glow,5,8.0,9.3
+49,top chef,5,7.5,
+50,the kominsky method,5,8.2,9.0
+51,the voice,5,6.5,
+52,modern family,5,8.4,8.6
+53,hollywood,4,7.7,5.699999999999999
+54,the amazing race,4,7.6,
+55,baskets,4,7.5,9.200000000000001
+56,sherlock,4,9.1,7.800000000000001
+57,jesus christ superstar live in concert,4,,
+58,american horror story,4,8.0,
+59,all the way,4,,
+60,a very english scandal,4,7.7,9.5
+61,american ninja warrior,4,6.8,
+62,dead to me,4,8.1,9.1
+63,russian doll,4,7.9,9.6
+64,patrick melrose,4,8.1,9.0
+65,the late late show with james corden,4,,
+66,downton abbey,4,8.7,
+67,what we do in the shadows,4,8.4,9.7
+68,ray donovan,4,,
+69,grace and frankie,4,8.3,8.9
+70,unorthodox,4,8.1,9.399999999999999
+71,rupauls drag race,4,,
+72,insecure,4,,
+73,unbelievable,3,8.4,9.7
+74,mr. robot,3,8.5,9.399999999999999
+75,ramy,3,8.0,9.7
+76,the wizard of lies,3,,
+77,sharp objects,3,,
+78,curb your enthusiasm,3,8.7,9.200000000000001
+79,project runway,3,7.3,
+80,genius,3,8.4,7.0
+81,how to get away with murder,3,8.1,8.8
+82,little fires everywhere,3,7.7,7.7
+83,mom,3,7.2,
+84,shameless,3,8.6,8.5
+86,normal people,3,8.8,8.299999999999999
+87,portlandia,3,7.8,9.399999999999999
+88,pose,3,8.6,9.6
+89,the looming tower,3,8.0,8.8
+90,the daily show with trevor noah,3,,
+91,black monday,2,,
+92,will & grace,2,7.2,
+93,john mulaney special,2,,
+94,amy schumer: live at the apollo,2,,
+95,the big bang theory,2,,
+96,bloodline,2,8.0,6.2
+97,better things,2,7.7,9.7
+98,bodyguard,2,8.1,9.3
+99,tracy ullman show,2,,
+100,inside amy schumer,2,6.0,8.6
+101,confirmation,2,,
+102,at home with amy sedaris,2,,
+103,orphan black,2,8.3,9.3
+104,the great,2,7.8,8.100000000000001
+105,documentary now!,2,8.1,9.399999999999999
+106,getting on,2,8.1,
+107,nailed it!,2,7.4,9.8
+108,twin peaks,2,8.8,8.9
+109,key & peele,2,8.3,9.7
+110,brooklyn nine-nine,2,8.4,9.7
+111,genius: picasso,2,,
+112,unreal,2,7.8,8.2
+113,real time with bill maher,2,,
+114,luther,2,8.5,8.8
+115,steve martin & martin short: an evening you will forget for the rest of your life,2,,
+116,the act,2,8.0,8.9
+117,my dinner with hervé,1,,
+118,the good wife,1,8.3,9.399999999999999
+119,triumph’s election special 2016,1,,
+120,michelle wolf: nice lady,1,,
+121,a very murray christmas,1,,
+122,the tale,1,,
+123,seven seconds,1,7.7,7.7
+124,american vandal,1,8.2,9.7
+125,the masked singer,1,6.3,
+126,i know this much is true,1,,
+127,dave chappelle: equanimity,1,,
+128,dancing with the stars,1,4.4,
+129,self made,1,,
+130,waco,1,7.9,6.800000000000001
+131,king lear,1,,
+132,grease: live!,1,,
+133,law & order true crime: the menendez murders,1,,
+134,the affair,1,7.9,8.6
+135,the oscars,1,,
+136,deadwood: the movie,1,,
+137,the kennedy center honors,1,,
+138,euphoria,1,,
+139,super bowl lii halftime show starring justin timberlake,1,,
+140,the alienist,1,,
+141,the last man on earth,1,7.3,8.4
+142,who is america?,1,,
+143,love you america,1,,
+144,oseanne,1,,
+145,lemonade,1,,
+146,orange is the new black,1,8.1,9.0
+147,tig notaro: boyish girl interrupted,1,,
+148,patton oswalt: talking for clapping,1,,
+149,the immortal life of henrietta lacks,1,,
+150,the tonight show starring jimmy fallon,1,7.3,
+151,late night with seth meyers,1,6.1,
+152,paterno,1,,
+153,dolly parton’s christmas of many colors,1,,
+154,adele live in new york city,1,,
+155,catastrophe,1,8.2,9.8
+156,the mandalorian,1,8.7,9.3
+157,the sinner,1,8.0,9.5
+158,documentary now,1,,
+159,empire,1,7.4,8.4
+160,brexit,1,,
+161,roots,1,7.9,9.6
+162,comedians in cars getting coffee,1,8.1,
+163,true detective,1,,
+164,58th grammy awards,1,,
+165,lady day at emerson’s bar and grill,1,,
+166,patton oswalt: annihilation,1,,
+167,billy on the street,1,7.7,
+168,i love you america with sarah silverman,1,,
+169,bad education,1,7.4,
+170,pen15,1,7.9,9.3
+171,the knick,1,,
+172,jerry seinfeld: jerry before seinfeld,1,,

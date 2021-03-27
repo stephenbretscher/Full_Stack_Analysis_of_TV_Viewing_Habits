@@ -1,0 +1,30 @@
+CREATE TABLE "combined_scores" (
+    "index" int primary key,
+    "title" VARCHAR,
+    "channel" VARCHAR,
+    "no" Int,
+    "imdb" dec,
+    "rotten_tomatoes" dec ,
+);
+
+CREATE TABLE "emmys_mega_channels" (
+    "index" int primary key,
+    "title" VARCHAR,
+    "awards" VARCHAR,
+    "year" int,
+    "is_winner" Boolean,
+    "channel" Varchar
+);
+
+CREATE TABLE "platforms_whole" (
+    "id" int primary key,
+    "show_title" VARCHAR ,
+    "show_year" int ,
+    "imdb_rating" decimal,
+    "reel_rating" int ,
+    "prime" Boolean ,
+    "netflix" Boolean,
+    "disney" Boolean ,
+    "hulu" Boolean 
+
+);

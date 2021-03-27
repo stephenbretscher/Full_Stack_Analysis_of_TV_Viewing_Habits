@@ -4,7 +4,7 @@ CREATE TABLE "combined_scores" (
     "channel" VARCHAR,
     "no" Int,
     "imdb" dec,
-    "rotten_tomatoes" dec ,
+    "rotten_tomatoes" dec 
 );
 
 CREATE TABLE "emmys_mega_channels" (

@@ -1,173 +1,173 @@
-Index,Title,No,IMDb,Rotten_Tomatoes
-0,game of thrones,30,9.3,8.9
-1,veep,24,8.3,9.3
-2,the marvelous mrs maisel,21,8.7,8.8
-3,saturday night live,20,8.1,
-4,handmaid's tale,20,8.4,8.8
-5,better call saul,17,8.7,9.7
-6,ozark,17,8.4,8.1
-7,the crown,17,8.7,8.9
-8,barry,15,8.3,9.9
-9,fargo,14,8.9,9.6
-10,westworld,14,8.6,8.7
-11,this is us,14,8.7,9.2
-12,the people v. o.j. simpson: american crime story,13,8.4,9.3
-13,succession,13,8.6,9.2
-14,atlanta,13,8.6,9.7
-15,silicon valley,12,8.5,9.4
-16,black-ish,12,7.1,9.1
-17,killing eve,12,8.3,9
-18,schitt’s creek,11,8.5,9.3
-19,stranger things,11,8.8,9.3
-20,when they see us,11,8.9,9.6
-21,watchmen,11,8.1,9.6
-22,the americans,11,8.4,9.6
-23,house of cards,10,8.7,7.8
-24,feud: bette and joan,10,8.5,9.1
-25,big little lies,10,8.5,8.9
-26,the good place,9,8.2,9.7
-27,unbreakable kimmy schmidt,9,7.6,9.6
-28,the assassination of gianni versace: american crime story,9,8.4,8.9
-29,transparent,8,7.8,9
-30,the night of,8,8.5,9.4
-31,master of none,7,8.3,10
-32,fosse/verdon,7,7.9,8.1
-33,homeland,7,8.3,8.5
-34,last week tonight with john oliver,7,8.9,9.8
-35,escape at dannemora,7,8,8.9
-36,chernobyl,6,9.4,9.6
-37,godless,6,8.3,8.5
-38,full frontal with samantha bee,6,5.7,1
-39,the night manager,6,8.1,9.1
-40,american crime,6,7.8,9.7
-41,black mirror,6,8.8,8.3
-42,the late show with stephen colbert,6,7.2,
-43,mrs. america,6,7.5,9.6
-44,fleabag,6,8.7,10
-45,jimmy kimmel live!,6,6.6,
-46,the morning show,5,8.4,6.1
-47,drunk history,5,7.8,5.9
-48,glow,5,8,9.3
-49,top chef,5,7.5,
-50,the kominsky method,5,8.2,9
-51,the voice,5,6.5,
-52,modern family,5,8.4,8.6
-53,hollywood,4,7.7,5.7
-54,the amazing race,4,7.6,7.2
-55,baskets,4,7.5,9.2
-56,sherlock,4,9.1,7.8
-57,jesus christ superstar live in concert,4,7.7,1
-58,american horror story,4,8,7.6
-59,all the way,4,7.3,8.7
-60,a very english scandal,4,7.7,9.5
-61,american ninja warrior,4,6.8,
-62,dead to me,4,8.1,9.1
-63,russian doll,4,7.9,9.6
-64,patrick melrose,4,8.1,9
-65,the late late show with james corden,4,6.1,
-66,downton abbey,4,8.7,8.6
-67,what we do in the shadows,4,8.4,9.7
-68,ray donovan,4,8.3,7.2
-69,grace and frankie,4,8.3,8.9
-70,unorthodox,4,8.1,9.4
-71,rupauls drag race,4,8.5,8.3
-72,insecure,4,7.9,9.6
-73,unbelievable,3,8.4,9.7
-74,mr. robot,3,8.5,9.4
-75,ramy,3,8,9.7
-76,the wizard of lies,3,6.8,7.3
-77,sharp objects,3,8.1,9.2
-78,curb your enthusiasm,3,8.7,9.2
-79,project runway,3,7.3,
-80,genius,3,8.4,7
-81,how to get away with murder,3,8.1,8.8
-82,little fires everywhere,3,7.7,7.7
-83,mom,3,7.2,
-84,shameless,3,8.6,8.5
-86,normal people,3,8.8,8.3
-87,portlandia,3,7.8,9.4
-88,pose,3,8.6,9.6
-89,the looming tower,3,8,8.8
-90,the daily show with trevor noah,3,4.9,
-91,black monday,2,7.5,6.8
-92,will & grace,2,7.2,
-93,john mulaney special,2,8,1
-94,amy schumer: live at the apollo,2,5.5,9
-95,the big bang theory,2,8.1,8.1
-96,bloodline,2,8,6.2
-97,better things,2,7.7,9.7
-98,bodyguard,2,8.1,9.3
-99,tracy ullman show,2,7,9.5
-100,inside amy schumer,2,6,8.6
-101,confirmation,2,6.8,8.3
-102,at home with amy sedaris,2,7.7,1
-103,orphan black,2,8.3,9.3
-104,the great,2,7.8,8.1
-105,documentary now!,2,8.1,9.4
-106,getting on,2,8.1,9.2
-107,nailed it!,2,7.4,9.8
-108,twin peaks,2,8.8,8.9
-109,key & peele,2,8.3,9.7
-110,brooklyn nine-nine,2,8.4,9.7
-111,genius: picasso,2,8.4,7.1
-112,unreal,2,7.8,8.2
-113,real time with bill maher,2,7.4,
-114,luther,2,8.5,8.8
-115,steve martin & martin short: an evening you will forget for the rest of your life,2,7.1,1
-116,the act,2,8,8.9
-117,my dinner with hervé,1,7,8.3
-118,the good wife,1,8.3,9.4
-119,triumph’s election special 2016,1,,
-120,michelle wolf: nice lady,1,6.7,1
-121,a very murray christmas,1,5.5,6.8s
-122,the tale,1,7.3,9.9
-123,seven seconds,1,7.7,7.7
-124,american vandal,1,8.2,9.7
-125,the masked singer,1,6.3,
-126,i know this much is true,1,8.2,7.4
-127,dave chappelle: equanimity,1,8.2,6.9
-128,dancing with the stars,1,4.4,
-129,self made,1,7.3,6.8
-130,waco,1,7.9,6.8
-131,king lear,1,6.2,9.1
-132,grease: live!,1,7.3,9.2
-133,law & order true crime: the menendez murders,1,7.4,6.4
-134,the affair,1,7.9,8.6
-135,the oscars,1,,
-136,deadwood: the movie,1,7.4,9.8
-137,the kennedy center honors,1,,
-138,euphoria,1,8.4,9
-139,super bowl lii halftime show starring justin timberlake,1,5.3,
-140,the alienist,1,7.7,7.5
-141,the last man on earth,1,7.3,8.4
-142,who is america?,1,8.3,5.7
-143,love you america,1,5.8,9.3
-144,Roseanne,1,7,7.6
-145,lemonade,1,,
-146,orange is the new black,1,8.1,9
-147,tig notaro: boyish girl interrupted,1,6.7,1
-148,patton oswalt: talking for clapping,1,6.8,8.6
-149,the immortal life of henrietta lacks,1,6.3,6.9
-150,the tonight show starring jimmy fallon,1,7.3,
-151,late night with seth meyers,1,6.1,
-152,paterno,1,6.5,7
-153,dolly parton’s christmas of many colors,1,7.9,5.7
-154,adele live in new york city,1,8.5,
-155,catastrophe,1,8.2,9.8
-156,the mandalorian,1,8.7,9.3
-157,the sinner,1,8,9.5
-158,documentary now,1,8.1,9.4
-159,empire,1,7.4,8.4
-160,brexit,1,7,8
-161,roots,1,7.9,9.6
-162,comedians in cars getting coffee,1,8.1,
-163,true detective,1,9,7.8
-164,58th grammy awards,1,6.1,
-165,lady day at emerson’s bar and grill,1,7.9,
-166,patton oswalt: annihilation,1,7.2,1
-167,billy on the street,1,7.7,
-168,i love you america with sarah silverman,1,5.8,9.3
-169,bad education,1,7.4,9.4
-170,pen15,1,7.9,9.3
-171,the knick,1,8.5,9.2
-172,jerry seinfeld: jerry before seinfeld,1,7,9.5
+﻿index,title,channel,no,imdb,rottan_tomatoes
+0,game of thrones,HBO,30,9.3,8.9
+1,veep,HBO,24,8.3,9.3
+2,the marvelous mrs maisel,Amazon Studios,21,8.7,8.8
+3,saturday night live,NBC,20,8.1,
+4,handmaid's tale,Hulu,20,8.4,8.8
+5,better call saul,Netflix,17,8.7,9.7
+6,ozark,Netflix,17,8.4,8.1
+7,the crown,Netflix,17,8.7,8.9
+8,barry,HBO,15,8.3,9.9
+9,fargo,FX,14,8.9,9.6
+10,westworld,HBO,14,8.6,8.7
+11,this is us,ABC,14,8.7,9.2
+12,the people v. o.j. simpson: american crime story,FX,13,8.4,9.3
+13,succession,HBO,13,8.6,9.2
+14,atlanta,FX,13,8.6,9.7
+15,silicon valley,HBO,12,8.5,9.4
+16,black-ish,ABC,12,7.1,9.1
+17,killing eve,BBC,12,8.3,9
+18,schitt’s creek,Pop TV,11,8.5,9.3
+19,stranger things,Netflix,11,8.8,9.3
+20,when they see us,Netflix,11,8.9,9.6
+21,watchmen,HBO,11,8.1,9.6
+22,the americans,FX,11,8.4,9.6
+23,house of cards,Netflix,10,8.7,7.8
+24,feud: bette and joan,FX,10,8.5,9.1
+25,big little lies,HBO,10,8.5,8.9
+26,the good place,NBC,9,8.2,9.7
+27,unbreakable kimmy schmidt,Netflix,9,7.6,9.6
+28,the assassination of gianni versace: american ...,FX,9,8.4,8.9
+29,transparent,Amazon Studios,8,7.8,9
+30,the night of,HBO,8,8.5,9.4
+31,master of none,Netflix,7,8.3,10
+32,fosse/verdon,FX,7,7.9,8.1
+33,homeland,Showtime,7,8.3,8.5
+34,last week tonight with john oliver,HBO,7,8.9,9.8
+35,escape at dannemora,Showtime,7,8,8.9
+36,chernobyl,HBO,6,9.4,9.6
+37,godless,Netflix,6,8.3,8.5
+38,full frontal with samantha bee,TBS,6,5.7,1
+39,the night manager,AMC,6,8.1,9.1
+40,american crime,ABC,6,7.8,9.7
+41,black mirror,Netflix,6,8.8,8.3
+42,the late show with stephen colbert,CBS,6,7.2,
+43,mrs. america,FX,6,7.5,9.6
+44,fleabag,Fleabag,6,8.7,10
+45,jimmy kimmel live!,ABC,6,6.6,
+46,the morning show,Apple TV,5,8.4,6.1
+47,drunk history,Comedy Central,5,7.8,5.9
+48,glow,Netflix,5,8,9.3
+49,top chef,Bravo,5,7.5,
+50,the kominsky method,Netflix,5,8.2,9
+51,the voice,NBC,5,6.5,
+52,modern family,ABC,5,8.4,8.6
+53,hollywood,Netflix,4,7.7,5.7
+54,the amazing race,CBS,4,7.6,7.2
+55,baskets,FX,4,7.5,9.2
+56,sherlock,PBS,4,9.1,7.8
+57,jesus christ superstar live in concert,NBC,4,7.7,1
+58,american horror story,FX,4,8,7.6
+59,all the way,HBO,4,7.3,8.7
+60,a very english scandal,Amazon Studios,4,7.7,9.5
+61,american ninja warrior,NBC,4,6.8,
+62,dead to me,CBS,4,8.1,9.1
+63,russian doll,Netflix,4,7.9,9.6
+64,patrick melrose,Showtime,4,8.1,9
+65,the late late show with james corden,CBS,4,6.1,
+66,downton abbey,PBS,4,8.7,8.6
+67,what we do in the shadows,FX,4,8.4,9.7
+68,ray donovan,Showtime,4,8.3,7.2
+69,grace and frankie,Netflix,4,8.3,8.9
+70,unorthodox,Netflix,4,8.1,9.4
+71,rupauls drag race,VH1,4,8.5,8.3
+72,insecure,HBO,4,7.9,9.6
+73,unbelievable,CBS,3,8.4,9.7
+74,mr. robot,USA,3,8.5,9.4
+75,ramy,Hulu,3,8,9.7
+76,the wizard of lies,HBO,3,6.8,7.3
+77,sharp objects,HBO,3,8.1,9.2
+78,curb your enthusiasm,HBO,3,8.1,9.2
+79,project runway,Lifetime,3,7.3,
+80,genius,National Geographic,3,8.4,7
+81,how to get away with murder,ABC,3,8.1,8.8
+82,little fires everywhere,Huu,3,7.7,7.7
+83,mom,CBS,3,7.2,
+84,shameless,Showtime,3,8.6,8.5
+86,normal people,Hulu,3,8.8,8.3
+87,portlandia,IFC,3,7.8,9.4
+88,pose,FX,3,8.6,9.6
+89,the looming tower,Hulu,3,8,8.8
+90,the daily show with trevor noah,Comedy Central,3,8.3,
+91,black monday,Showtime,2,7.5,6.8
+92,will & grace,NBC,2,7.2,
+93,john mulaney special,Netflix,2,8,1
+94,amy schumer: live at the apollo,HBO,2,5.5,9
+95,the big bang theory,CBS,2,8.1,8.1
+96,bloodline,Netflix,2,8,6.2
+97,better things,FX,2,7.7,9.7
+98,bodyguard,Netflix,2,8.1,9.3
+99,tracy ullman show,Fox,2,7,9.5
+100,inside amy schumer,Comedy Central,2,6,8.6
+101,confirmation,HBO,2,6.8,8.3
+102,at home with amy sedaris,truTV,2,7.7,1
+103,orphan black,BBC,2,8.3,9.3
+104,the great,Hulu,2,7.8,8.1
+105,documentary now!,IFC,2,8.1,9.4
+106,getting on,HBO,2,8.1,9.2
+107,nailed it!,Netflix,2,7.4,9.8
+108,twin peaks,Showtime,2,8.8,8.9
+109,key & peele,Comedy Central,2,8.3,9.7
+110,brooklyn nine-nine,NBC,2,8.4,9.7
+112,unreal,Lifetime,2,7.8,7.1
+113,real time with bill maher,HBO,2,7.4,8.2
+114,luther,BBC,2,8.5,
+115,steve martin & martin short: an evening you wi...,Netflix,2,NaN,8.8
+116,the act,Hulu,2,8,1
+117,my dinner with hervé,HBO,1,7,8.9
+118,the good wife,CBS,1,8.3,8.3
+119,triumph’s election special 2016,Hulu,1,5.2,9.4
+120,michelle wolf: nice lady,HBO,1,6.7,
+121,a very murray christmas,Netflix,1,5.5,1
+122,the tale,HBO,1,7.3,6.8s
+123,seven seconds,Netflix,1,7.7,9.9
+124,american vandal,Netflix,1,8.2,7.7
+125,the masked singer,Fox,1,6.3,9.7
+126,i know this much is true,HBO,1,8.2,
+127,dave chappelle: equanimity,Netflix,1,8.2,7.4
+128,dancing with the stars,ABC,1,4.4,6.9
+129,self made,Netflix,1,7.3,
+130,waco,Paramount Network,1,7.9,6.8
+131,king lear,Amazon Studios,1,6.2,6.8
+132,grease: live!,Fox,1,7.3,9.1
+133,law & order true crime: the menendez murders,NBC,1,7.4,9.2
+134,the affair,Showtime,1,7.9,6.4
+135,the oscars,ABC,1,NaN,8.6
+136,deadwood: the movie,HBO,1,7.4,
+137,the kennedy center honors,CBS,1,NaN,9.8
+138,euphoria,HBO,1,8.4,
+139,super bowl lii halftime show starring justin t...,NBC,1,NaN,9
+140,the alienist,TNT,1,NaN,
+141,the last man on earth,Fox,1,7.3,7.5
+142,who is america?,Showtime,1,NaN,8.4
+143,love you america,Hulu,1,NaN,5.7
+144,Roseanne,ABC,1,NaN,9.3
+145,lemonade,HBO,1,NaN,7.6
+146,orange is the new black,Netflix,1,8.1,
+147,tig notaro: boyish girl interrupted,HBO,1,NaN,9
+148,patton oswalt: talking for clapping,Netflix,1,NaN,1
+149,the immortal life of henrietta lacks,HBO,1,NaN,8.6
+150,the tonight show starring jimmy fallon,NBC,1,7.3,6.9
+151,late night with seth meyers,NBC,1,6.1,
+152,paterno,HBO,1,NaN,
+153,dolly parton’s christmas of many colors,NBC,1,NaN,7
+154,adele live in new york city,NBC,1,NaN,5.7
+155,catastrophe,Amazon Studios,1,8.2,
+156,the mandalorian,Disney+,1,8.7,9.8
+157,the sinner,USA,1,8,9.3
+158,documentary now,IFC,1,NaN,9.5
+159,empire,Fox,1,7.4,9.4
+160,brexit,HBO,1,NaN,8.4
+161,roots,A&E,1,7.9,8
+162,comedians in cars getting coffee,Netflix,1,8.1,9.6
+163,true detective,HBO,1,NaN,
+164,58th grammy awards,CBS,1,NaN,7.8
+165,lady day at emerson’s bar and grill,HBO,1,NaN,
+166,patton oswalt: annihilation,Netflix,1,NaN,
+167,billy on the street,truTV,1,7.7,1
+168,i love you america with sarah silverman,Hulu,1,NaN,
+169,bad education,HBO,1,7.4,9.3
+170,pen15,Hulu,1,7.9,9.4
+171,the knick,Cinemax,1,NaN,9.3
+172,jerry seinfeld: jerry before seinfeld,Netflix,1,NaN,9.2
+,,,,,9.5

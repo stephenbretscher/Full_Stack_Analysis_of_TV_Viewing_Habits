@@ -12,7 +12,7 @@ print("banana")
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://postgres:X@localhost:5433/project_2", echo=True)
+engine = create_engine("postgresql://postgres:Olivia2019@localhost:5433/project_2", echo=True)
 print("cherry")
 
 # reflect an existing database into a new model

@@ -1,0 +1,187 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>First Chart</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="topnav">
+        <a class="active" href="#home">Home</a>
+        <a href="data[e].html">Emmy Nominations</a>
+        <a href="timeline2.html">Timeline</a>
+        <a href="emmy5.html">Emmys_NetvsStream</a>
+        <a href="2012_lib.html">Stream Libary</a>
+        <a href="#about">Readme</a>
+    </div>
+    <div>
+        <section>
+            <header> <center> <h1 style="background-color:lightgray;">How Basic Are Your TV Habits?</h1></center></header>
+
+            <p>
+                <img src="wordcloud_shows.png" alt="El Capitan"
+                     style="float:left;width:200px;height:133px;"><strong>
+                    El
+
+                    Capitan
+                </strong> is a 3,000-foot (910 m) vertical rock formation
+
+                in Yosemite National Park, located on the north side of Yosemite
+
+                Valley, near its western end. The granite monolith is one of the
+
+                world's favorite challenges for rock climbers. The formation was
+
+                named "El Capitan" by the Mariposa Battalion when it explored the
+
+                valley in 1851.
+            </p>
+        </section>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+
+        <section>
+            <p>
+                <img src="wordcloud_shows.png" alt="Tunnel View"
+                     style="float:right;width:200px;height:133px;"><strong>
+                    Tunnel
+
+                    View
+                </strong> is a viewpoint on State Route 41 located directly east
+
+                of the Wawona Tunnel as one enters Yosemite Valley from the south.
+
+                The view looks east into Yosemite Valley including the southwest face
+
+                of El Capitan, Half Dome, and Bridalveil Falls. This is, to many, the
+
+                first views of the popular attractions in Yosemite.
+            </p>
+
+
+
+        </section>
+
+
+    </div>
+
+
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+
+    <footer>
+        <h2 style="text-align:center">Slideshow Gallery</h2>
+
+        <div class="container">
+            <div class="mySlides">
+                <div class="numbertext">1 / 6</div>
+                <img src="disney_logo.jpeg" style="width:35%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">2 / 6</div>
+                <img src="netflix_logo.jpeg" style="width:35%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">3 / 6</div>
+                <img src="abc_logo.jpeg" style="width:35%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">4 / 6</div>
+                <img src="hulu_logo.jpeg" style="width:35%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">5 / 6</div>
+                <img src="nbc_logo.jpeg" style="width:35%">
+            </div>
+
+            <div class="mySlides">
+                <div class="numbertext">6 / 6</div>
+                <img src="bravo_logo.jpeg" style="width:35%">
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1)">❮</a>
+            <a class="next" onclick="plusSlides(1)">❯</a>
+
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+
+            <div class="row">
+                <div class="column">
+                    <img class="demo cursor" src="nbc_logo.jpeg" style="width:100%" onclick="currentSlide(0)" alt="NBC">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="disney_logo.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Disney+">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="netflix_logo.jpeg" style="width:100%" onclick="currentSlide(2)" alt="Netflix">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="hbo_logo.jpeg" style="width:100%" onclick="currentSlide(3)" alt="HBO">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="hulu_logo.jpeg" style="width:100%" onclick="currentSlide(4)" alt="Hulu">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="bbc_logo.jpeg" style="width:100%" onclick="currentSlide(5)" alt="BBC">
+                </div>
+
+            </div>
+        </div>
+        <script>
+            var slideIndex = 1;
+            showSlides(slideIndex);
+
+            function plusSlides(n) {
+                showSlides(slideIndex += n);
+            }
+
+            function currentSlide(n) {
+                showSlides(slideIndex = n);
+            }
+
+            function showSlides(n) {
+                var i;
+                var slides = document.getElementsByClassName("mySlides");
+                var dots = document.getElementsByClassName("demo");
+                var captionText = document.getElementById("caption");
+                if (n > slides.length) { slideIndex = 1 }
+                if (n < 1) { slideIndex = slides.length }
+                for (i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";
+                }
+                for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                }
+                slides[slideIndex - 1].style.display = "block";
+                dots[slideIndex - 1].className += " active";
+                captionText.innerHTML = dots[slideIndex - 1].alt;
+            }
+        </script>
+
+    </footer>
+</body>
+</html>

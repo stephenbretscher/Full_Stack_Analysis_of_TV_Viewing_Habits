@@ -1,0 +1,796 @@
+,Title,Awards,Year,is_winner,Channel
+0,the americans,Drama Series,2016,False,FX
+1,better call saul,Drama Series,2016,False,Netflix
+2,downton abbey,Drama Series,2016,False,PBS
+3,game of thrones,Drama Series,2016,True,HBO
+4,homeland,Drama Series,2016,False,Showtime
+5,house of cards,Drama Series,2016,False,Netflix
+6,mr. robot,Drama Series,2016,False,USA
+7,black-ish,Comedy Series,2016,False,ABC
+8,master of none,Comedy Series,2016,False,Netflix
+9,modern family,Comedy Series,2016,False,ABC
+10,silicon valley,Comedy Series,2016,False,HBO
+11,transparent,Comedy Series,2016,False,Amazon Studios
+12,unbreakable kimmy schmidt,Comedy Series,2016,False,Netflix
+13,veep,Comedy Series,2016,True,HBO
+14,homeland,"Lead Actress, Drama",2016,False,Showtime
+15,how to get away with murder,"Lead Actress, Drama",2016,False,ABC
+16,empire,"Lead Actress, Drama",2016,False,Fox
+17,orphan black,"Lead Actress, Drama",2016,False,BBC
+18,the americans,"Lead Actress, Drama",2016,False,FX
+19,house of cards,"Lead Actress, Drama",2016,False,Netflix
+20,bloodline,"Lead Actor, Drama",2016,False,Netflix
+21,mr. robot,"Lead Actor, Drama",2016,False,USA
+22,better call saul,"Lead Actor, Drama",2016,False,Netflix
+23,the americans,"Lead Actor, Drama",2016,False,FX
+24,ray donovan,"Lead Actor, Drama",2016,False,Showtime
+25,house of cards,"Lead Actor, Drama",2016,False,Netflix
+26,better call saul,"Supporting Actor, Drama",2016,False,Netflix
+27,game of thrones,"Supporting Actor, Drama",2016,False,HBO
+28,house of cards,"Supporting Actor, Drama",2016,False,Netflix
+29,bloodline,"Supporting Actor, Drama",2016,False,Netflix
+30,game of thrones,"Supporting Actor, Drama",2016,False,HBO
+31,ray donovan,"Supporting Actor, Drama",2016,False,Showtime
+32,downton abbey,Directing for a Drama,2016,False,PBS
+34,game of thrones,Directing for a Drama,2016,False,HBO
+36,game of thrones,Directing for a Drama,2016,False,HBO
+38,homeland,Directing for a Drama,2016,False,Showtime
+40,the knick,Directing for a Drama,2016,False,Cinemax
+42,ray donovan,Directing for a Drama,2016,False,Showtime
+43,game of thrones,"Supporting Actress, Drama",2016,False,HBO
+44,game of thrones,"Supporting Actress, Drama",2016,False,HBO
+45,downton abbey,"Supporting Actress, Drama",2016,False,PBS
+46,the affair,"Supporting Actress, Drama",2016,False,Showtime
+47,game of thrones,"Supporting Actress, Drama",2016,False,HBO
+48,unreal,"Supporting Actress, Drama",2016,False,Lifetime
+49,the americans,Writing for a Drama Series,2016,False,FX
+50,downton abbey,Writing for a Drama Series,2016,False,PBS
+51,game of thrones,Writing for a Drama Series,2016,False,HBO
+52,the good wife,Writing for a Drama Series,2016,False,CBS
+53,mr. robot,Writing for a Drama Series,2016,False,USA
+54,unreal,Writing for a Drama Series,2016,False,Lifetime
+55,documentary now,Variety Sketch Series,2016,False,IFC
+56,drunk history,Variety Sketch Series,2016,False,Comedy Central
+57,inside amy schumer,Variety Sketch Series,2016,False,Comedy Central
+58,key & peele,Variety Sketch Series,2016,True,Comedy Central
+59,portlandia,Variety Sketch Series,2016,False,IFC
+60,saturday night live,Variety Sketch Series,2016,False,NBC
+61,58th grammy awards,Directing for a Variety Special,2016,False,CBS
+62,lemonade,Directing for a Variety Special,2016,False,HBO
+63,grease: live!,Directing for a Variety Special,2016,True,Fox
+64,adele live in new york city,Directing for a Variety Special,2016,False,NBC
+65,amy schumer: live at the apollo,Directing for a Variety Special,2016,False,HBO
+66,the kennedy center honors,Directing for a Variety Special,2016,False,CBS
+67,comedians in cars getting coffee,Variety Talk Series,2016,False,Netflix
+68,the late late show with james corden,Variety Talk Series,2016,False,CBS
+69,jimmy kimmel live!,Variety Talk Series,2016,False,ABC
+70,last week tonight with john oliver,Variety Talk Series,2016,True,HBO
+71,real time with bill maher,Variety Talk Series,2016,False,HBO
+72,the tonight show starring jimmy fallon,Variety Talk Series,2016,False,NBC
+73,amy schumer: live at the apollo,Writing for a Variety Special,2016,False,HBO
+74,john mulaney: the comeback kid,Writing for a Variety Special,2016,False,
+75,patton oswalt: talking for clapping,Writing for a Variety Special,2016,True,Netflix
+76,tig notaro: boyish girl interrupted,Writing for a Variety Special,2016,False,HBO
+77,triumph’s election special 2016,Writing for a Variety Special,2016,False,Hulu
+78,american crime,Limited Series,2016,False,ABC
+79,fargo,Limited Series,2016,False,FX
+80,the night manager,Limited Series,2016,False,AMC
+81,the people v. o.j. simpson: american crime story,Limited Series,2016,True,FX
+82,roots,Limited Series,2016,False,A&E
+83,a very murray christmas,TV Movie,2016,False,Netflix
+84,all the way,TV Movie,2016,False,HBO
+85,confirmation,TV Movie,2016,False,HBO
+86,luther,TV Movie,2016,False,BBC
+87,sherlock: the abominable bride,TV Movie,2016,True,
+88,all the way,"Lead Actor, TV Movie/Limited Series",2016,False,HBO
+89,sherlock: the abominable bride,"Lead Actor, TV Movie/Limited Series",2016,False,
+90,luther,"Lead Actor, TV Movie/Limited Series",2016,False,BBC
+91,the people v. o.j. simpson: american crime story,"Lead Actor, TV Movie/Limited Series",2016,False,FX
+92,the night manager,"Lead Actor, TV Movie/Limited Series",2016,False,AMC
+93,the people v. o.j. simpson: american crime story,"Lead Actor, TV Movie/Limited Series",2016,False,FX
+94,fargo,"Lead Actress, TV Movie/Limited Series",2016,False,FX
+95,american crime,"Lead Actress, TV Movie/Limited Series",2016,False,ABC
+96,lady day at emerson’s bar and grill,"Lead Actress, TV Movie/Limited Series",2016,False,HBO
+97,american crime,"Lead Actress, TV Movie/Limited Series",2016,False,ABC
+98,the people v. o.j. simpson: american crime story,"Lead Actress, TV Movie/Limited Series",2016,False,FX
+99,confirmation,"Lead Actress, TV Movie/Limited Series",2016,False,HBO
+100,the people v. o.j. simpson: american crime story,"Supporting Actor, TV Movie/Limited Series",2016,False,FX
+101,the night manager,"Supporting Actor, TV Movie/Limited Series",2016,False,AMC
+102,fargo,"Supporting Actor, TV Movie/Limited Series",2016,False,FX
+103,the people v. o.j. simpson: american crime story,"Supporting Actor, TV Movie/Limited Series",2016,False,FX
+104,the people v. o.j. simpson: american crime story,"Supporting Actor, TV Movie/Limited Series",2016,False,FX
+105,fargo,"Supporting Actor, TV Movie/Limited Series",2016,False,FX
+106,all the way,Directing for a TV Movie/Limited Series,2016,False,HBO
+107,fargo,Directing for a TV Movie/Limited Series,2016,False,FX
+108,the night manager,Directing for a TV Movie/Limited Series,2016,False,AMC
+109,the people v. o.j. simpson: american crime story,Directing for a TV Movie/Limited Series,2016,False,FX
+110,the people v. o.j. simpson: american crime story,Directing for a TV Movie/Limited Series,2016,False,FX
+111,the people v. o.j. simpson: american crime story,Directing for a TV Movie/Limited Series,2016,False,FX
+112,american horror story: hotel,"Supporting Actress, TV Movie/Limited Series",2016,False,
+113,the night manager,"Supporting Actress, TV Movie/Limited Series",2016,False,AMC
+114,american crime,"Supporting Actress, TV Movie/Limited Series",2016,False,ABC
+115,all the way,"Supporting Actress, TV Movie/Limited Series",2016,False,HBO
+116,american horror story: hotel,"Supporting Actress, TV Movie/Limited Series",2016,False,
+117,fargo,"Supporting Actress, TV Movie/Limited Series",2016,False,FX
+118,fargo,Writing for a TV Movie/Limited Series,2016,False,FX
+119,fargo,Writing for a TV Movie/Limited Series,2016,False,FX
+120,the night manager,Writing for a TV Movie/Limited Series,2016,False,AMC
+121,the people v. o.j. simpson: american crime story,Writing for a TV Movie/Limited Series,2016,False,FX
+122,the people v. o.j. simpson: american crime story,Writing for a TV Movie/Limited Series,2016,False,FX
+123,the people v. o.j. simpson: american crime story,Writing for a TV Movie/Limited Series,2016,False,FX
+124,the amazing race,Reality Competition Series,2016,False,CBS
+125,american ninja warrior,Reality Competition Series,2016,False,NBC
+126,dancing with the stars,Reality Competition Series,2016,False,ABC
+127,project runway,Reality Competition Series,2016,False,Lifetime
+128,top chef,Reality Competition Series,2016,False,Bravo
+129,the voice,Reality Competition Series,2016,True,NBC
+130,black-ish,"Lead Actor, Comedy",2016,False,ABC
+131,master of none,"Lead Actor, Comedy",2016,False,Netflix
+132,the last man on earth,"Lead Actor, Comedy",2016,False,Fox
+133,shameless,"Lead Actor, Comedy",2016,False,Showtime
+134,silicon valley,"Lead Actor, Comedy",2016,False,HBO
+135,transparent,"Lead Actor, Comedy",2016,False,Amazon Studios
+136,unbreakable kimmy schmidt,"Lead Actress, Comedy",2016,False,Netflix
+137,veep,"Lead Actress, Comedy",2016,False,HBO
+138,getting on,"Lead Actress, Comedy",2016,False,HBO
+139,black-ish,"Lead Actress, Comedy",2016,False,ABC
+140,inside amy schumer,"Lead Actress, Comedy",2016,False,Comedy Central
+141,grace and frankie,"Lead Actress, Comedy",2016,False,Netflix
+142,master of none,Directing for a Comedy Series,2016,False,Netflix
+143,silicon valley,Directing for a Comedy Series,2016,False,HBO
+144,silicon valley,Directing for a Comedy Series,2016,False,HBO
+145,transparent,Directing for a Comedy Series,2016,False,Amazon Studios
+146,veep,Directing for a Comedy Series,2016,False,HBO
+147,veep,Directing for a Comedy Series,2016,False,HBO
+148,veep,Directing for a Comedy Series,2016,False,HBO
+149,veep,"Supporting Actress, Comedy",2016,False,HBO
+150,transparent,"Supporting Actress, Comedy",2016,False,Amazon Studios
+151,mom,"Supporting Actress, Comedy",2016,False,CBS
+152,transparent,"Supporting Actress, Comedy",2016,False,Amazon Studios
+153,saturday night live,"Supporting Actress, Comedy",2016,False,NBC
+154,getting on,"Supporting Actress, Comedy",2016,False,HBO
+155,catastrophe,Writing for a Comedy Series,2016,False,Amazon Studios
+157,master of none,Writing for a Comedy Series,2016,False,Netflix
+158,silicon valley,Writing for a Comedy Series,2016,False,HBO
+159,silicon valley,Writing for a Comedy Series,2016,False,HBO
+160,veep,Writing for a Comedy Series,2016,False,HBO
+161,veep,Writing for a Comedy Series,2016,False,HBO
+162,baskets,"Supporting Actor, Comedy",2016,False,FX
+163,brooklyn nine-nine,"Supporting Actor, Comedy",2016,False,NBC
+164,unbreakable kimmy schmidt,"Supporting Actor, Comedy",2016,False,Netflix
+165,modern family,"Supporting Actor, Comedy",2016,False,ABC
+166,veep,"Supporting Actor, Comedy",2016,False,HBO
+167,key & peele,"Supporting Actor, Comedy",2016,False,Comedy Central
+168,veep,"Supporting Actor, Comedy",2016,False,HBO
+0,better call saul,Drama Series,2017,False,Netflix
+1,the crown,Drama Series,2017,False,Netflix
+2,the handmaid’s tale,Drama Series,2017,True,
+3,house of cards,Drama Series,2017,False,Netflix
+4,stranger things,Drama Series,2017,False,Netflix
+5,this is us,Drama Series,2017,False,ABC
+6,westworld,Drama Series,2017,False,HBO
+7,how to get away with murder,"Lead Actress, Drama",2017,False,ABC
+8,the crown,"Lead Actress, Drama",2017,False,Netflix
+9,the handmaid’s tale,"Lead Actress, Drama",2017,True,
+10,the americans,"Lead Actress, Drama",2017,False,FX
+11,westworld,"Lead Actress, Drama",2017,False,HBO
+12,house of cards,"Lead Actress, Drama",2017,False,Netflix
+13,this is us,"Lead Actor, Drama",2017,True,ABC
+14,westworld,"Lead Actor, Drama",2017,False,HBO
+15,better call saul,"Lead Actor, Drama",2017,False,Netflix
+16,the americans,"Lead Actor, Drama",2017,False,FX
+17,ray donovan,"Lead Actor, Drama",2017,False,Showtime
+18,house of cards,"Lead Actor, Drama",2017,False,Netflix
+19,this is us,"Lead Actor, Drama",2017,False,ABC
+20,big little lies,Limited Series,2017,False,HBO
+21,fargo,Limited Series,2017,False,FX
+22,feud: bette and joan,Limited Series,2017,False,FX
+23,genius,Limited Series,2017,False,National Geographic
+24,the night of,Limited Series,2017,False,HBO
+25,black mirror:,TV Movie,2017,True,
+26,dolly parton’s christmas of many colors,TV Movie,2017,False,NBC
+27,the immortal life of henrietta lacks,TV Movie,2017,False,HBO
+28,sherlock:,TV Movie,2017,False,
+29,the wizard of lies,TV Movie,2017,False,HBO
+30,fargo,"Lead Actress, TV Movie/Limited Series",2017,False,FX
+31,american crime,"Lead Actress, TV Movie/Limited Series",2017,False,ABC
+32,big little lies,"Lead Actress, TV Movie/Limited Series",2017,True,HBO
+33,feud: bette and joan,"Lead Actress, TV Movie/Limited Series",2017,False,FX
+34,feud: bette and joan,"Lead Actress, TV Movie/Limited Series",2017,False,FX
+35,big little lies,"Lead Actress, TV Movie/Limited Series",2017,False,HBO
+36,the night of,"Lead Actor, TV Movie/Limited Series",2017,True,HBO
+37,sherlock:,"Lead Actor, TV Movie/Limited Series",2017,False,
+38,the wizard of lies,"Lead Actor, TV Movie/Limited Series",2017,False,HBO
+39,fargo,"Lead Actor, TV Movie/Limited Series",2017,False,FX
+40,genius,"Lead Actor, TV Movie/Limited Series",2017,False,National Geographic
+41,the night of,"Lead Actor, TV Movie/Limited Series",2017,False,HBO
+42,atlanta,Comedy Series,2017,False,FX
+43,black-ish,Comedy Series,2017,False,ABC
+44,master of none,Comedy Series,2017,False,Netflix
+45,modern family,Comedy Series,2017,False,ABC
+46,silicon valley,Comedy Series,2017,False,HBO
+47,unbreakable kimmy schmidt,Comedy Series,2017,False,Netflix
+48,veep,Comedy Series,2017,True,HBO
+49,better things,"Lead Actress, Comedy",2017,False,FX
+50,grace and frankie,"Lead Actress, Comedy",2017,False,Netflix
+51,mom,"Lead Actress, Comedy",2017,False,CBS
+52,unbreakable kimmy schmidt,"Lead Actress, Comedy",2017,False,Netflix
+53,veep,"Lead Actress, Comedy",2017,True,HBO
+54,black-ish,"Lead Actress, Comedy",2017,False,ABC
+55,grace and frankie,"Lead Actress, Comedy",2017,False,Netflix
+56,black-ish,"Lead Actor, Comedy",2017,False,ABC
+57,master of none,"Lead Actor, Comedy",2017,False,Netflix
+58,baskets,"Lead Actor, Comedy",2017,False,FX
+59,atlanta,"Lead Actor, Comedy",2017,True,FX
+60,shameless,"Lead Actor, Comedy",2017,False,Showtime
+61,transparent,"Lead Actor, Comedy",2017,False,Amazon Studios
+62,full frontal with samantha bee,Variety Talk Series,2017,False,TBS
+63,jimmy kimmel live!,Variety Talk Series,2017,False,ABC
+64,last week tonight with john oliver,Variety Talk Series,2017,True,HBO
+65,the late late show with james corden,Variety Talk Series,2017,False,CBS
+66,the late show with stephen colbert,Variety Talk Series,2017,False,CBS
+67,real time with bill maher,Variety Talk Series,2017,False,HBO
+68,drunk history,Directing for a Variety Special,2017,False,Comedy Central
+69,jimmy kimmel live!,Directing for a Variety Special,2017,False,ABC
+70,last week tonight with john oliver,Directing for a Variety Special,2017,False,HBO
+71,the late show with stephen colbert,Directing for a Variety Special,2017,False,CBS
+72,saturday night live,Directing for a Variety Special,2017,True,NBC
+73,big little lies,Writing for a TV Movie/Limited Series,2017,False,HBO
+74,black mirror: san junipero,Writing for a TV Movie/Limited Series,2017,True,
+75,fargo,Writing for a TV Movie/Limited Series,2017,False,FX
+76,feud: bette and joan,Writing for a TV Movie/Limited Series,2017,False,FX
+77,feud: bette and joan,Writing for a TV Movie/Limited Series,2017,False,FX
+78,the night of,Writing for a TV Movie/Limited Series,2017,False,HBO
+79,better call saul,Directing for a Drama,2017,False,Netflix
+80,the crown,Directing for a Drama,2017,False,Netflix
+81,the handmaid’s tale,Directing for a Drama,2017,True,
+82,the handmaid’s tale,Directing for a Drama,2017,False,
+83,homeland,Directing for a Drama,2017,False,Showtime
+84,stranger things,Directing for a Drama,2017,False,Netflix
+85,westworld,Directing for a Drama,2017,False,HBO
+86,the amazing race,Reality Competition Series,2017,False,CBS
+87,american ninja warrior,Reality Competition Series,2017,False,NBC
+88,project runway,Reality Competition Series,2017,False,Lifetime
+89,rupaul’s drag race,Reality Competition Series,2017,False,
+90,top chef,Reality Competition Series,2017,False,Bravo
+91,the voice,Reality Competition Series,2017,True,NBC
+92,atlanta,Writing for a Comedy Series,2017,False,FX
+93,atlanta,Writing for a Comedy Series,2017,False,FX
+94,master of none,Writing for a Comedy Series,2017,True,Netflix
+95,silicon valley,Writing for a Comedy Series,2017,False,HBO
+96,veep,Writing for a Comedy Series,2017,False,HBO
+97,veep,Writing for a Comedy Series,2017,False,HBO
+98,orange is the new black,"Supporting Actress, Drama",2017,False,Netflix
+99,stranger things,"Supporting Actress, Drama",2017,False,Netflix
+100,the handmaid’s tale,"Supporting Actress, Drama",2017,False,
+101,this is us,"Supporting Actress, Drama",2017,False,ABC
+102,westworld,"Supporting Actress, Drama",2017,False,HBO
+103,the handmaid’s tale,"Supporting Actress, Drama",2017,True,
+104,full frontal with samantha bee,Writing for a Variety Special,2017,False,TBS
+105,last week tonight with john oliver,Writing for a Variety Special,2017,True,HBO
+106,late night with seth meyers,Writing for a Variety Special,2017,False,NBC
+107,the late show with stephen colbert,Writing for a Variety Special,2017,False,CBS
+108,saturday night live,Writing for a Variety Special,2017,False,NBC
+109,the night of,"Supporting Actor, TV Movie/Limited Series",2017,False,HBO
+110,feud: bette and joan,"Supporting Actor, TV Movie/Limited Series",2017,False,FX
+111,big little lies,"Supporting Actor, TV Movie/Limited Series",2017,True,HBO
+112,fargo,"Supporting Actor, TV Movie/Limited Series",2017,False,FX
+113,feud: bette and joan,"Supporting Actor, TV Movie/Limited Series",2017,False,FX
+114,the night of,"Supporting Actor, TV Movie/Limited Series",2017,False,HBO
+115,big little lies,Directing for a TV Movie/Limited Series,2017,True,HBO
+116,fargo,Directing for a TV Movie/Limited Series,2017,False,FX
+117,feud: bette and joan,Directing for a TV Movie/Limited Series,2017,False,FX
+118,genius,Directing for a TV Movie/Limited Series,2017,False,National Geographic
+119,the night of,Directing for a TV Movie/Limited Series,2017,False,HBO
+120,the night of,Directing for a TV Movie/Limited Series,2017,False,HBO
+121,baskets,"Supporting Actor, Comedy",2017,False,FX
+122,saturday night live,"Supporting Actor, Comedy",2017,True,NBC
+123,unbreakable kimmy schmidt,"Supporting Actor, Comedy",2017,False,Netflix
+124,modern family,"Supporting Actor, Comedy",2017,False,ABC
+125,veep,"Supporting Actor, Comedy",2017,False,HBO
+126,veep,"Supporting Actor, Comedy",2017,False,HBO
+127,the americans,Writing for a Drama Series,2017,False,FX
+128,better call saul,Writing for a Drama Series,2017,False,Netflix
+129,the crown,Writing for a Drama Series,2017,False,Netflix
+130,the handmaid’s tale,Writing for a Drama Series,2017,True,
+131,stranger things,Writing for a Drama Series,2017,False,Netflix
+132,westworld,Writing for a Drama Series,2017,False,HBO
+133,billy on the street,Variety Sketch Series,2017,False,truTV
+134,documentary now!,Variety Sketch Series,2017,False,IFC
+135,drunk history,Variety Sketch Series,2017,False,Comedy Central
+136,portlandia,Variety Sketch Series,2017,False,IFC
+137,saturday night live,Variety Sketch Series,2017,True,NBC
+138,tracy ullman’s show,Variety Sketch Series,2017,False,
+139,atlanta,Directing for a Comedy Series,2017,True,FX
+140,silicon valley,Directing for a Comedy Series,2017,False,HBO
+141,veep,Directing for a Comedy Series,2017,False,HBO
+142,veep,Directing for a Comedy Series,2017,False,HBO
+143,veep,Directing for a Comedy Series,2017,False,HBO
+144,feud: bette and joan,"Supporting Actress, TV Movie/Limited Series",2017,False,FX
+145,big little lies,"Supporting Actress, TV Movie/Limited Series",2017,True,HBO
+146,feud: bette and joan,"Supporting Actress, TV Movie/Limited Series",2017,False,FX
+147,american crime,"Supporting Actress, TV Movie/Limited Series",2017,False,ABC
+148,the wizard of lies,"Supporting Actress, TV Movie/Limited Series",2017,False,HBO
+149,big little lies,"Supporting Actress, TV Movie/Limited Series",2017,False,HBO
+150,saturday night live,"Supporting Actress, Comedy",2017,False,NBC
+151,veep,"Supporting Actress, Comedy",2017,False,HBO
+152,transparent,"Supporting Actress, Comedy",2017,False,Amazon Studios
+153,saturday night live,"Supporting Actress, Comedy",2017,False,NBC
+154,transparent,"Supporting Actress, Comedy",2017,False,Amazon Studios
+155,saturday night live,"Supporting Actress, Comedy",2017,True,NBC
+156,better call saul,"Supporting Actor, Drama",2017,False,Netflix
+157,this is us,"Supporting Actor, Drama",2017,False,ABC
+158,stranger things,"Supporting Actor, Drama",2017,False,Netflix
+159,house of cards,"Supporting Actor, Drama",2017,False,Netflix
+160,the crown,"Supporting Actor, Drama",2017,True,Netflix
+161,homeland,"Supporting Actor, Drama",2017,False,Showtime
+162,westworld,"Supporting Actor, Drama",2017,False,HBO
+0,the americans,Drama Series,2018,False,FX
+1,the crown,Drama Series,2018,False,Netflix
+2,game of thrones,Drama Series,2018,True,HBO
+3,the handmaid’s tale,Drama Series,2018,False,
+4,stranger things,Drama Series,2018,False,Netflix
+5,this is us,Drama Series,2018,False,ABC
+6,estworld,Drama Series,2018,False,
+7,atlanta,Comedy Series,2018,False,FX
+8,barry,Comedy Series,2018,False,HBO
+9,black-ish,Comedy Series,2018,False,ABC
+10,curb your enthusiasm,Comedy Series,2018,False,HBO
+11,glow,Comedy Series,2018,False,Netflix
+12,the marvelous mrs. maisel,Comedy Series,2018,True,
+13,silicon valley,Comedy Series,2018,False,HBO
+14,unbreakable kimmy schmidt,Comedy Series,2018,False,Netflix
+15,the alienist,Limited Series,2018,False,TNT
+16,the assassination of gianni versace: american crime story,Limited Series,2018,True,
+17,genius: picasso,Limited Series,2018,False,
+18,godless,Limited Series,2018,False,Netflix
+19,patrick melrose,Limited Series,2018,False,Showtime
+20,the daily show with trevor noah,Variety Talk Series,2018,False,Comedy Central
+21,full frontal with samantha bee,Variety Talk Series,2018,False,TBS
+22,jimmy kimmel live!,Variety Talk Series,2018,False,ABC
+23,last week tonight with john oliver,Variety Talk Series,2018,True,HBO
+24,the late late show with james corden,Variety Talk Series,2018,False,CBS
+25,the late show with stephen colbert,Variety Talk Series,2018,False,CBS
+26,at home with amy sedaris,Variety Sketch Series,2018,False,truTV
+27,drunk history,Variety Sketch Series,2018,False,Comedy Central
+28,love you america,Variety Sketch Series,2018,False,Hulu
+29,portlandia,Variety Sketch Series,2018,False,IFC
+30,saturday night live,Variety Sketch Series,2018,True,NBC
+31,tracey ullman’s show,Variety Sketch Series,2018,False,
+32,the amazing race,Reality Competition Series,2018,False,CBS
+33,american ninja warrior,Reality Competition Series,2018,False,NBC
+34,project runway,Reality Competition Series,2018,False,Lifetime
+35,upaul’s drag race,Reality Competition Series,2018,True,
+36,top chef,Reality Competition Series,2018,False,Bravo
+37,the voice,Reality Competition Series,2018,False,NBC
+38,the crown,"Lead Actress, Drama",2018,True,Netflix
+39,orphan black,"Lead Actress, Drama",2018,False,BBC
+40,the handmaid’s tale,"Lead Actress, Drama",2018,False,
+41,killing eve,"Lead Actress, Drama",2018,False,BBC
+42,the americans,"Lead Actress, Drama",2018,False,FX
+43,estworld,"Lead Actress, Drama",2018,False,
+44,ozark,"Lead Actor, Drama",2018,False,Netflix
+45,this is us,"Lead Actor, Drama",2018,False,ABC
+46,estworld,"Lead Actor, Drama",2018,False,
+47,the americans,"Lead Actor, Drama",2018,True,FX
+48,this is us,"Lead Actor, Drama",2018,False,ABC
+49,estworld,"Lead Actor, Drama",2018,False,
+50,game of thrones,Directing for a Drama,2018,False,HBO
+51,game of thrones,Directing for a Drama,2018,False,HBO
+52,ozark,Directing for a Drama,2018,False,Netflix
+53,ozark,Directing for a Drama,2018,False,Netflix
+54,stranger things,Directing for a Drama,2018,False,Netflix
+55,the crown,Directing for a Drama,2018,True,Netflix
+56,the handmaid’s tale,Directing for a Drama,2018,False,
+57,game of thrones,Writing for a Drama Series,2018,False,HBO
+58,killing eve,Writing for a Drama Series,2018,False,BBC
+59,stranger things,Writing for a Drama Series,2018,False,Netflix
+60,the americans,Writing for a Drama Series,2018,True,FX
+61,the crown,Writing for a Drama Series,2018,False,Netflix
+62,the handmaid’s tale,Writing for a Drama Series,2018,False,
+63,the handmaid’s tale,"Supporting Actress, Drama",2018,False,
+64,stranger things,"Supporting Actress, Drama",2018,False,Netflix
+65,the handmaid’s tale,"Supporting Actress, Drama",2018,False,
+66,game of thrones,"Supporting Actress, Drama",2018,False,HBO
+67,the crown,"Supporting Actress, Drama",2018,False,Netflix
+68,estworld,"Supporting Actress, Drama",2018,True,
+69,the handmaid’s tale,"Supporting Actress, Drama",2018,False,
+70,game of thrones,"Supporting Actor, Drama",2018,False,HBO
+71,game of thrones,"Supporting Actor, Drama",2018,True,HBO
+72,the handmaid’s tale,"Supporting Actor, Drama",2018,False,
+73,stranger things,"Supporting Actor, Drama",2018,False,Netflix
+74,homeland,"Supporting Actor, Drama",2018,False,Showtime
+75,the crown,"Supporting Actor, Drama",2018,False,Netflix
+76,dave chappelle: equanimity,Directing for a Variety Special,2018,False,Netflix
+77,jerry seinfeld: jerry before seinfeld,Directing for a Variety Special,2018,False,Netflix
+78,steve martin & martin short: an evening you will forget for the rest of your life,Directing for a Variety Special,2018,False,
+79,super bowl lii halftime show starring justin timberlake,Directing for a Variety Special,2018,False,
+80,the oscars,Directing for a Variety Special,2018,True,ABC
+81,full frontal with samantha bee presents: the great american,Writing for a Variety Special,2018,False,
+82,john mulaney: kid gorgeous at radio city,Writing for a Variety Special,2018,True,
+83,michelle wolf: nice lady,Writing for a Variety Special,2018,False,HBO
+84,patton oswalt: annihilation,Writing for a Variety Special,2018,False,Netflix
+85,steve martin & martin short: an evening you will forget for the rest of your life,Writing for a Variety Special,2018,False,
+86,genius: picasso,"Lead Actor, TV Movie/Limited Series",2018,False,
+87,the assassination of gianni versace: american crime story,"Lead Actor, TV Movie/Limited Series",2018,True,
+88,patrick melrose,"Lead Actor, TV Movie/Limited Series",2018,False,Showtime
+89,the looming tower,"Lead Actor, TV Movie/Limited Series",2018,False,Hulu
+90,jesus christ superstar live in concert,"Lead Actor, TV Movie/Limited Series",2018,False,NBC
+91,u.s.s. callister (black mirror),"Lead Actor, TV Movie/Limited Series",2018,False,
+92,the sinner,"Lead Actress, TV Movie/Limited Series",2018,False,USA
+93,the tale,"Lead Actress, TV Movie/Limited Series",2018,False,HBO
+94,godless,"Lead Actress, TV Movie/Limited Series",2018,False,Netflix
+95,law & order true crime: the menendez murders,"Lead Actress, TV Movie/Limited Series",2018,False,NBC
+96,seven seconds,"Lead Actress, TV Movie/Limited Series",2018,True,Netflix
+97,american horror story: cult,"Lead Actress, TV Movie/Limited Series",2018,False,
+98,godless,Directing for a TV Movie/Limited Series,2018,False,Netflix
+99,jesus christ superstar live in concert,Directing for a TV Movie/Limited Series,2018,False,NBC
+100,paterno,Directing for a TV Movie/Limited Series,2018,False,HBO
+101,twin peaks,Directing for a TV Movie/Limited Series,2018,False,Showtime
+102,patrick melrose,Directing for a TV Movie/Limited Series,2018,False,Showtime
+103,the assassination of gianni versace: american crime story,Directing for a TV Movie/Limited Series,2018,True,
+104,the looming tower,Directing for a TV Movie/Limited Series,2018,False,Hulu
+105,american vandal,Writing for a TV Movie/Limited Series,2018,False,Netflix
+106,godless,Writing for a TV Movie/Limited Series,2018,False,Netflix
+107,patrick melrose,Writing for a TV Movie/Limited Series,2018,False,Showtime
+108,the assassination of gianni versace: american crime story,Writing for a TV Movie/Limited Series,2018,False,
+109,twin peaks,Writing for a TV Movie/Limited Series,2018,False,Showtime
+110,u.s.s. callister (black mirror),Writing for a TV Movie/Limited Series,2018,True,
+111,godless,"Supporting Actor, TV Movie/Limited Series",2018,True,Netflix
+112,jesus christ superstar live in concert,"Supporting Actor, TV Movie/Limited Series",2018,False,NBC
+113,aco,"Supporting Actor, TV Movie/Limited Series",2018,False,
+114,the assassination of gianni versace: american crime story,"Supporting Actor, TV Movie/Limited Series",2018,False,
+115,the assassination of gianni versace: american crime story,"Supporting Actor, TV Movie/Limited Series",2018,False,
+116,the looming tower,"Supporting Actor, TV Movie/Limited Series",2018,False,Hulu
+117,the assassination of gianni versace: american crime story,"Supporting Actor, TV Movie/Limited Series",2018,False,
+118,jesus christ superstar live in concert,"Supporting Actress, TV Movie/Limited Series",2018,False,NBC
+119,the assassination of gianni versace: american crime story,"Supporting Actress, TV Movie/Limited Series",2018,False,
+120,the assassination of gianni versace: american crime story,"Supporting Actress, TV Movie/Limited Series",2018,False,
+121,american horror story: cult,"Supporting Actress, TV Movie/Limited Series",2018,False,
+122,godless,"Supporting Actress, TV Movie/Limited Series",2018,True,Netflix
+123,black museum (black mirror),"Supporting Actress, TV Movie/Limited Series",2018,False,
+124,black-ish,"Lead Actor, Comedy",2018,False,ABC
+125,the good place,"Lead Actor, Comedy",2018,False,NBC
+126,curb your enthusiasm,"Lead Actor, Comedy",2018,False,HBO
+127,atlanta,"Lead Actor, Comedy",2018,False,FX
+128,barry,"Lead Actor, Comedy",2018,True,HBO
+129,shameless,"Lead Actor, Comedy",2018,False,Showtime
+130,better things,"Lead Actress, Comedy",2018,False,FX
+131,the marvelous mrs. maisel,"Lead Actress, Comedy",2018,True,
+132,mom,"Lead Actress, Comedy",2018,False,CBS
+133,nsecure,"Lead Actress, Comedy",2018,False,
+134,black-ish,"Lead Actress, Comedy",2018,False,ABC
+135,grace and frankie,"Lead Actress, Comedy",2018,False,Netflix
+136,atlanta,Directing for a Comedy Series,2018,False,FX
+137,atlanta,Directing for a Comedy Series,2018,False,FX
+138,barry,Directing for a Comedy Series,2018,False,HBO
+139,glow,Directing for a Comedy Series,2018,False,Netflix
+140,silicon valley,Directing for a Comedy Series,2018,False,HBO
+141,the marvelous mrs. maisel,Directing for a Comedy Series,2018,True,
+142,the big bang theory,Directing for a Comedy Series,2018,False,CBS
+143,atlanta,Writing for a Comedy Series,2018,False,FX
+144,atlanta,Writing for a Comedy Series,2018,False,FX
+145,barry,Writing for a Comedy Series,2018,False,HBO
+146,barry,Writing for a Comedy Series,2018,False,HBO
+147,silicon valley,Writing for a Comedy Series,2018,False,HBO
+148,the marvelous mrs. maisel,Writing for a Comedy Series,2018,True,
+149,atlanta,"Supporting Actress, Comedy",2018,False,FX
+150,the marvelous  mrs. maisel,"Supporting Actress, Comedy",2018,True,
+151,saturday night live,"Supporting Actress, Comedy",2018,False,NBC
+152,glow,"Supporting Actress, Comedy",2018,False,Netflix
+153,saturday night live,"Supporting Actress, Comedy",2018,False,NBC
+154,saturday night live,"Supporting Actress, Comedy",2018,False,NBC
+155,oseanne,"Supporting Actress, Comedy",2018,False,
+156,ill & grace,"Supporting Actress, Comedy",2018,False,
+157,baskets,"Supporting Actor, Comedy",2018,False,FX
+158,saturday night live,"Supporting Actor, Comedy",2018,False,NBC
+159,unbreakable kimmy schmidt,"Supporting Actor, Comedy",2018,False,Netflix
+160,atlanta,"Supporting Actor, Comedy",2018,False,FX
+161,the marvelous mrs. maisel,"Supporting Actor, Comedy",2018,False,
+162,saturday night live,"Supporting Actor, Comedy",2018,False,NBC
+163,barry,"Supporting Actor, Comedy",2018,True,HBO
+0,better call saul,Drama Series,2019,False,Netflix
+1,bodyguard,Drama Series,2019,False,Netflix
+2,game of thrones,Drama Series,2019,True,HBO
+3,killing eve,Drama Series,2019,False,BBC
+4,ozark,Drama Series,2019,False,Netflix
+5,pose,Drama Series,2019,True,FX
+6,succession,Drama Series,2019,False,HBO
+7,this is us,Drama Series,2019,False,ABC
+8,ozark,"Lead Actor, Drama",2019,False,Netflix
+9,this is us,"Lead Actor, Drama",2019,False,ABC
+10,game of thrones,"Lead Actor, Drama",2019,False,HBO
+11,better call saul,"Lead Actor, Drama",2019,False,Netflix
+12,pose,"Lead Actor, Drama",2019,False,FX
+13,this is us,"Lead Actor, Drama",2019,False,ABC
+14,game of thrones,"Lead Actress, Drama",2019,False,HBO
+15,killing eve,"Lead Actress, Drama",2019,True,BBC
+16,how to get away with murder,"Lead Actress, Drama",2019,False,ABC
+17,ozark,"Lead Actress, Drama",2019,False,Netflix
+18,this is us,"Lead Actress, Drama",2019,False,ABC
+19,killing eve,"Lead Actress, Drama",2019,False,BBC
+20,house of cards,"Lead Actress, Drama",2019,False,Netflix
+21,game of thrones,"Supporting Actor, Drama",2019,False,HBO
+22,better call saul,"Supporting Actor, Drama",2019,False,Netflix
+23,game of thrones,"Supporting Actor, Drama",2019,False,HBO
+24,game of thrones,"Supporting Actor, Drama",2019,True,HBO
+25,better call saul,"Supporting Actor, Drama",2019,False,Netflix
+26,house of cards,"Supporting Actor, Drama",2019,False,Netflix
+27,this is us,"Supporting Actor, Drama",2019,False,ABC
+28,game of thrones,"Supporting Actress, Drama",2019,False,HBO
+29,ozark,"Supporting Actress, Drama",2019,True,Netflix
+30,game of thrones,"Supporting Actress, Drama",2019,False,HBO
+31,killing eve,"Supporting Actress, Drama",2019,False,BBC
+32,game of thrones,"Supporting Actress, Drama",2019,False,HBO
+33,game of thrones,"Supporting Actress, Drama",2019,False,HBO
+34,game of thrones,Directing for a Drama,2019,False,HBO
+35,game of thrones,Directing for a Drama,2019,False,HBO
+36,game of thrones,Directing for a Drama,2019,False,HBO
+37,killing eve,Directing for a Drama,2019,False,BBC
+38,ozark,Directing for a Drama,2019,True,Netflix
+39,succession,Directing for a Drama,2019,False,HBO
+40,the handmaid's tale,Directing for a Drama,2019,False,
+41,better call saul,Writing for a Drama Series,2019,False,Netflix
+42,bodyguard,Writing for a Drama Series,2019,False,Netflix
+43,game of thrones,Writing for a Drama Series,2019,False,HBO
+44,killing eve,Writing for a Drama Series,2019,False,BBC
+45,succession,Writing for a Drama Series,2019,True,HBO
+46,the handmaid’s tale,Writing for a Drama Series,2019,False,
+47,barry,Comedy Series,2019,False,HBO
+48,fleabag,Comedy Series,2019,True,Fleabag
+49,the good place,Comedy Series,2019,False,NBC
+50,the marvelous mrs. maisel,Comedy Series,2019,False,
+51,russian doll,Comedy Series,2019,False,Netflix
+52,schitt’s creek,Comedy Series,2019,False,Pop TV
+53,veep,Comedy Series,2019,False,HBO
+54,black-ish,"Lead Actor, Comedy",2019,False,ABC
+55,black monday,"Lead Actor, Comedy",2019,False,Showtime
+56,the good place,"Lead Actor, Comedy",2019,False,NBC
+57,the kominsky method,"Lead Actor, Comedy",2019,False,Netflix
+58,barry,"Lead Actor, Comedy",2019,True,HBO
+59,schitt’s creek,"Lead Actor, Comedy",2019,False,Pop TV
+60,dead to me,"Lead Actress, Comedy",2019,False,CBS
+61,the marvelous mrs. maisel,"Lead Actress, Comedy",2019,False,
+62,veep,"Lead Actress, Comedy",2019,False,HBO
+63,russian doll,"Lead Actress, Comedy",2019,False,Netflix
+64,schitt’s creek,"Lead Actress, Comedy",2019,False,Pop TV
+65,fleabag,"Lead Actress, Comedy",2019,True,Fleabag
+66,the kominsky method,"Supporting Actor, Comedy",2019,False,Netflix
+67,barry,"Supporting Actor, Comedy",2019,False,HBO
+68,veep,"Supporting Actor, Comedy",2019,False,HBO
+69,barry,"Supporting Actor, Comedy",2019,False,HBO
+70,the marvelous mrs. maisel,"Supporting Actor, Comedy",2019,True,
+71,barry,"Supporting Actor, Comedy",2019,False,HBO
+72,the marvelous mrs. maisel,"Supporting Actress, Comedy",2019,False,
+73,veep,"Supporting Actress, Comedy",2019,False,HBO
+74,fleabag,"Supporting Actress, Comedy",2019,False,Fleabag
+75,fleabag,"Supporting Actress, Comedy",2019,False,Fleabag
+76,glow,"Supporting Actress, Comedy",2019,False,Netflix
+77,barry,"Supporting Actress, Comedy",2019,False,HBO
+78,the marvelous mrs. maisel,"Supporting Actress, Comedy",2019,True,
+79,saturday night live,"Supporting Actress, Comedy",2019,False,NBC
+80,barry,Writing for a Comedy Series,2019,False,HBO
+81,fleabag,Writing for a Comedy Series,2019,True,Fleabag
+82,pen15,Writing for a Comedy Series,2019,False,Hulu
+83,russian doll,Writing for a Comedy Series,2019,False,Netflix
+84,russian doll,Writing for a Comedy Series,2019,False,Netflix
+85,the good place,Writing for a Comedy Series,2019,False,NBC
+86,barry,Directing for a Comedy Series,2019,False,HBO
+87,barry,Directing for a Comedy Series,2019,False,HBO
+88,the big bang theory,Directing for a Comedy Series,2019,False,CBS
+89,fleabag,Directing for a Comedy Series,2019,True,Fleabag
+90,the marvelous mrs. maisel,Directing for a Comedy Series,2019,False,
+91,the marvelous mrs. maisel,Directing for a Comedy Series,2019,False,
+92,chernobyl,Limited Series,2019,True,HBO
+93,escape at dannemora,Limited Series,2019,False,Showtime
+94,fosse/verdon,Limited Series,2019,False,FX
+95,sharp objects,Limited Series,2019,False,HBO
+96,when they see us,Limited Series,2019,False,Netflix
+97,sharp objects,"Lead Actress, TV Movie/Limited Series",2019,False,HBO
+98,escape at dannemora,"Lead Actress, TV Movie/Limited Series",2019,False,Showtime
+99,when they see us,"Lead Actress, TV Movie/Limited Series",2019,False,Netflix
+100,the act,"Lead Actress, TV Movie/Limited Series",2019,False,Hulu
+101,when they see us,"Lead Actress, TV Movie/Limited Series",2019,True,Netflix
+102,fosse/verdon,"Lead Actress, TV Movie/Limited Series",2019,False,FX
+103,true detective,"Lead Actor, TV Movie/Limited Series",2019,False,HBO
+104,escape at dannemora,"Lead Actor, TV Movie/Limited Series",2019,False,Showtime
+105,a very english scandal,"Lead Actor, TV Movie/Limited Series",2019,False,Amazon Studios
+106,chernobyl,"Lead Actor, TV Movie/Limited Series",2019,False,HBO
+107,when they see us,"Lead Actor, TV Movie/Limited Series",2019,False,Netflix
+108,fosse/verdon,"Lead Actor, TV Movie/Limited Series",2019,False,FX
+109,when they see us,"Supporting Actor, TV Movie/Limited Series",2019,False,Netflix
+110,escape at dannemora,"Supporting Actor, TV Movie/Limited Series",2019,False,Showtime
+111,when they see us,"Supporting Actor, TV Movie/Limited Series",2019,False,Netflix
+112,chernobyl,"Supporting Actor, TV Movie/Limited Series",2019,False,HBO
+113,a very english scandal,"Supporting Actor, TV Movie/Limited Series",2019,True,Amazon Studios
+114,when they see us,"Supporting Actor, TV Movie/Limited Series",2019,False,Netflix
+115,the act,"Supporting Actress, TV Movie/Limited Series",2019,True,Hulu
+116,when they see us,"Supporting Actress, TV Movie/Limited Series",2019,False,Netflix
+117,sharp objects,"Supporting Actress, TV Movie/Limited Series",2019,False,HBO
+118,when they see us,"Supporting Actress, TV Movie/Limited Series",2019,False,Netflix
+119,fosse/verdon,"Supporting Actress, TV Movie/Limited Series",2019,False,FX
+120,chernobyl,"Supporting Actress, TV Movie/Limited Series",2019,False,HBO
+121,a very english scandal,Directing for a TV Movie/Limited Series,2019,False,Amazon Studios
+122,chernobyl,Directing for a TV Movie/Limited Series,2019,True,HBO
+123,escape at dannemora,Directing for a TV Movie/Limited Series,2019,False,Showtime
+124,fosse/verdon,Directing for a TV Movie/Limited Series,2019,False,FX
+125,fosse/verdon,Directing for a TV Movie/Limited Series,2019,False,FX
+126,when they see us,Directing for a TV Movie/Limited Series,2019,False,Netflix
+127,a very english scandal,Writing for a TV Movie/Limited Series,2019,False,Amazon Studios
+128,chernobyl,Writing for a TV Movie/Limited Series,2019,True,HBO
+129,escape at dannemora,Writing for a TV Movie/Limited Series,2019,False,Showtime
+130,escape at dannemora,Writing for a TV Movie/Limited Series,2019,False,Showtime
+131,fosse/verdon,Writing for a TV Movie/Limited Series,2019,False,FX
+132,when they see us,Writing for a TV Movie/Limited Series,2019,False,Netflix
+133,black mirror: bandersnatch,TV Movie,2019,True,
+134,brexit,TV Movie,2019,False,HBO
+135,deadwood: the movie,TV Movie,2019,False,HBO
+136,king lear,TV Movie,2019,False,Amazon Studios
+137,my dinner with hervé,TV Movie,2019,False,HBO
+138,american ninja warrior,Reality Competition Series,2019,False,NBC
+139,nailed it!,Reality Competition Series,2019,False,Netflix
+140,rupaul’s drag race,Reality Competition Series,2019,True,
+141,the amazing race,Reality Competition Series,2019,False,CBS
+142,the voice,Reality Competition Series,2019,False,NBC
+143,top chef,Reality Competition Series,2019,False,Bravo
+144,the daily show with trevor noah,Variety Talk Series,2019,False,Comedy Central
+145,full frontal with samantha bee,Variety Talk Series,2019,False,TBS
+146,jimmy kimmel live!,Variety Talk Series,2019,False,ABC
+147,last week tonight with john oliver,Variety Talk Series,2019,True,HBO
+148,the late late show with james corden,Variety Talk Series,2019,False,CBS
+149,the late show with stephen colbert,Variety Talk Series,2019,False,CBS
+150,at home with amy sedaris,Variety Sketch Series,2019,False,truTV
+151,documentary now!,Variety Sketch Series,2019,False,IFC
+152,drunk history,Variety Sketch Series,2019,False,Comedy Central
+153,i love you america with sarah silverman,Variety Sketch Series,2019,False,Hulu
+154,saturday night live,Variety Sketch Series,2019,True,NBC
+155,who is america?,Variety Sketch Series,2019,False,Showtime
+0,better call saul,Drama Series,2020,False,Netflix
+1,the crown,Drama Series,2020,False,Netflix
+2,the handmaid’s tale,Drama Series,2020,False,
+3,killing eve,Drama Series,2020,False,BBC
+4,the mandalorian,Drama Series,2020,False,Disney+
+5,ozark,Drama Series,2020,False,Netflix
+6,stranger things,Drama Series,2020,False,Netflix
+7,succession,Drama Series,2020,True,HBO
+8,the crown,"Supporting Actress, Drama",2020,False,Netflix
+9,big little lies,"Supporting Actress, Drama",2020,False,HBO
+10,ozark,"Supporting Actress, Drama",2020,True,Netflix
+11,westworld,"Supporting Actress, Drama",2020,False,HBO
+12,killing eve,"Supporting Actress, Drama",2020,False,BBC
+13,succession,"Supporting Actress, Drama",2020,False,HBO
+14,big little lies,"Supporting Actress, Drama",2020,False,HBO
+15,the handmaid’s tale,"Supporting Actress, Drama",2020,False,
+16,succession,"Supporting Actor, Drama",2020,False,HBO
+17,the morning show,"Supporting Actor, Drama",2020,True,Apple TV
+18,succession,"Supporting Actor, Drama",2020,False,HBO
+19,the morning show,"Supporting Actor, Drama",2020,False,Apple TV
+20,better call saul,"Supporting Actor, Drama",2020,False,Netflix
+21,succession,"Supporting Actor, Drama",2020,False,HBO
+22,the handmaid’s tale,"Supporting Actor, Drama",2020,False,
+23,westworld,"Supporting Actor, Drama",2020,False,HBO
+24,the crown,Directing for a Drama,2020,False,Netflix
+25,the crown,Directing for a Drama,2020,False,Netflix
+26,homeland,Directing for a Drama,2020,False,Showtime
+27,the morning show,Directing for a Drama,2020,False,Apple TV
+28,ozark,Directing for a Drama,2020,False,Netflix
+29,ozark,Directing for a Drama,2020,False,Netflix
+30,succession,Directing for a Drama,2020,True,HBO
+31,succession,Directing for a Drama,2020,False,HBO
+32,better call saul,Writing for a Drama Series,2020,False,Netflix
+33,better call saul,Writing for a Drama Series,2020,False,Netflix
+34,the crown,Writing for a Drama Series,2020,False,Netflix
+35,ozark,Writing for a Drama Series,2020,False,Netflix
+36,ozark,Writing for a Drama Series,2020,False,Netflix
+37,ozark,Writing for a Drama Series,2020,False,Netflix
+38,succession,Writing for a Drama Series,2020,True,HBO
+39,the morning show,"Lead Actress, Drama",2020,False,Apple TV
+40,the crown,"Lead Actress, Drama",2020,False,Netflix
+41,killing eve,"Lead Actress, Drama",2020,False,BBC
+42,ozark,"Lead Actress, Drama",2020,False,Netflix
+43,killing eve,"Lead Actress, Drama",2020,False,BBC
+44,euphoria,"Lead Actress, Drama",2020,True,HBO
+45,ozark,"Lead Actor, Drama",2020,False,Netflix
+46,this is us,"Lead Actor, Drama",2020,False,ABC
+47,the morning show,"Lead Actor, Drama",2020,False,Apple TV
+48,succession,"Lead Actor, Drama",2020,False,HBO
+49,pose,"Lead Actor, Drama",2020,False,FX
+50,succession,"Lead Actor, Drama",2020,True,HBO
+51,the masked singer,Reality Competition Series,2020,False,Fox
+52,nailed it!,Reality Competition Series,2020,False,Netflix
+53,rupaul’s drag race,Reality Competition Series,2020,True,
+54,top chef,Reality Competition Series,2020,False,Bravo
+55,the voice,Reality Competition Series,2020,False,NBC
+56,little fires everywhere,Limited Series,2020,False,Huu
+57,mrs. america,Limited Series,2020,False,FX
+58,unbelievable,Limited Series,2020,False,CBS
+59,unorthodox,Limited Series,2020,False,Netflix
+60,watchmen,Limited Series,2020,True,HBO
+61,mrs. america,"Supporting Actress, TV Movie/Limited Series",2020,True,FX
+62,unbelievable,"Supporting Actress, TV Movie/Limited Series",2020,False,CBS
+63,mrs. america,"Supporting Actress, TV Movie/Limited Series",2020,False,FX
+64,watchmen,"Supporting Actress, TV Movie/Limited Series",2020,False,HBO
+65,hollywood,"Supporting Actress, TV Movie/Limited Series",2020,False,Netflix
+66,mrs. america,"Supporting Actress, TV Movie/Limited Series",2020,False,FX
+67,watchmen,"Supporting Actor, TV Movie/Limited Series",2020,True,HBO
+68,watchmen,"Supporting Actor, TV Movie/Limited Series",2020,False,HBO
+69,unbreakable kimmy schmidt: kimmy vs. the reverend,"Supporting Actor, TV Movie/Limited Series",2020,False,
+70,watchmen,"Supporting Actor, TV Movie/Limited Series",2020,False,HBO
+71,hollywood,"Supporting Actor, TV Movie/Limited Series",2020,False,Netflix
+72,hollywood,"Supporting Actor, TV Movie/Limited Series",2020,False,Netflix
+73,little fires everywhere,Directing for a TV Movie/Limited Series,2020,False,Huu
+74,normal people,Directing for a TV Movie/Limited Series,2020,False,Hulu
+75,unorthodox,Directing for a TV Movie/Limited Series,2020,True,Netflix
+76,watchmen,Directing for a TV Movie/Limited Series,2020,False,HBO
+77,watchmen,Directing for a TV Movie/Limited Series,2020,False,HBO
+78,watchmen,Directing for a TV Movie/Limited Series,2020,False,HBO
+79,mrs. america,Writing for a TV Movie/Limited Series,2020,False,FX
+80,normal people,Writing for a TV Movie/Limited Series,2020,False,Hulu
+81,unbelievable,Writing for a TV Movie/Limited Series,2020,False,CBS
+82,unorthodox,Writing for a TV Movie/Limited Series,2020,False,Netflix
+83,watchmen,Writing for a TV Movie/Limited Series,2020,True,HBO
+84,watchmen,"Lead Actor, TV Movie/Limited Series",2020,False,HBO
+85,bad education,"Lead Actor, TV Movie/Limited Series",2020,False,HBO
+86,normal people,"Lead Actor, TV Movie/Limited Series",2020,False,Hulu
+87,hollywood,"Lead Actor, TV Movie/Limited Series",2020,False,Netflix
+88,i know this much is true,"Lead Actor, TV Movie/Limited Series",2020,True,HBO
+89,mrs. america,"Lead Actress, TV Movie/Limited Series",2020,False,FX
+90,unorthodox,"Lead Actress, TV Movie/Limited Series",2020,False,Netflix
+91,watchmen,"Lead Actress, TV Movie/Limited Series",2020,True,HBO
+92,self made,"Lead Actress, TV Movie/Limited Series",2020,False,Netflix
+93,little fires everywhere,"Lead Actress, TV Movie/Limited Series",2020,False,Huu
+94,the daily show with trevor noah,Variety Talk Series,2020,False,Comedy Central
+95,full frontal with samantha bee,Variety Talk Series,2020,False,TBS
+96,jimmy kimmel live!,Variety Talk Series,2020,False,ABC
+97,last week tonight with john oliver,Variety Talk Series,2020,True,HBO
+98,the late show with stephen colbert,Variety Talk Series,2020,False,CBS
+99,curb your enthusiasm,Comedy Series,2020,False,HBO
+100,dead to me,Comedy Series,2020,False,CBS
+101,the good place,Comedy Series,2020,False,NBC
+102,insecure,Comedy Series,2020,False,HBO
+103,the kominsky method,Comedy Series,2020,False,Netflix
+104,the marvelous mrs. maisel,Comedy Series,2020,False,
+105,schitt’s creek,Comedy Series,2020,True,Pop TV
+106,what we do in the shadows,Comedy Series,2020,False,FX
+107,the marvelous mrs. maisel,"Supporting Actress, Comedy",2020,False,
+108,the good place,"Supporting Actress, Comedy",2020,False,NBC
+109,glow,"Supporting Actress, Comedy",2020,False,Netflix
+110,the marvelous mrs. maisel,"Supporting Actress, Comedy",2020,False,
+111,saturday night live,"Supporting Actress, Comedy",2020,False,NBC
+112,schitt’s creek,"Supporting Actress, Comedy",2020,True,Pop TV
+113,insecure,"Supporting Actress, Comedy",2020,False,HBO
+114,saturday night live,"Supporting Actress, Comedy",2020,False,NBC
+115,ramy,"Supporting Actor, Comedy",2020,False,Hulu
+116,the kominsky method,"Supporting Actor, Comedy",2020,False,Netflix
+117,brooklyn nine-nine,"Supporting Actor, Comedy",2020,False,NBC
+118,the marvelous mrs. maisel,"Supporting Actor, Comedy",2020,False,
+119,the good place,"Supporting Actor, Comedy",2020,False,NBC
+120,schitt’s creek,"Supporting Actor, Comedy",2020,True,Pop TV
+121,the marvelous mrs. maisel,"Supporting Actor, Comedy",2020,False,
+122,saturday night live,"Supporting Actor, Comedy",2020,False,NBC
+123,the great,Directing for a Comedy Series,2020,False,Hulu
+124,the marvelous mrs. maisel,Directing for a Comedy Series,2020,False,
+125,the marvelous mrs. maisel,Directing for a Comedy Series,2020,False,
+126,modern family,Directing for a Comedy Series,2020,False,ABC
+127,ramy,Directing for a Comedy Series,2020,False,Hulu
+128,schitt’s creek,Directing for a Comedy Series,2020,True,Pop TV
+129,will & grace,Directing for a Comedy Series,2020,False,NBC
+130,the good place,Writing for a Comedy Series,2020,False,NBC
+131,the great,Writing for a Comedy Series,2020,False,Hulu
+132,schitt’s creek,Writing for a Comedy Series,2020,True,Pop TV
+133,schitt’s creek,Writing for a Comedy Series,2020,False,Pop TV
+134,what we do in the shadows,Writing for a Comedy Series,2020,False,FX
+135,what we do in the shadows,Writing for a Comedy Series,2020,False,FX
+136,what we do in the shadows,Writing for a Comedy Series,2020,False,FX
+137,black-ish,"Lead Actor, Comedy",2020,False,ABC
+138,black monday,"Lead Actor, Comedy",2020,False,Showtime
+139,the good place,"Lead Actor, Comedy",2020,False,NBC
+140,the kominsky method,"Lead Actor, Comedy",2020,False,Netflix
+141,schitt’s creek,"Lead Actor, Comedy",2020,True,Pop TV
+142,ramy,"Lead Actor, Comedy",2020,False,Hulu
+143,dead to me,"Lead Actress, Comedy",2020,False,CBS
+144,the marvelous mrs. maisel,"Lead Actress, Comedy",2020,False,
+145,dead to me,"Lead Actress, Comedy",2020,False,CBS
+146,schitt’s creek,"Lead Actress, Comedy",2020,True,Pop TV
+147,insecure,"Lead Actress, Comedy",2020,False,HBO
+148,black-ish,"Lead Actress, Comedy",2020,False,ABC

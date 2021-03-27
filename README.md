@@ -1,4 +1,5 @@
-![tv gif](<img src="/Project-2/tv_giphy.gif" width="250" height="250"/>)
+![tv gif](https://github.com/stephenbretscher/Project-2/blob/main/tv.gif)
+
 
 
 OVERVIEW: 

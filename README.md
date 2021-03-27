@@ -1,4 +1,4 @@
-![tv gif](https://github.com/stephenbretscher/Project-2/blob/main/tv_giphy.gif)
+![tv gif](https://github.com/stephenbretscher/Project-2/blob/main/tv_giphy.gif width="48)
 
 
 OVERVIEW: 

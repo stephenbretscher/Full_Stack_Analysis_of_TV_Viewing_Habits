@@ -1,0 +1,41 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <h1>Project 2</h1>
+    <p class="lead">
+        For this project, we looked at consumer television viewing trends and ratings. As a starting point, we web scraped Emmy nominations from 2016-2020 and used that dataset as an anchor point and calculated the nomination frequency filtered by title. From there, we merged viewing medium (channel), IMDB scores, Reel scores and Rotten Tomatoes scores.
+    </p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Diagrams</h2>
+        <p>Flask is a pain in the ass.</p>
+        <p><a class="btn btn-default" href="{{ url_for('Stephen') }}">Stephen? &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>More diagrams</h2>
+        <p>filler text</p>
+        <p><a class="btn btn-default" href="{{ url_for('Allison') }}">Allison? &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Even more diagrams</h2>
+        <p>Filler text</p>
+        <p><a class="btn btn-default" href="{{ url_for('Chandler') }}">Chandler? &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Diagrams</h2>
+        <p>Flask continues to be a pain in the ass
+        </p>
+        <p><a class="btn btn-default" href="{{ url_for('Sharice') }}">Sharice? &raquo;</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Diagrams2</h2>
+        <p>Flask is a pain in the ass still.</p>
+        <p><a class="btn btn-default" href="{{ url_for('test') }}">test? &raquo;</a></p>
+    </div>
+</div>
+
+    {% endblock %}

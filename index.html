@@ -3,185 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>First Chart</title>
+    <title>Project 2</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="static/css/style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
     <div class="topnav">
-        <a class="active" href="#home">Home</a>
-        <a href="data[e].html">Emmy Nominations</a>
+        <a class="active" href="index.html">Home</a>
+        <a href="emmys_mega_table.html">Emmy Nominations</a>
+        <a href="combined_scores_table.html">Combined Scores</a>
         <a href="timeline2.html">Timeline</a>
-        <a href="emmy5.html">Emmys_NetvsStream</a>
-        <a href="2012_lib.html">Stream Libary</a>
-        <a href="#about">Readme</a>
+        <a href="emmy5.html">Emmy's NetvsStream</a>
+        <a href="2021_lib.html">Stream Library</a>
+        <a href="SQL.html">SQL</a>
     </div>
-    <div>
-        <section>
-            <header> <center> <h1 style="background-color:lightgray;">How Basic Are Your TV Habits?</h1></center></header>
-
-            <p>
-                <img src="wordcloud_shows.png" alt="El Capitan"
-                     style="float:left;width:200px;height:133px;"><strong>
-                    El
-
-                    Capitan
-                </strong> is a 3,000-foot (910 m) vertical rock formation
-
-                in Yosemite National Park, located on the north side of Yosemite
-
-                Valley, near its western end. The granite monolith is one of the
-
-                world's favorite challenges for rock climbers. The formation was
-
-                named "El Capitan" by the Mariposa Battalion when it explored the
-
-                valley in 1851.
-            </p>
-        </section>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-
-        <section>
-            <p>
-                <img src="wordcloud_shows.png" alt="Tunnel View"
-                     style="float:right;width:200px;height:133px;"><strong>
-                    Tunnel
-
-                    View
-                </strong> is a viewpoint on State Route 41 located directly east
-
-                of the Wawona Tunnel as one enters Yosemite Valley from the south.
-
-                The view looks east into Yosemite Valley including the southwest face
-
-                of El Capitan, Half Dome, and Bridalveil Falls. This is, to many, the
-
-                first views of the popular attractions in Yosemite.
-            </p>
-
-
-
-        </section>
-
+    <div class="w3-content w3-section" style="max-width:500px">
+        <img class="mySlides" src="logos/disney_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/netflix_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/abc_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/hulu_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/nbc_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/bravo_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/amazon_logo.jpeg" style="width:15%">
+        <img class="mySlides" src="logos/cbs_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/appletv_logo.jpg" style="width:25%">
+        <img class="mySlides" src="logos/comedycentral_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/showtime_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/tbs_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/trutv_logo.jpeg" style="width:35%">
+        <img class="mySlides" src="logos/usa_logo.jpeg" style="width:35%">
 
     </div>
 
+    <script>
+        var myIndex = 0;
+        carousel();
 
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
+        function carousel() {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            myIndex++;
+            if (myIndex > x.length) { myIndex = 1 }
+            x[myIndex - 1].style.display = "block";
+            setTimeout(carousel, 2000); // Change image every 2 seconds
+        }
+    </script>
 
-    <footer>
-        <h2 style="text-align:center">Slideshow Gallery</h2>
 
-        <div class="container">
-            <div class="mySlides">
-                <div class="numbertext">1 / 6</div>
-                <img src="disney_logo.jpeg" style="width:35%">
-            </div>
+        <div>
+            <section>
+                <br/>
+                <header> <center> <h1 style="background-color:lightgray;">How Basic Are Your TV Habits?</h1></center></header>
 
-            <div class="mySlides">
-                <div class="numbertext">2 / 6</div>
-                <img src="netflix_logo.jpeg" style="width:35%">
-            </div>
+                <p>
+                    <img src="Emmys_Folder/wordcloud_shows.png" alt="El Capitan"
+                         style="float:left;width:200px;height:133px;"><strong>
+                        El
 
-            <div class="mySlides">
-                <div class="numbertext">3 / 6</div>
-                <img src="abc_logo.jpeg" style="width:35%">
-            </div>
+                        Capitan
+                    </strong> is a 3,000-foot (910 m) vertical rock formation
 
-            <div class="mySlides">
-                <div class="numbertext">4 / 6</div>
-                <img src="hulu_logo.jpeg" style="width:35%">
-            </div>
+                    in Yosemite National Park, located on the north side of Yosemite
 
-            <div class="mySlides">
-                <div class="numbertext">5 / 6</div>
-                <img src="nbc_logo.jpeg" style="width:35%">
-            </div>
+                    Valley, near its western end. The granite monolith is one of the
 
-            <div class="mySlides">
-                <div class="numbertext">6 / 6</div>
-                <img src="bravo_logo.jpeg" style="width:35%">
-            </div>
+                    world's favorite challenges for rock climbers. The formation was
 
-            <a class="prev" onclick="plusSlides(-1)">❮</a>
-            <a class="next" onclick="plusSlides(1)">❯</a>
+                    named "El Capitan" by the Mariposa Battalion when it explored the
 
-            <div class="caption-container">
-                <p id="caption"></p>
-            </div>
+                    valley in 1851.
+                </p>
+            </section>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
 
-            <div class="row">
-                <div class="column">
-                    <img class="demo cursor" src="nbc_logo.jpeg" style="width:100%" onclick="currentSlide(0)" alt="NBC">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="disney_logo.jpeg" style="width:100%" onclick="currentSlide(1)" alt="Disney+">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="netflix_logo.jpeg" style="width:100%" onclick="currentSlide(2)" alt="Netflix">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="hbo_logo.jpeg" style="width:100%" onclick="currentSlide(3)" alt="HBO">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="hulu_logo.jpeg" style="width:100%" onclick="currentSlide(4)" alt="Hulu">
-                </div>
-                <div class="column">
-                    <img class="demo cursor" src="bbc_logo.jpeg" style="width:100%" onclick="currentSlide(5)" alt="BBC">
-                </div>
+            <section>
+                <p>
+                    <img src="Emmys_Folder/wordcloud_shows.png" alt="Tunnel View"
+                         style="float:right;width:200px;height:133px;"><strong>
+                        Tunnel
 
-            </div>
+                        View
+                    </strong> is a viewpoint on State Route 41 located directly east
+
+                    of the Wawona Tunnel as one enters Yosemite Valley from the south.
+
+                    The view looks east into Yosemite Valley including the southwest face
+
+                    of El Capitan, Half Dome, and Bridalveil Falls. This is, to many, the
+
+                    first views of the popular attractions in Yosemite.
+                </p>
+
+            </section>
         </div>
-        <script>
-            var slideIndex = 1;
-            showSlides(slideIndex);
 
-            function plusSlides(n) {
-                showSlides(slideIndex += n);
-            }
-
-            function currentSlide(n) {
-                showSlides(slideIndex = n);
-            }
-
-            function showSlides(n) {
-                var i;
-                var slides = document.getElementsByClassName("mySlides");
-                var dots = document.getElementsByClassName("demo");
-                var captionText = document.getElementById("caption");
-                if (n > slides.length) { slideIndex = 1 }
-                if (n < 1) { slideIndex = slides.length }
-                for (i = 0; i < slides.length; i++) {
-                    slides[i].style.display = "none";
-                }
-                for (i = 0; i < dots.length; i++) {
-                    dots[i].className = dots[i].className.replace(" active", "");
-                }
-                slides[slideIndex - 1].style.display = "block";
-                dots[slideIndex - 1].className += " active";
-                captionText.innerHTML = dots[slideIndex - 1].alt;
-            }
-        </script>
-
-    </footer>
+    
 </body>
 </html>

@@ -46,7 +46,7 @@ app = Flask(__name__)
 #################################################
 
 
-@app.route("/")
+@app.route("")
 def test():
     query = f"""SELECT * FROM combined_scores"""
     conn = engine.connect()
@@ -56,6 +56,7 @@ def test():
     data = {'chart_data': chart_data}
     return render_template("index.html", data=data)
     
+
 
 if __name__ == "__main__":
     app.run()

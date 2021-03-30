@@ -1,0 +1,150 @@
+,Nominees,Awards,is_winner,Year
+0,Better Call Saul,Drama Series,False,2020
+1,The Crown,Drama Series,False,2020
+2,The Handmaid’s Tale,Drama Series,False,2020
+3,Killing Eve,Drama Series,False,2020
+4,The Mandalorian,Drama Series,False,2020
+5,Ozark,Drama Series,False,2020
+6,Stranger Things,Drama Series,False,2020
+7,Succession,Drama Series,True,2020
+8,The Crown,"Supporting Actress, Drama",False,2020
+9,Big Little Lies,"Supporting Actress, Drama",False,2020
+10,Ozark,"Supporting Actress, Drama",True,2020
+11,Westworld,"Supporting Actress, Drama",False,2020
+12,Killing Eve,"Supporting Actress, Drama",False,2020
+13,Succession,"Supporting Actress, Drama",False,2020
+14,Big Little Lies,"Supporting Actress, Drama",False,2020
+15,The Handmaid’s Tale,"Supporting Actress, Drama",False,2020
+16,Succession,"Supporting Actor, Drama",False,2020
+17,The Morning Show,"Supporting Actor, Drama",True,2020
+18,Succession,"Supporting Actor, Drama",False,2020
+19,The Morning Show,"Supporting Actor, Drama",False,2020
+20,Better Call Saul,"Supporting Actor, Drama",False,2020
+21,Succession,"Supporting Actor, Drama",False,2020
+22,The Handmaid’s Tale,"Supporting Actor, Drama",False,2020
+23,Westworld,"Supporting Actor, Drama",False,2020
+24,The Crown,Directing for a Drama,False,2020
+25,The Crown,Directing for a Drama,False,2020
+26,Homeland,Directing for a Drama,False,2020
+27,"The Morning Show,",Directing for a Drama,False,2020
+28,"Ozark,",Directing for a Drama,False,2020
+29,Ozark,Directing for a Drama,False,2020
+30,Succession,Directing for a Drama,True,2020
+31,Succession,Directing for a Drama,False,2020
+32,"Better Call Saul,",Writing for a Drama Series,False,2020
+33,"Better Call Saul,",Writing for a Drama Series,False,2020
+34,The Crown,Writing for a Drama Series,False,2020
+35,"Ozark,",Writing for a Drama Series,False,2020
+36,"Ozark,",Writing for a Drama Series,False,2020
+37,"Ozark,",Writing for a Drama Series,False,2020
+38,"Succession,",Writing for a Drama Series,True,2020
+39,The Morning Show,"Lead Actress, Drama",False,2020
+40,The Crown,"Lead Actress, Drama",False,2020
+41,Killing Eve,"Lead Actress, Drama",False,2020
+42,Ozark,"Lead Actress, Drama",False,2020
+43,Killing Eve,"Lead Actress, Drama",False,2020
+44,Euphoria,"Lead Actress, Drama",True,2020
+45,Ozark,"Lead Actor, Drama",False,2020
+46,This Is Us,"Lead Actor, Drama",False,2020
+47,The Morning Show,"Lead Actor, Drama",False,2020
+48,Succession,"Lead Actor, Drama",False,2020
+49,Pose,"Lead Actor, Drama",False,2020
+50,Succession,"Lead Actor, Drama",True,2020
+51,The Masked Singer,Reality Competition Series,False,2020
+52,Nailed It!,Reality Competition Series,False,2020
+53,RuPaul’s Drag Race,Reality Competition Series,True,2020
+54,Top Chef,Reality Competition Series,False,2020
+55,The Voice,Reality Competition Series,False,2020
+56,Little Fires Everywhere,Limited Series,False,2020
+57,Mrs. America,Limited Series,False,2020
+58,Unbelievable,Limited Series,False,2020
+59,Unorthodox,Limited Series,False,2020
+60,Watchmen,Limited Series,True,2020
+61,Mrs. America,"Supporting Actress, TV Movie/Limited Series",True,2020
+62,Unbelievable,"Supporting Actress, TV Movie/Limited Series",False,2020
+63,Mrs. America,"Supporting Actress, TV Movie/Limited Series",False,2020
+64,Watchmen,"Supporting Actress, TV Movie/Limited Series",False,2020
+65,Hollywood,"Supporting Actress, TV Movie/Limited Series",False,2020
+66,Mrs. America,"Supporting Actress, TV Movie/Limited Series",False,2020
+67,Watchmen,"Supporting Actor, TV Movie/Limited Series",True,2020
+68,Watchmen,"Supporting Actor, TV Movie/Limited Series",False,2020
+69,Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend,"Supporting Actor, TV Movie/Limited Series",False,2020
+70,Watchmen,"Supporting Actor, TV Movie/Limited Series",False,2020
+71,Hollywood,"Supporting Actor, TV Movie/Limited Series",False,2020
+72,Hollywood,"Supporting Actor, TV Movie/Limited Series",False,2020
+73,"Little Fires Everywhere,",Directing for a TV Movie/Limited Series,False,2020
+74,Normal People,Directing for a TV Movie/Limited Series,False,2020
+75,Unorthodox,Directing for a TV Movie/Limited Series,True,2020
+76,Watchmen,Directing for a TV Movie/Limited Series,False,2020
+77,Watchmen,Directing for a TV Movie/Limited Series,False,2020
+78,Watchmen,Directing for a TV Movie/Limited Series,False,2020
+79,Mrs. America,Writing for a TV Movie/Limited Series,False,2020
+80,Normal People,Writing for a TV Movie/Limited Series,False,2020
+81,Unbelievable,Writing for a TV Movie/Limited Series,False,2020
+82,Unorthodox,Writing for a TV Movie/Limited Series,False,2020
+83,Watchmen,Writing for a TV Movie/Limited Series,True,2020
+84,Watchmen,"Lead Actor, TV Movie/Limited Series",False,2020
+85,Bad Education,"Lead Actor, TV Movie/Limited Series",False,2020
+86,Normal People,"Lead Actor, TV Movie/Limited Series",False,2020
+87,Hollywood,"Lead Actor, TV Movie/Limited Series",False,2020
+88,I Know This Much Is True,"Lead Actor, TV Movie/Limited Series",True,2020
+89,Mrs. America,"Lead Actress, TV Movie/Limited Series",False,2020
+90,Unorthodox,"Lead Actress, TV Movie/Limited Series",False,2020
+91,Watchmen,"Lead Actress, TV Movie/Limited Series",True,2020
+92,Self Made,"Lead Actress, TV Movie/Limited Series",False,2020
+93,Little Fires Everywhere,"Lead Actress, TV Movie/Limited Series",False,2020
+94,The Daily Show With Trevor Noah,Variety Talk Series,False,2020
+95,Full Frontal With Samantha Bee,Variety Talk Series,False,2020
+96,Jimmy Kimmel Live!,Variety Talk Series,False,2020
+97,Last Week Tonight With John Oliver,Variety Talk Series,True,2020
+98,The Late Show With Stephen Colbert,Variety Talk Series,False,2020
+99,Curb Your Enthusiasm,Comedy Series,False,2020
+100,Dead to Me,Comedy Series,False,2020
+101,The Good Place,Comedy Series,False,2020
+102,Insecure,Comedy Series,False,2020
+103,The Kominsky Method,Comedy Series,False,2020
+104,The Marvelous Mrs. Maisel,Comedy Series,False,2020
+105,Schitt’s Creek,Comedy Series,True,2020
+106,What We Do in the Shadows,Comedy Series,False,2020
+107,The Marvelous Mrs. Maisel,"Supporting Actress, Comedy",False,2020
+108,The Good Place,"Supporting Actress, Comedy",False,2020
+109,GLOW,"Supporting Actress, Comedy",False,2020
+110,The Marvelous Mrs. Maisel,"Supporting Actress, Comedy",False,2020
+111,Saturday Night Live,"Supporting Actress, Comedy",False,2020
+112,Schitt’s Creek,"Supporting Actress, Comedy",True,2020
+113,Insecure,"Supporting Actress, Comedy",False,2020
+114,Saturday Night Live,"Supporting Actress, Comedy",False,2020
+115,Ramy,"Supporting Actor, Comedy",False,2020
+116,The Kominsky Method,"Supporting Actor, Comedy",False,2020
+117,Brooklyn Nine-Nine,"Supporting Actor, Comedy",False,2020
+118,The Marvelous Mrs. Maisel,"Supporting Actor, Comedy",False,2020
+119,The Good Place,"Supporting Actor, Comedy",False,2020
+120,Schitt’s Creek,"Supporting Actor, Comedy",True,2020
+121,The Marvelous Mrs. Maisel,"Supporting Actor, Comedy",False,2020
+122,Saturday Night Live,"Supporting Actor, Comedy",False,2020
+123,"The Great,",Directing for a Comedy,False,2020
+124,"The Marvelous Mrs. Maisel,",Directing for a Comedy,False,2020
+125,The Marvelous Mrs. Maisel,Directing for a Comedy,False,2020
+126,Modern Family,Directing for a Comedy,False,2020
+127,"Ramy,",Directing for a Comedy,False,2020
+128,Schitt’s Creek,Directing for a Comedy,True,2020
+129,"Will & Grace,",Directing for a Comedy,False,2020
+130,"The Good Place,",Writing for a Comedy Series,False,2020
+131,"The Great,",Writing for a Comedy Series,False,2020
+132,"Schitt’s Creek,",Writing for a Comedy Series,True,2020
+133,"Schitt’s Creek,",Writing for a Comedy Series,False,2020
+134,What We Do In the Shadows,Writing for a Comedy Series,False,2020
+135,What We Do In the Shadows,Writing for a Comedy Series,False,2020
+136,What We Do In the Shadows,Writing for a Comedy Series,False,2020
+137,Black-ish,"Lead Actor, Comedy",False,2020
+138,Black Monday,"Lead Actor, Comedy",False,2020
+139,The Good Place,"Lead Actor, Comedy",False,2020
+140,The Kominsky Method,"Lead Actor, Comedy",False,2020
+141,Schitt’s Creek,"Lead Actor, Comedy",True,2020
+142,Ramy,"Lead Actor, Comedy",False,2020
+143,Dead to Me,"Lead Actress, Comedy",False,2020
+144,The Marvelous Mrs. Maisel,"Lead Actress, Comedy",False,2020
+145,Dead to Me,"Lead Actress, Comedy",False,2020
+146,Schitt’s Creek,"Lead Actress, Comedy",True,2020
+147,Insecure,"Lead Actress, Comedy",False,2020
+148,Black-ish,"Lead Actress, Comedy",False,2020

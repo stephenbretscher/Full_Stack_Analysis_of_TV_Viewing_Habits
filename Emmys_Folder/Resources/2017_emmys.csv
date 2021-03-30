@@ -1,0 +1,164 @@
+,Nominees,Awards,Year,is_winner
+0,Better Call Saul,Drama Series,2017,False
+1,The Crown,Drama Series,2017,False
+2,The Handmaid’s Tale,Drama Series,2017,True
+3,House of Cards,Drama Series,2017,False
+4,Stranger Things,Drama Series,2017,False
+5,This Is Us,Drama Series,2017,False
+6,Westworld,Drama Series,2017,False
+7,How to Get Away with Murder,"Lead Actress, Drama",2017,False
+8,The Crown,"Lead Actress, Drama",2017,False
+9,The Handmaid’s Tale,"Lead Actress, Drama",2017,True
+10,The Americans,"Lead Actress, Drama",2017,False
+11,Westworld,"Lead Actress, Drama",2017,False
+12,House of Cards,"Lead Actress, Drama",2017,False
+13,This Is Us,"Lead Actor, Drama",2017,True
+14,Westworld,"Lead Actor, Drama",2017,False
+15,Better Call Saul,"Lead Actor, Drama",2017,False
+16,The Americans,"Lead Actor, Drama",2017,False
+17,Ray Donovan,"Lead Actor, Drama",2017,False
+18,House of Cards,"Lead Actor, Drama",2017,False
+19,This Is Us,"Lead Actor, Drama",2017,False
+20,Big Little Lies,Limited Series,2017,False
+21,Fargo,Limited Series,2017,False
+22,Feud: Bette and Joan,Limited Series,2017,False
+23,Genius,Limited Series,2017,False
+24,The Night Of,Limited Series,2017,False
+25,Black Mirror:,TV Movie,2017,True
+26,Dolly Parton’s Christmas of Many Colors,TV Movie,2017,False
+27,The Immortal Life of Henrietta Lacks,TV Movie,2017,False
+28,Sherlock:,TV Movie,2017,False
+29,The Wizard of Lies,TV Movie,2017,False
+30,Fargo,"Lead Actress, TV Movie/Limited Series",2017,False
+31,American Crime,"Lead Actress, TV Movie/Limited Series",2017,False
+32,Big Little Lies,"Lead Actress, TV Movie/Limited Series",2017,True
+33,Feud: Bette and Joan,"Lead Actress, TV Movie/Limited Series",2017,False
+34,Feud: Bette and Joan,"Lead Actress, TV Movie/Limited Series",2017,False
+35,Big Little Lies,"Lead Actress, TV Movie/Limited Series",2017,False
+36,The Night Of,"Lead Actor, TV Movie/Limited Series",2017,True
+37,Sherlock:,"Lead Actor, TV Movie/Limited Series",2017,False
+38,The Wizard of Lies,"Lead Actor, TV Movie/Limited Series",2017,False
+39,Fargo,"Lead Actor, TV Movie/Limited Series",2017,False
+40,Genius,"Lead Actor, TV Movie/Limited Series",2017,False
+41,The Night Of,"Lead Actor, TV Movie/Limited Series",2017,False
+42,Atlanta,Comedy Series,2017,False
+43,Black-ish,Comedy Series,2017,False
+44,Master of None,Comedy Series,2017,False
+45,Modern Family,Comedy Series,2017,False
+46,Silicon Valley,Comedy Series,2017,False
+47,Unbreakable Kimmy Schmidt,Comedy Series,2017,False
+48,Veep,Comedy Series,2017,True
+49,Better Things,"Lead Actress, Comedy",2017,False
+50,Grace and Frankie,"Lead Actress, Comedy",2017,False
+51,Mom,"Lead Actress, Comedy",2017,False
+52,Unbreakable Kimmy Schmidt,"Lead Actress, Comedy",2017,False
+53,Veep,"Lead Actress, Comedy",2017,True
+54,Black-ish,"Lead Actress, Comedy",2017,False
+55,Grace and Frankie,"Lead Actress, Comedy",2017,False
+56,Black-ish,"Lead Actor, Comedy",2017,False
+57,Master of None,"Lead Actor, Comedy",2017,False
+58,Baskets,"Lead Actor, Comedy",2017,False
+59,Atlanta,"Lead Actor, Comedy",2017,True
+60,Shameless,"Lead Actor, Comedy",2017,False
+61,Transparent,"Lead Actor, Comedy",2017,False
+62,Full Frontal with Samantha Bee,Variety Talk Series,2017,False
+63,Jimmy Kimmel Live!,Variety Talk Series,2017,False
+64,Last Week Tonight with John Oliver,Variety Talk Series,2017,True
+65,The Late Late Show with James Corden,Variety Talk Series,2017,False
+66,The Late Show with Stephen Colbert,Variety Talk Series,2017,False
+67,Real Time with Bill Maher,Variety Talk Series,2017,False
+68,Drunk History,Directing for a Variety Special,2017,False
+69,Jimmy Kimmel Live!,Directing for a Variety Special,2017,False
+70,Last Week Tonight with John Oliver,Directing for a Variety Special,2017,False
+71,The Late Show with Stephen Colbert,Directing for a Variety Special,2017,False
+72,Saturday Night Live,Directing for a Variety Special,2017,True
+73,Big Little Lies,"Writing for a limited series, movie, or dramatic special",2017,False
+74,Black Mirror: San Junipero,"Writing for a limited series, movie, or dramatic special",2017,True
+75,Fargo,"Writing for a limited series, movie, or dramatic special",2017,False
+76,Feud: Bette and Joan,"Writing for a limited series, movie, or dramatic special",2017,False
+77,Feud: Bette and Joan,"Writing for a limited series, movie, or dramatic special",2017,False
+78,The Night Of,"Writing for a limited series, movie, or dramatic special",2017,False
+79,Better Call Saul,Directing for a Drama,2017,False
+80,The Crown,Directing for a Drama,2017,False
+81,The Handmaid’s Tale,Directing for a Drama,2017,True
+82,The Handmaid’s Tale,Directing for a Drama,2017,False
+83,Homeland,Directing for a Drama,2017,False
+84,Stranger Things,Directing for a Drama,2017,False
+85,Westworld,Directing for a Drama,2017,False
+86,The Amazing Race,Reality Competition Program,2017,False
+87,American Ninja Warrior,Reality Competition Program,2017,False
+88,Project Runway,Reality Competition Program,2017,False
+89,RuPaul’s Drag Race,Reality Competition Program,2017,False
+90,Top Chef,Reality Competition Program,2017,False
+91,The Voice,Reality Competition Program,2017,True
+92,Atlanta,Writing for a Comedy Series,2017,False
+93,Atlanta,Writing for a Comedy Series,2017,False
+94,Master of None,Writing for a Comedy Series,2017,True
+95,Silicon Valley,Writing for a Comedy Series,2017,False
+96,Veep,Writing for a Comedy Series,2017,False
+97,Veep,Writing for a Comedy Series,2017,False
+98,Orange Is the New Black,"Supporting Actress, Drama",2017,False
+99,Stranger Things,"Supporting Actress, Drama",2017,False
+100,The Handmaid’s Tale,"Supporting Actress, Drama",2017,False
+101,This Is Us,"Supporting Actress, Drama",2017,False
+102,Westworld,"Supporting Actress, Drama",2017,False
+103,The Handmaid’s Tale,"Supporting Actress, Drama",2017,True
+104,Full Frontal with Samantha Bee,Writing for a Variety Special,2017,False
+105,Last Week Tonight with John Oliver,Writing for a Variety Special,2017,True
+106,Late Night with Seth Meyers,Writing for a Variety Special,2017,False
+107,The Late Show with Stephen Colbert,Writing for a Variety Special,2017,False
+108,Saturday Night Live,Writing for a Variety Special,2017,False
+109,The Night Of,"Supporting Actor, TV Movie/Limited Series",2017,False
+110,Feud: Bette and Joan,"Supporting Actor, TV Movie/Limited Series",2017,False
+111,Big Little Lies,"Supporting Actor, TV Movie/Limited Series",2017,True
+112,Fargo,"Supporting Actor, TV Movie/Limited Series",2017,False
+113,Feud: Bette and Joan,"Supporting Actor, TV Movie/Limited Series",2017,False
+114,The Night Of,"Supporting Actor, TV Movie/Limited Series",2017,False
+115,Big Little Lies,Directing for a TV Movie/Limited Series,2017,True
+116,Fargo,Directing for a TV Movie/Limited Series,2017,False
+117,Feud: Bette and Joan,Directing for a TV Movie/Limited Series,2017,False
+118,Genius,Directing for a TV Movie/Limited Series,2017,False
+119,The Night Of,Directing for a TV Movie/Limited Series,2017,False
+120,The Night Of,Directing for a TV Movie/Limited Series,2017,False
+121,Baskets,"Supporting Actor, Comedy",2017,False
+122,Saturday Night Live,"Supporting Actor, Comedy",2017,True
+123,Unbreakable Kimmy Schmidt,"Supporting Actor, Comedy",2017,False
+124,Modern Family,"Supporting Actor, Comedy",2017,False
+125,Veep,"Supporting Actor, Comedy",2017,False
+126,Veep,"Supporting Actor, Comedy",2017,False
+127,The Americans,Writing for a Drama Series,2017,False
+128,Better Call Saul,Writing for a Drama Series,2017,False
+129,The Crown,Writing for a Drama Series,2017,False
+130,The Handmaid’s Tale,Writing for a Drama Series,2017,True
+131,Stranger Things,Writing for a Drama Series,2017,False
+132,Westworld,Writing for a Drama Series,2017,False
+133,Billy on the Street,Variety Sketch Series,2017,False
+134,Documentary Now!,Variety Sketch Series,2017,False
+135,Drunk History,Variety Sketch Series,2017,False
+136,Portlandia,Variety Sketch Series,2017,False
+137,Saturday Night Live,Variety Sketch Series,2017,True
+138,Tracy Ullman’s Show,Variety Sketch Series,2017,False
+139,Atlanta,Directing for a Comedy Series,2017,True
+140,Silicon Valley,Directing for a Comedy Series,2017,False
+141,Veep,Directing for a Comedy Series,2017,False
+142,Veep,Directing for a Comedy Series,2017,False
+143,Veep,Directing for a Comedy Series,2017,False
+144,Feud: Bette and Joan,"Supporting Actress, TV Movie/Limited Series",2017,False
+145,Big Little Lies,"Supporting Actress, TV Movie/Limited Series",2017,True
+146,Feud: Bette and Joan,"Supporting Actress, TV Movie/Limited Series",2017,False
+147,American Crime,"Supporting Actress, TV Movie/Limited Series",2017,False
+148,The Wizard of Lies,"Supporting Actress, TV Movie/Limited Series",2017,False
+149,Big Little Lies,"Supporting Actress, TV Movie/Limited Series",2017,False
+150,Saturday Night Live,"Supporting Actress, Comedy",2017,False
+151,Veep,"Supporting Actress, Comedy",2017,False
+152,Transparent,"Supporting Actress, Comedy",2017,False
+153,Saturday Night Live,"Supporting Actress, Comedy",2017,False
+154,Transparent,"Supporting Actress, Comedy",2017,False
+155,Saturday Night Live,"Supporting Actress, Comedy",2017,True
+156,Better Call Saul,"Supporting Actor, Drama",2017,False
+157,This Is Us,"Supporting Actor, Drama",2017,False
+158,Stranger Things,"Supporting Actor, Drama",2017,False
+159,House of Cards,"Supporting Actor, Drama",2017,False
+160,The Crown,"Supporting Actor, Drama",2017,True
+161,Homeland,"Supporting Actor, Drama",2017,False
+162,Westworld,"Supporting Actor, Drama",2017,False

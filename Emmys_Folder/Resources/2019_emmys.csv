@@ -1,0 +1,157 @@
+,Nominees,Awards,Year,is_winner
+0,Better Call Saul,Drama Series,2019,False
+1,Bodyguard,Drama Series,2019,False
+2,Game of Thrones,Drama Series,2019,True
+3,Killing Eve,Drama Series,2019,False
+4,Ozark,Drama Series,2019,False
+5,Pose,Drama Series,2019,True
+6,Succession,Drama Series,2019,False
+7,This Is Us,Drama Series,2019,False
+8,Ozark,"Lead Actor, Drama",2019,False
+9,This Is Us,"Lead Actor, Drama",2019,False
+10,Game of Thrones,"Lead Actor, Drama",2019,False
+11,Better Call Saul,"Lead Actor, Drama",2019,False
+12,Pose,"Lead Actor, Drama",2019,False
+13,This Is Us,"Lead Actor, Drama",2019,False
+14,Game of Thrones,"Lead Actress, Drama",2019,False
+15,Killing Eve,"Lead Actress, Drama",2019,True
+16,How to Get Away With Murder,"Lead Actress, Drama",2019,False
+17,Ozark,"Lead Actress, Drama",2019,False
+18,This Is Us,"Lead Actress, Drama",2019,False
+19,Killing Eve,"Lead Actress, Drama",2019,False
+20,House of Cards,"Lead Actress, Drama",2019,False
+21,Game of Thrones,"Supporting Actor, Drama",2019,False
+22,Better Call Saul,"Supporting Actor, Drama",2019,False
+23,Game of Thrones,"Supporting Actor, Drama",2019,False
+24,Game of Thrones,"Supporting Actor, Drama",2019,True
+25,Better Call Saul,"Supporting Actor, Drama",2019,False
+26,House of Cards,"Supporting Actor, Drama",2019,False
+27,This Is Us,"Supporting Actor, Drama",2019,False
+28,Game of Thrones,"Supporting Actress, Drama",2019,False
+29,Ozark,"Supporting Actress, Drama",2019,True
+30,Game of Thrones,"Supporting Actress, Drama",2019,False
+31,Killing Eve,"Supporting Actress, Drama",2019,False
+32,Game of Thrones,"Supporting Actress, Drama",2019,False
+33,Game of Thrones,"Supporting Actress, Drama",2019,False
+34,Game of Thrones,Directing for a Drama,2019,False
+35,Game of Thrones,Directing for a Drama,2019,False
+36,Game of Thrones,Directing for a Drama,2019,False
+37,Killing Eve,Directing for a Drama,2019,False
+38,Ozark,Directing for a Drama,2019,True
+39,Succession,Directing for a Drama,2019,False
+40,The Handmaid's Tale,Directing for a Drama,2019,False
+41,Better Call Saul,Writing for a Drama Series,2019,False
+42,Bodyguard,Writing for a Drama Series,2019,False
+43,Game of Thrones,Writing for a Drama Series,2019,False
+44,Killing Eve,Writing for a Drama Series,2019,False
+45,Succession,Writing for a Drama Series,2019,True
+46,The Handmaid’s Tale,Writing for a Drama Series,2019,False
+47,Barry,Comedy Series,2019,False
+48,Fleabag,Comedy Series,2019,True
+49,The Good Place,Comedy Series,2019,False
+50,The Marvelous Mrs. Maisel,Comedy Series,2019,False
+51,Russian Doll,Comedy Series,2019,False
+52,Schitt’s Creek,Comedy Series,2019,False
+53,Veep,Comedy Series,2019,False
+54,Black-ish,"Lead Actor, Comedy",2019,False
+55,Black Monday,"Lead Actor, Comedy",2019,False
+56,The Good Place,"Lead Actor, Comedy",2019,False
+57,The Kominsky Method,"Lead Actor, Comedy",2019,False
+58,Barry,"Lead Actor, Comedy",2019,True
+59,Schitt’s Creek,"Lead Actor, Comedy",2019,False
+60,Dead to Me,"Lead Actress, Comedy",2019,False
+61,The Marvelous Mrs. Maisel,"Lead Actress, Comedy",2019,False
+62,Veep,"Lead Actress, Comedy",2019,False
+63,Russian Doll,"Lead Actress, Comedy",2019,False
+64,Schitt’s Creek,"Lead Actress, Comedy",2019,False
+65,Fleabag,"Lead Actress, Comedy",2019,True
+66,The Kominsky Method,"Supporting Actor, Comedy",2019,False
+67,Barry,"Supporting Actor, Comedy",2019,False
+68,Veep,"Supporting Actor, Comedy",2019,False
+69,Barry,"Supporting Actor, Comedy",2019,False
+70,The Marvelous Mrs. Maisel,"Supporting Actor, Comedy",2019,True
+71,Barry,"Supporting Actor, Comedy",2019,False
+72,The Marvelous Mrs. Maisel,"Supporting Actress, Comedy",2019,False
+73,Veep,"Supporting Actress, Comedy",2019,False
+74,Fleabag,"Supporting Actress, Comedy",2019,False
+75,Fleabag,"Supporting Actress, Comedy",2019,False
+76,Glow,"Supporting Actress, Comedy",2019,False
+77,Barry,"Supporting Actress, Comedy",2019,False
+78,The Marvelous Mrs. Maisel,"Supporting Actress, Comedy",2019,True
+79,Saturday Night Live,"Supporting Actress, Comedy",2019,False
+80,Barry,Writing for a Comedy Series,2019,False
+81,Fleabag,Writing for a Comedy Series,2019,True
+82,Pen15,Writing for a Comedy Series,2019,False
+83,Russian Doll,Writing for a Comedy Series,2019,False
+84,Russian Doll,Writing for a Comedy Series,2019,False
+85,The Good Place,Writing for a Comedy Series,2019,False
+86,Barry,Directing for a Comedy,2019,False
+87,Barry,Directing for a Comedy,2019,False
+88,The Big Bang Theory,Directing for a Comedy,2019,False
+89,Fleabag,Directing for a Comedy,2019,True
+90,The Marvelous Mrs. Maisel,Directing for a Comedy,2019,False
+91,The Marvelous Mrs. Maisel,Directing for a Comedy,2019,False
+92,Chernobyl,Limited Series,2019,True
+93,Escape at Dannemora,Limited Series,2019,False
+94,Fosse/Verdon,Limited Series,2019,False
+95,Sharp Objects,Limited Series,2019,False
+96,When They See Us,Limited Series,2019,False
+97,Sharp Objects,"Lead Actress, TV Movie/Limited Series",2019,False
+98,Escape at Dannemora,"Lead Actress, TV Movie/Limited Series",2019,False
+99,When They See Us,"Lead Actress, TV Movie/Limited Series",2019,False
+100,The Act,"Lead Actress, TV Movie/Limited Series",2019,False
+101,When They See Us,"Lead Actress, TV Movie/Limited Series",2019,True
+102,Fosse/Verdon,"Lead Actress, TV Movie/Limited Series",2019,False
+103,True Detective,"Lead Actor, TV Movie/Limited Series",2019,False
+104,Escape at Dannemora,"Lead Actor, TV Movie/Limited Series",2019,False
+105,A Very English Scandal,"Lead Actor, TV Movie/Limited Series",2019,False
+106,Chernobyl,"Lead Actor, TV Movie/Limited Series",2019,False
+107,When They See Us,"Lead Actor, TV Movie/Limited Series",2019,False
+108,Fosse/Verdon,"Lead Actor, TV Movie/Limited Series",2019,False
+109,When They See Us,"Supporting Actor, TV Movie/Limited Series",2019,False
+110,Escape at Dannemora,"Supporting Actor, TV Movie/Limited Series",2019,False
+111,When They See Us,"Supporting Actor, TV Movie/Limited Series",2019,False
+112,Chernobyl,"Supporting Actor, TV Movie/Limited Series",2019,False
+113,A Very English Scandal,"Supporting Actor, TV Movie/Limited Series",2019,True
+114,When They See Us,"Supporting Actor, TV Movie/Limited Series",2019,False
+115,The Act,"Supporting Actress, TV Movie/Limited Series",2019,True
+116,When They See Us,"Supporting Actress, TV Movie/Limited Series",2019,False
+117,Sharp Objects,"Supporting Actress, TV Movie/Limited Series",2019,False
+118,When They See Us,"Supporting Actress, TV Movie/Limited Series",2019,False
+119,Fosse/Verdon,"Supporting Actress, TV Movie/Limited Series",2019,False
+120,Chernobyl,"Supporting Actress, TV Movie/Limited Series",2019,False
+121,A Very English Scandal,Directing for a TV Movie/Limited Series,2019,False
+122,Chernobyl,Directing for a TV Movie/Limited Series,2019,True
+123,Escape at Dannemora,Directing for a TV Movie/Limited Series,2019,False
+124,Fosse/Verdon,Directing for a TV Movie/Limited Series,2019,False
+125,Fosse/Verdon,Directing for a TV Movie/Limited Series,2019,False
+126,When They See Us,Directing for a TV Movie/Limited Series,2019,False
+127,A Very English Scandal,Writing for a TV Movie/Limited Series,2019,False
+128,Chernobyl,Writing for a TV Movie/Limited Series,2019,True
+129,Escape At Dannemora,Writing for a TV Movie/Limited Series,2019,False
+130,Escape At Dannemora,Writing for a TV Movie/Limited Series,2019,False
+131,Fosse/Verdon,Writing for a TV Movie/Limited Series,2019,False
+132,When They See Us,Writing for a TV Movie/Limited Series,2019,False
+133,Black Mirror: Bandersnatch,TV Movie,2019,True
+134,Brexit,TV Movie,2019,False
+135,Deadwood: The Movie,TV Movie,2019,False
+136,King Lear,TV Movie,2019,False
+137,My Dinner With Hervé,TV Movie,2019,False
+138,American Ninja Warrior,Reality Competition Series,2019,False
+139,Nailed It!,Reality Competition Series,2019,False
+140,RuPaul’s Drag Race,Reality Competition Series,2019,True
+141,The Amazing Race,Reality Competition Series,2019,False
+142,The Voice,Reality Competition Series,2019,False
+143,Top Chef,Reality Competition Series,2019,False
+144,The Daily Show With Trevor Noah,Variety Talk Series,2019,False
+145,Full Frontal With Samantha Bee,Variety Talk Series,2019,False
+146,Jimmy Kimmel Live!,Variety Talk Series,2019,False
+147,Last Week Tonight With John Oliver,Variety Talk Series,2019,True
+148,The Late Late Show With James Corden,Variety Talk Series,2019,False
+149,The Late Show With Stephen Colbert,Variety Talk Series,2019,False
+150,At Home With Amy Sedaris,Variety Sketch Series,2019,False
+151,Documentary Now!,Variety Sketch Series,2019,False
+152,Drunk History,Variety Sketch Series,2019,False
+153,"I Love You, America With Sarah Silverman",Variety Sketch Series,2019,False
+154,Saturday Night Live,Variety Sketch Series,2019,True
+155,Who Is America?,Variety Sketch Series,2019,False

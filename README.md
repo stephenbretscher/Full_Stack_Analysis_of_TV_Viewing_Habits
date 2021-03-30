@@ -49,4 +49,32 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
     df['Rotten_Tomatoes']  = pd.to_numeric(df['Rotten_Tomatoes'], errors='coerce').fillna(s)
     df['Rotten_Tomatoes'] = df['Rotten_Tomatoes'] * 10
     
-    
+
+### Flask Installation
+* After loading our clean csv's into SQL, we needed a medium to display our website and visualizations. Creating a Flask app allowed us to query the SQL server and display results in a DataFrame that could then be parsed into JSON to help create interactive visualizations using Plotly.
+* For files see:
+    * Clean Data:
+        * CSVs/CSVs_for_SQL
+    * Queries:
+        * SQL queries
+    * Tester File: 
+        * flask_test
+
+### Schema - ERD Diagram
+<img align="center" src="img/ERD.png">
+
+# Plotting 
+### IMDb, Rotten Tomato & Emmy Nominations by Title & Channel
+* In order to plot to create an interactive visualization displaying all titles nominated for emmys with a dropdown to filter by channel, we opted to filter within Postgres. We created a query using multiple WHERE statements. We opted to only display as drop down options channels that had 5 or more emmy nominations from 2016-2020 (HBO, Netflix, NBC, FX, Hulu, CBS, ABC, Showtime, Amazon Studios, Fox).
+* We created the visualization using d3 and used Javascript For Each Loops and then pushed values based on index number into containers to extract and create traces for plotting.
+
+<img align="center" src="img/channels_plot.png">
+
+### Wordcloud
+
+* The visualization (below) background code determines the size of each streaming program title by recognizing the frequency in which a specific title is mentioned as an Emmy’s nomination. The number of emmy nominations is being used as an indicator of popularity and quality. The Python wordcloud library was used to build the visualization. An initial challenge is that wordcloud normally counts the distribution of individual words rather then parsing the string whole. That would contribute to a distorted image with 3,004 individual words being reviewed. To leverage the full title in image generation ‘Counter’ was imported from the collections library and I was able to call the .generate_from_frequencies( ) method. 
+* The wordcloud provides a powerful visual representation of viewing patterns from 2016 to 2020. Ask yourself, do your personal viewing habits mirror the top titles here?
+
+<img align="left" src="img/wordcloud_shows.png">
+
+<img src="img/logo.gif" align="center"/>

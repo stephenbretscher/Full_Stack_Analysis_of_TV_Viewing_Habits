@@ -1,94 +1,150 @@
 
-// function unpack(rows, index) {
-//   return rows.map(function(row) {
-//     return row[index];
-//   });
-// }
+var filter = d3.select("#asdrop"); 
 
-
-
-d3.json("http://127.0.0.1:5000/stephen_data").then((importedData) => {
-    console.log(importedData);
-    var data = importedData
-    var title_test = data[0][1];
-    var rotten_tomatoes_test = data[0][5];
-
-
-
-    console.log(title_test)
-    console.log(rotten_tomatoes_test)
-    console.log(typeof title)
-
-   
-    title = []
-    rotten_tomatoes = []
-    imdb = []
-    awards = []
-
-    for (i = 0; i < data.length; i++) {
-      var title_point = data[i][1]
-      title.push(title_point)
-
-      var tomato_point = data[i][5]
-      rotten_tomatoes.push(tomato_point)
-
-      var imdb_point = data[i][4]
-      imdb.push(imdb_point)
-
-      var award_point = data[i][3]
-      awards.push(award_point)
-
-    };
-
-      console.log(title)
-      console.log(rotten_tomatoes)
-
-
-
-//////////////////////////////////////////////////////////////////////////////
-    // data.sort(function(a, b) {
-    //   return parseFloat(b.No) - parseFloat(a.No);
-    // });
+// gives a starting reference for display on load
+var samp = "Fox"
+channel = []
+console.log("1")
+d3.json("http://127.0.0.1:5000/stephen_data").then((data) => {
+  // Creates variables to hold the peices of data. 
   
-    // Reverse the array due to Plotly's defaults
-    // data = data.reverse();
-  
-    // Trace1 for the Greek Data
-    var trace1 = {
-      y: title.slice(0,10),
-      x: rotten_tomatoes.slice(0,10),
-      text: title,
-      name: "Rotten Tomatoes Score",
-      type: "bar",
-      orientation: "h"
-    };
+  for (i = 0; i < data.length; i++) {
+      var shows = data[i]
+      
+      channel.push(shows[2]);
+    }
+   console.log(channel)
 
-    var trace2 = {
-      y: title.slice(0,10),
-      x: awards.slice(0,10),
-      text: title,
-      name: "Emmy's",
-      type: "bar",
-      orientation: "h"
-    };
+  // grabs data for drop down
+  var valfilt = channel.filter((value, index, self) => self.indexOf(value) === index);
+  var valdrop = valfilt.sort((a, b) => a - b);
 
-    var trace3 = {
-        x: imdb.slice(0,10),
-        y: title.slice(0,10),
-        text: data.map(row => row.imdb),
-        name: "IMDb Score",
-        type: "bar",
-        orientation: "h"
-    };
+
+  // creates drop down
+  valdrop.forEach(function (values) {
+          
+      filter.append('option').text(values);
   
-    
-    var chartData = [trace1, trace2, trace3]
-    
-     var layout = {
-      title: "Emmy Awards by Rating",
-      yaxis: {automargin: true}
-     };
-  
-    // Render the plot to the div tag with id "plot"
-    Plotly.newPlot("a_s_plot", chartData, layout);
   });
+
+});
+
+// handles changes
+function optionChanged(sample) {
+  samp = sample;
+
+  console.log(samp);
+
+  Plot();
+
+};
+
+Plot();
+
+
+
+
+function Plot (){
+  title = [];
+  channel = [];
+  shows = [];
+  index_data_sel = [];
+  data_sel = [];
+
+  imdb = [];
+  rotten_tomatoes = [];
+  awards = [];
+
+
+
+  d3.json("http://127.0.0.1:5000/stephen_data").then((data) => {
+    // Creates variables to hold the pieces of data. 
+    //array of every channel
+    for (i = 0; i < data.length; i++) {
+        var shows = data[i]
+        
+        channel.push(shows[2]);
+      }
+  
+     
+        //create an array for each channel
+        for (i = 0; i < data.length; i++) {
+            
+          shows = data[i]
+          
+          if (shows[2] == samp) {
+              index_data_sel.push(i);
+          }
+        }
+
+      //   creates a year select data array of arrays
+        index_data_sel.forEach(function (values) {
+          data_sel.push(data[values]);
+      });
+
+      // creates year data storage for variables for visuals
+      data_sel.forEach(function (values){
+        
+        
+        title.push(values[1])
+
+        imdb.push(values[4])
+
+        rotten_tomatoes.push(values[5])
+
+        awards.push(values[3])
+
+      
+        });
+        console.log(title)
+        console.log(imdb)
+        console.log(rotten_tomatoes)
+        console.log(awards)
+
+
+
+        
+  var trace1 = {
+    y: title,
+    x: rotten_tomatoes,
+    text: title,
+    name: "Rotten Tomatoes Score",
+    type: "bar",
+    orientation: "h"
+  };
+
+var trace2 = {
+    y: title,
+    x: awards,
+    text: title,
+    name: "Emmy's",
+    type: "bar",
+    orientation: "h"
+  };
+
+var trace3 = {
+      x: imdb,
+      y: title,
+      text: title,
+      name: "IMDb Score",
+      type: "bar",
+      orientation: "h"
+  };
+
+  
+var chartData = [trace1,trace2,trace3]
+
+  
+var layout = {
+    title: "Emmy Awards by Rating",
+    yaxis: {automargin: true}
+   };
+
+  
+  Plotly.newPlot("asplot", chartData, layout);
+
+  });
+      
+
+
+};

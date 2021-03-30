@@ -22,8 +22,10 @@ Base = automap_base()
 
 # reflect the tables
 Base.prepare(engine, reflect=True)
+combined_scores = Base.classes.combined_scores
+emmys_mega_channels = Base.classes.emmys_mega_channels
+platforms_whole = Base.classes.platforms_whole
 
-tv_csv = Base.classes.combined_scores
 
 session = Session(engine)
 
@@ -43,10 +45,8 @@ def home():
 def Stephen():
     """Renders the contact page."""
     return render_template(
-        'Stephen.html',
-        title='Stephen',
+        "Stephen.html",
         year=datetime.now().year,
-        message='Your application description page'
     )
 
 @app.route('/Allison')
@@ -54,9 +54,7 @@ def Allison():
     """Renders the about page."""
     return render_template(
         'Allison.html',
-        title='Allison',
-        year=datetime.now().year,
-        message='Your application description page.'
+        year=datetime.now().year
     )
 
 @app.route('/Chandler')
@@ -82,13 +80,12 @@ def Sharice():
 @app.route('/test')
 def test():
     """Renders the contact page."""
-    query = f"""SELECT * FROM combined_scores"""
+    query = f"SELECT * FROM platforms_whole"
     conn = engine.connect()
-    tv_df = pd.read_sql(query, conn)
-    return render_template(
-        'test.html',
-        #title='test',
-        #tv_df.to_json(orient="values")
-        #year=datetime.now().year,
-        #message='Your application description page'
-        )
+    plot_table = pd.read_sql(query, conn)
+    plot_json =  plot_table.to_json(orient='values')
+    data = {'plot_data': plot_json}
+    return render_template("test.html", data=data)
+
+if __name__ == "__main__":
+    app.run(debug=True)

@@ -54,7 +54,7 @@ def home():
 
 @app.route("/stephen_data")
 def plot_data():
-    query = f"""SELECT * FROM combined_scores"""
+    query = f"""SELECT * FROM combined_scores where "channel" = 'HBO' or "channel" = 'Netflix' or "channel" = 'NBC'or "channel" = 'FX'or "channel" = 'Hulu'or "channel" = 'CBS'or "channel" = 'ABC'or "channel" = 'Showtime'or "channel" = 'Amazon Studios'or "channel" = 'Fox'"""
     conn = engine.connect()
     plot_table = pd.read_sql(query, conn)
     return Response(plot_table.to_json(orient='values'), mimetype='application/json')

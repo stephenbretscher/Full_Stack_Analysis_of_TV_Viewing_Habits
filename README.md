@@ -77,7 +77,7 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 
 <img align="left" src="img/wordcloud_shows.png">
 
-<img align="center src="img/logo.gif">
+### Webpage
   <br/>                                   
 <img align="left" src="img/web.png">
                                    

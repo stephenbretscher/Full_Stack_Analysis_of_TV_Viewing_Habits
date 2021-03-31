@@ -72,7 +72,7 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 
 ### Wordcloud
 
-* The visualization (below) background code determines the size of each streaming program title by recognizing the frequency in which a specific title is mentioned as an Emmy’s nomination. The number of emmy nominations is being used as an indicator of popularity and quality. The Python wordcloud library was used to build the visualization. An initial challenge is that wordcloud normally counts the distribution of individual words rather then parsing the string whole. That would contribute to a distorted image with 3,004 individual words being reviewed. To leverage the full title in image generation ‘Counter’ was imported from the collections library and I was able to call the .generate_from_frequencies( ) method. 
+* The code used to produce the wordcloud determines the size of each streaming program title by recognizing the frequency in which a specific title is mentioned as an Emmy’s nomination. The number of emmy nominations is being used as an indicator of popularity and quality. The Python wordcloud library was used to build the visualization. An initial challenge is that wordcloud normally counts the distribution of individual words rather then parsing the string whole. That would contribute to a distorted image with 3,004 individual words being reviewed. To leverage the full title in image generation ‘Counter’ was imported from the collections library and I was able to call the .generate_from_frequencies( ) method. 
 * The wordcloud provides a powerful visual representation of viewing patterns from 2016 to 2020. Ask yourself, do your personal viewing habits mirror the top titles here?
 
 <img align="left" src="img/wordcloud_shows.png">

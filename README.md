@@ -78,3 +78,9 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 <img align="left" src="img/wordcloud_shows.png">
 
 <img align="center src="img/logo.gif" "/>
+<img align="left" src="img/web.png">
+This front end has an animated carosol that showcase each Networking and streaming app logo.
+From the menu it also has access to tables that was utlize in this project.
+Also it has some additional static harts, made with canvasJS.
+Below is a table made in CanvasJS that depicts the emmys won by TV shows and whther the Network or Streaming Apps won the most.
+<img align="left" src="img/NetvsStream.png">

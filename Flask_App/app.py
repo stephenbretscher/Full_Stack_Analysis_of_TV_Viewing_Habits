@@ -66,6 +66,9 @@ def data2():
     plot_table = pd.read_sql(query, conn)
     return plot_table.to_json(orient='values')
 
+@app.route("/Sharice")
+def Sharice():
+    return render_template("Sharice.html")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Project 2</title>
+    <!-- <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='bootstrap/bootstrap.min.css') }}"> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="topnav">
+        <a class="active" href="index.html">Home</a>
+        <a href="{{ url_for('Chandler') }}">Chandler</a>
+        <a href="SQL.html">SQL</a>
+        <a href="emmys_mega_table.html">Emmy Nominations</a>
+        <a href="combined_scores_table.html">Combined Scores</a>
+        <a href="timeline2.html">Timeline</a>
+        <a href="{{ url_for('Stephen') }}">Emmy's NetvsStream</a>
+        <a href="2021_lib.html">Stream Library</a>
+
+
+
+
+    </div>
+    <div class="w3-content w3-section" style="max-width:500px">
+       
+
+    </div>
+
+    <script>
+        var myIndex = 0;
+        carousel();
+
+        function carousel() {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            myIndex++;
+            if (myIndex > x.length) { myIndex = 1 }
+            x[myIndex - 1].style.display = "block";
+            setTimeout(carousel, 2000); // Change image every 2 seconds
+        }
+    </script>
+
+
+        <div>
+            <section>
+                <br />
+                <header> <center> <h1 style="background-color:lightgray;">How Basic Are Your TV Habits?</h1></center></header>
+
+                <p>
+          
+                    <img src="Emmys_Folder/wordcloud_shows.png" alt="Word Cloud"
+                         style="float:left;width:500px;height:433px;">
+                    <h3> The visualization(left) determines the size of each streaming program title by recognizing the frequency in which specific title is mentioned as an Emmy's nomination. The number of emmy nominations is being used as an indicator of popularity and quality. The Python wordcloud library was used to build the visualization. An initial challenge is that wordcloud normally counts the distribution of individual words rather then parsing the string whole. That would contribute to a distorted image with 3004 individual words being reviewed. To leverage the full title in image generation 'Counter' was imported from the collections library and I was able to call the .generate_from_frequencies()method. The wordcloud provides a powerful visual represeentation of viewing patterns from 2016 to 2020. Ask yourself, do your personal viewing habits mirror the top titles.</h3>
+                </p>
+            </section>
+        </div>
+
+    
+</body>
+</html>

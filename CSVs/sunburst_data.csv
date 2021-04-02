@@ -1,0 +1,202 @@
+index,id,label,parents,values
+0,channel-hbo,hbo,,189
+1,channel-amazonstudios,amazon studios,,35
+2,channel-nbc,nbc,,52
+3,channel-hulu,hulu,,40
+4,channel-netflix,netflix,,157
+5,channel-fx,fx,,100
+6,channel-abc,abc,,49
+7,channel-bbc,bbc,,16
+8,channel-poptv,pop tv,,11
+9,channel-showtime,showtime,,31
+10,channel-tbs,tbs,,6
+11,channel-amc,amc,,6
+12,channel-cbs,cbs,,29
+13,channel-fleabag,fleabag,,6
+14,channel-appletv,apple tv,,5
+15,channel-comedycentral,comedy central,,12
+16,channel-bravo,bravo,,5
+17,channel-pbs,pbs,,8
+18,channel-vh1,vh1,,4
+19,channel-usa,usa,,4
+20,channel-lifetime,lifetime,,5
+21,channel-nationalgeographic,national geographic,,3
+22,channel-ifc,ifc,,6
+23,channel-fox,fox,,6
+24,channel-trutv,trutv,,3
+25,channel-paramountnetwork,paramount network,,1
+26,channel-tnt,tnt,,1
+27,channel-disney+,disney+,,1
+28,channel-a&e,a&e,,1
+29,channel-cinemax,cinemax,,1
+30,hbo-gameofthrones,game of thrones,channel-hbo,30
+31,hbo-veep,veep,channel-hbo,24
+32,amazonstudios-themarvelousmrsmaisel,the marvelous mrs maisel,channel-amazon studios,21
+33,nbc-saturdaynightlive,saturday night live,channel-nbc,20
+34,hulu-handmaidstale,handmaids tale,channel-hulu,20
+35,netflix-bettercallsaul,better call saul,channel-netflix,17
+36,netflix-ozark,ozark,channel-netflix,17
+37,netflix-thecrown,the crown,channel-netflix,17
+38,hbo-barry,barry,channel-hbo,15
+39,fx-fargo,fargo,channel-fx,14
+40,hbo-westworld,westworld,channel-hbo,14
+41,abc-thisisus,this is us,channel-abc,14
+42,fx-thepeoplev.o.j.simpson:americancrimestory,the people v. o.j. simpson: american crime story,channel-fx,13
+43,hbo-succession,succession,channel-hbo,13
+44,fx-atlanta,atlanta,channel-fx,13
+45,hbo-siliconvalley,silicon valley,channel-hbo,12
+46,abc-black-ish,black-ish,channel-abc,12
+47,bbc-killingeve,killing eve,channel-bbc,12
+48,poptv-schitt’screek,schitt’s creek,channel-pop tv,11
+49,netflix-strangerthings,stranger things,channel-netflix,11
+50,netflix-whentheyseeus,when they see us,channel-netflix,11
+51,hbo-watchmen,watchmen,channel-hbo,11
+52,fx-theamericans,the americans,channel-fx,11
+53,netflix-houseofcards,house of cards,channel-netflix,10
+54,fx-feud:betteandjoan,feud: bette and joan,channel-fx,10
+55,hbo-biglittlelies,big little lies,channel-hbo,10
+56,nbc-thegoodplace,the good place,channel-nbc,9
+57,netflix-unbreakablekimmyschmidt,unbreakable kimmy schmidt,channel-netflix,9
+58,fx-theassassinationofgianniversace:american...,the assassination of gianni versace: american ...,channel-fx,9
+59,amazonstudios-transparent,transparent,channel-amazon studios,8
+60,hbo-thenightof,the night of,channel-hbo,8
+61,netflix-masterofnone,master of none,channel-netflix,7
+62,fx-fosse/verdon,fosse/verdon,channel-fx,7
+63,showtime-homeland,homeland,channel-showtime,7
+64,hbo-lastweektonightwithjohnoliver,last week tonight with john oliver,channel-hbo,7
+65,showtime-escapeatdannemora,escape at dannemora,channel-showtime,7
+66,hbo-chernobyl,chernobyl,channel-hbo,6
+67,netflix-godless,godless,channel-netflix,6
+68,tbs-fullfrontalwithsamanthabee,full frontal with samantha bee,channel-tbs,6
+69,amc-thenightmanager,the night manager,channel-amc,6
+70,abc-americancrime,american crime,channel-abc,6
+71,netflix-blackmirror,black mirror,channel-netflix,6
+72,cbs-thelateshowwithstephencolbert,the late show with stephen colbert,channel-cbs,6
+73,fx-mrs.america,mrs. america,channel-fx,6
+74,fleabag-fleabag,fleabag,channel-fleabag,6
+75,abc-jimmykimmellive!,jimmy kimmel live!,channel-abc,6
+76,appletv-themorningshow,the morning show,channel-apple tv,5
+77,comedycentral-drunkhistory,drunk history,channel-comedy central,5
+78,netflix-glow,glow,channel-netflix,5
+79,bravo-topchef,top chef,channel-bravo,5
+80,netflix-thekominskymethod,the kominsky method,channel-netflix,5
+81,nbc-thevoice,the voice,channel-nbc,5
+82,abc-modernfamily,modern family,channel-abc,5
+83,netflix-hollywood,hollywood,channel-netflix,4
+84,cbs-theamazingrace,the amazing race,channel-cbs,4
+85,fx-baskets,baskets,channel-fx,4
+86,pbs-sherlock,sherlock,channel-pbs,4
+87,nbc-jesuschristsuperstarliveinconcert,jesus christ superstar live in concert,channel-nbc,4
+88,fx-americanhorrorstory,american horror story,channel-fx,4
+89,hbo-alltheway,all the way,channel-hbo,4
+90,amazonstudios-averyenglishscandal,a very english scandal,channel-amazon studios,4
+91,nbc-americanninjawarrior,american ninja warrior,channel-nbc,4
+92,cbs-deadtome,dead to me,channel-cbs,4
+93,netflix-russiandoll,russian doll,channel-netflix,4
+94,showtime-patrickmelrose,patrick melrose,channel-showtime,4
+95,cbs-thelatelateshowwithjamescorden,the late late show with james corden,channel-cbs,4
+96,pbs-downtonabbey,downton abbey,channel-pbs,4
+97,fx-whatwedointheshadows,what we do in the shadows,channel-fx,4
+98,showtime-raydonovan,ray donovan,channel-showtime,4
+99,netflix-graceandfrankie,grace and frankie,channel-netflix,4
+100,netflix-unorthodox,unorthodox,channel-netflix,4
+101,vh1-rupaulsdragrace,rupauls drag race,channel-vh1,4
+102,hbo-insecure,insecure,channel-hbo,4
+103,cbs-unbelievable,unbelievable,channel-cbs,3
+104,usa-mr.robot,mr. robot,channel-usa,3
+105,hulu-ramy,ramy,channel-hulu,3
+106,hbo-thewizardoflies,the wizard of lies,channel-hbo,3
+107,hbo-sharpobjects,sharp objects,channel-hbo,3
+108,hbo-curbyourenthusiasm,curb your enthusiasm,channel-hbo,3
+109,lifetime-projectrunway,project runway,channel-lifetime,3
+110,nationalgeographic-genius,genius,channel-national geographic,3
+111,abc-howtogetawaywithmurder,how to get away with murder,channel-abc,3
+112,hulu-littlefireseverywhere,little fires everywhere,channel-hulu,3
+113,cbs-mom,mom,channel-cbs,3
+114,showtime-shameless,shameless,channel-showtime,3
+115,hulu-normalpeople,normal people,channel-hulu,3
+116,ifc-portlandia,portlandia,channel-ifc,3
+117,fx-pose,pose,channel-fx,3
+118,hulu-theloomingtower,the looming tower,channel-hulu,3
+119,comedycentral-thedailyshowwithtrevornoah,the daily show with trevor noah,channel-comedy central,3
+120,showtime-blackmonday,black monday,channel-showtime,2
+121,nbc-will&grace,will & grace,channel-nbc,2
+122,netflix-johnmulaneyspecial,john mulaney special,channel-netflix,2
+123,hbo-amyschumer:liveattheapollo,amy schumer: live at the apollo,channel-hbo,2
+124,cbs-thebigbangtheory,the big bang theory,channel-cbs,2
+125,netflix-bloodline,bloodline,channel-netflix,2
+126,fx-betterthings,better things,channel-fx,2
+127,netflix-bodyguard,bodyguard,channel-netflix,2
+128,fox-tracyullmanshow,tracy ullman show,channel-fox,2
+129,comedycentral-insideamyschumer,inside amy schumer,channel-comedy central,2
+130,hbo-confirmation,confirmation,channel-hbo,2
+131,trutv-athomewithamysedaris,at home with amy sedaris,channel-trutv,2
+132,bbc-orphanblack,orphan black,channel-bbc,2
+133,hulu-thegreat,the great,channel-hulu,2
+134,ifc-documentarynow!,documentary now!,channel-ifc,2
+135,hbo-gettingon,getting on,channel-hbo,2
+136,netflix-nailedit!,nailed it!,channel-netflix,2
+137,showtime-twinpeaks,twin peaks,channel-showtime,2
+138,comedycentral-key&peele,key & peele,channel-comedy central,2
+139,nbc-brooklynnine-nine,brooklyn nine-nine,channel-nbc,2
+140,lifetime-unreal,unreal,channel-lifetime,2
+141,hbo-realtimewithbillmaher,real time with bill maher,channel-hbo,2
+142,bbc-luther,luther,channel-bbc,2
+143,netflix-stevemartin&martinshort:aneveningyouwi...,steve martin & martin short: an evening you wi...,channel-netflix,2
+144,hulu-theact,the act,channel-hulu,2
+145,hbo-mydinnerwithhervé,my dinner with hervé,channel-hbo,1
+146,cbs-thegoodwife,the good wife,channel-cbs,1
+147,hulu-triumph’selectionspecial2016,triumph’s election special 2016,channel-hulu,1
+148,hbo-michellewolf:nicelady,michelle wolf: nice lady,channel-hbo,1
+149,netflix-averymurraychristmas,a very murray christmas,channel-netflix,1
+150,hbo-thetale,the tale,channel-hbo,1
+151,netflix-sevenseconds,seven seconds,channel-netflix,1
+152,netflix-americanvandal,american vandal,channel-netflix,1
+153,fox-themaskedsinger,the masked singer,channel-fox,1
+154,hbo-iknowthismuchistrue,i know this much is true,channel-hbo,1
+155,netflix-davechappelle:equanimity,dave chappelle: equanimity,channel-netflix,1
+156,abc-dancingwiththestars,dancing with the stars,channel-abc,1
+157,netflix-selfmade,self made,channel-netflix,1
+158,paramountnetwork-waco,waco,channel-paramount network,1
+159,amazonstudios-kinglear,king lear,channel-amazon studios,1
+160,fox-grease:live!,grease: live!,channel-fox,1
+161,nbc-law&ordertruecrime:themenendezmurders,law & order true crime: the menendez murders,channel-nbc,1
+162,showtime-theaffair,the affair,channel-showtime,1
+163,abc-theoscars,the oscars,channel-abc,1
+164,hbo-deadwood:themovie,deadwood: the movie,channel-hbo,1
+165,cbs-thekennedycenterhonors,the kennedy center honors,channel-cbs,1
+166,hbo-euphoria,euphoria,channel-hbo,1
+167,nbc-superbowlliihalftimeshowstarringjustint...,super bowl lii halftime show starring justin t...,channel-nbc,1
+168,tnt-thealienist,the alienist,channel-tnt,1
+169,fox-thelastmanonearth,the last man on earth,channel-fox,1
+170,showtime-whoisamerica?,who is america?,channel-showtime,1
+171,hulu-loveyouamerica,love you america,channel-hulu,1
+172,abc-Roseanne,Roseanne,channel-abc,1
+173,hbo-lemonade,lemonade,channel-hbo,1
+174,netflix-orangeisthenewblack,orange is the new black,channel-netflix,1
+175,hbo-tignotaro:boyishgirlinterrupted,tig notaro: boyish girl interrupted,channel-hbo,1
+176,netflix-pattonoswalt:talkingforclapping,patton oswalt: talking for clapping,channel-netflix,1
+177,hbo-theimmortallifeofhenriettalacks,the immortal life of henrietta lacks,channel-hbo,1
+178,nbc-thetonightshowstarringjimmyfallon,the tonight show starring jimmy fallon,channel-nbc,1
+179,nbc-latenightwithsethmeyers,late night with seth meyers,channel-nbc,1
+180,hbo-paterno,paterno,channel-hbo,1
+181,nbc-dollyparton’schristmasofmanycolors,dolly parton’s christmas of many colors,channel-nbc,1
+182,nbc-adeleliveinnewyorkcity,adele live in new york city,channel-nbc,1
+183,amazonstudios-catastrophe,catastrophe,channel-amazon studios,1
+184,disney+-themandalorian,the mandalorian,channel-disney+,1
+185,usa-thesinner,the sinner,channel-usa,1
+186,ifc-documentarynow,documentary now,channel-ifc,1
+187,fox-empire,empire,channel-fox,1
+188,hbo-brexit,brexit,channel-hbo,1
+189,a&e-roots,roots,channel-a&e,1
+190,netflix-comediansincarsgettingcoffee,comedians in cars getting coffee,channel-netflix,1
+191,hbo-truedetective,true detective,channel-hbo,1
+192,cbs-58thgrammyawards,58th grammy awards,channel-cbs,1
+193,hbo-ladydayatemerson’sbarandgrill,lady day at emerson’s bar and grill,channel-hbo,1
+194,netflix-pattonoswalt:annihilation,patton oswalt: annihilation,channel-netflix,1
+195,trutv-billyonthestreet,billy on the street,channel-trutv,1
+196,hulu-iloveyouamericawithsarahsilverman,i love you america with sarah silverman,channel-hulu,1
+197,hbo-badeducation,bad education,channel-hbo,1
+198,hulu-pen15,pen15,channel-hulu,1
+199,cinemax-theknick,the knick,channel-cinemax,1
+200,netflix-jerryseinfeld:jerrybeforeseinfeld,jerry seinfeld: jerry before seinfeld,channel-netflix,1

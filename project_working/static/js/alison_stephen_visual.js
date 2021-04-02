@@ -95,7 +95,7 @@ var trace2 = {
     y: title,
     x: awards,
     text: title,
-    name: "Emmy's",
+    name: "Emmy Nominations",
     type: "bar",
     orientation: "h"
   };

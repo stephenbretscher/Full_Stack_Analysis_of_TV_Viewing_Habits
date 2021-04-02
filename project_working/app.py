@@ -65,7 +65,7 @@ def data2():
     plot_table = pd.read_sql(query, conn)
     return plot_table.to_json(orient='values')
 
-<<<<<<< HEAD:project_working/app.py
+    
 # Render site pages 
 @app.route("/")
 def home():
@@ -98,11 +98,6 @@ def Chandler():
 
 
 
-=======
-@app.route("/Sharice")
-def Sharice():
-    return render_template("Sharice.html")
->>>>>>> 1dbde3dc33bdee5523f5e6a9e43445bbc5c609bd:Flask_App/app.py
 
 
 if __name__ == "__main__":

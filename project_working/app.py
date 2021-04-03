@@ -10,6 +10,7 @@ from flask import url_for
 
 
 
+
 #################################################
 # Database Setup
 #################################################
@@ -56,7 +57,7 @@ def plot_data():
     query = f"""SELECT * FROM combined_scores where "channel" = 'HBO' or "channel" = 'Netflix' or "channel" = 'NBC'or "channel" = 'FX'or "channel" = 'Hulu'or "channel" = 'CBS'or "channel" = 'ABC'or "channel" = 'Showtime'or "channel" = 'Amazon Studios'or "channel" = 'Fox'"""
     conn = engine.connect()
     plot_table = pd.read_sql(query, conn)
-    return Response(plot_table.to_json(orient='values'), mimetype='application/json')
+    return plot_table.to_json(orient='values')
 
 @app.route("/2")
 def data2():

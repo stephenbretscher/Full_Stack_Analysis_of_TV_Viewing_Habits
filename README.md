@@ -30,7 +30,7 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 
 
 # Transform
-* During the webscrape, some titles were returned missing characters or the exact spelling, punctuation and capitalization varied.
+* During the webscrape, some titles were returned with missing characters or the exact spelling, punctuation and capitalization varied.
     * Used value_counts in both title and awards fields to identify duplicity and spelling differences
     * Used .replace to merge duplicative awards categories
         * ex: Directing for a Comedy merged with Directing for a Comedy Series

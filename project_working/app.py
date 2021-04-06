@@ -14,7 +14,7 @@ from flask import url_for
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://postgres:7924@localhost:5432/project-2", echo=True)
+engine = create_engine("postgresql://postgres:Foosyotto1!@localhost:5432/project_2", echo=True)
 
 
 # reflect an existing database into a new model
@@ -94,6 +94,9 @@ def Chandler():
         # message='Your application description page.'
     )
 
+@app.route('/wordcloud')
+def wordcloud():
+    return "../static/wordcloud_shows.png"
 
 
 

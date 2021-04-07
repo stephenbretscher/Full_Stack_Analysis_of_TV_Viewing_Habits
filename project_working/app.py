@@ -14,7 +14,7 @@ from flask import url_for
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://postgres:Foosyotto1!@localhost:5432/project_2", echo=True)
+engine = create_engine("postgresql://postgres:Olivia2019@localhost:5433/project_2", echo=True)
 
 
 # reflect an existing database into a new model
@@ -94,11 +94,22 @@ def Chandler():
         # message='Your application description page.'
     )
 
-@app.route('/wordcloud')
-def wordcloud():
-    return "../static/wordcloud_shows.png"
+@app.route("/sunburst_data")
+def sunburst_data():
+    query = f"""SELECT * FROM sunburst_data"""
+    conn = engine.connect()
+    scores = pd.read_sql(query, conn)
+    return scores.to_json(orient='values')
 
-
+@app.route('/alison')
+def alison():
+    """Renders the about page."""
+    return render_template(
+        'alison.html',
+        title='alison',
+        # year=datetime.now().year,
+        # message='Your application description page.'
+    )
 
 
 

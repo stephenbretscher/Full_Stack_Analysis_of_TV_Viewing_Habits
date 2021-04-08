@@ -58,16 +58,6 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 
 ### Flask Installation
 * After loading our clean csv's into SQL, we needed a medium to display our website and visualizations. Creating a Flask app allowed us to query the SQL server and display results in a DataFrame that could then be parsed into JSON to help create interactive visualizations using Plotly.
-* For files see:
-    * Clean Data:
-        * CSVs/CSVs_for_SQL
-    * Queries:
-        * SQL queries
-    * Tester File: 
-        * flask_test
-
-### Schema - ERD Diagram
-<img align="center" src="img/ERD.png">
 
 # Plotting 
 ### IMDb, Rotten Tomato & Emmy Nominations by Title & Channel
@@ -79,7 +69,7 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 ### Network, Title and Number of Emmy Nominations Sunburst Chart
 * A new dataframe was created out of combined_scores.csv to build the sunburst layers (parents, labels, values) and the visualization was created using Javascript, Plotly and d3. 
 
-![tv gif](img/sunburst.gif)
+<img align="center" ![tv gif](img/sunburst.gif)>
 
 ### Emmy Nominated Shows Wordcloud
 

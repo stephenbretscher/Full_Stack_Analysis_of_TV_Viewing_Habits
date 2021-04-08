@@ -69,7 +69,7 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 ### Network, Title and Number of Emmy Nominations Sunburst Chart
 * A new dataframe was created out of combined_scores.csv to build the sunburst layers (parents, labels, values) and the visualization was created using Javascript, Plotly and d3. 
 
-<img align="center" ![tv gif](img/sunburst.gif)>
+![tv gif](img/sunburst.gif)
 
 ### Emmy Nominated Shows Wordcloud
 

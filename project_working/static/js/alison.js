@@ -44,10 +44,10 @@ function init() {
 
         var layout = {
           text: "Emmy Nominations By Network And Program",
-          margin: {l: 500, r: 0, b: 0, t: -500},
+          margin: {l: 0, r: 0, b: 0, t: -500},
           autosize: false,
-          width: 1250,
-          height: 1250,
+          width: 1000,
+          height: 1000,
           sunburstcolorway:[
             "#636efa", "#00cc96",
             "#ab63fa","#19d3f3", 

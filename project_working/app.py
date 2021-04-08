@@ -14,7 +14,7 @@ from flask import url_for
 #################################################
 # Database Setup
 #################################################
-engine = create_engine("postgresql://postgres:Olivia2019@localhost:5433/project_2", echo=True)
+engine = create_engine("postgresql://postgres:@localhost:5433/project_2", echo=True)
 
 
 # reflect an existing database into a new model
@@ -90,8 +90,8 @@ def Chandler():
     return render_template(
         'Chandler.html',
         title='Chandler',
-        # year=datetime.now().year,
-        # message='Your application description page.'
+       # year=datetime.now().year,
+        # message='Your application description page.' 
     )
 
 @app.route("/sunburst_data")
@@ -103,7 +103,6 @@ def sunburst_data():
 
 @app.route('/alison')
 def alison():
-    """Renders the about page."""
     return render_template(
         'alison.html',
         title='alison',

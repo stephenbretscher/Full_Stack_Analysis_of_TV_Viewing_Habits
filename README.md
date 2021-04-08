@@ -45,10 +45,16 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 * Plotting considerations
     * In advance of creating a horizontal bar chart to display number of emmy nominations, IMDb score and Rotten Tomatoes score, we recognized that Rotten Tomatoes was on a 1-100 scale which displayed next to IMDb's 1-10 scale, the plot would be distorted so we decided to proactively convert Rotten Tomatoes column from % to float and make score out of 10 for future plotting using the below:
 
-    s = df['Rotten_Tomatoes'].str.replace(r'%', r'').astype('float')/100
-    df['Rotten_Tomatoes']  = pd.to_numeric(df['Rotten_Tomatoes'], errors='coerce').fillna(s)
-    df['Rotten_Tomatoes'] = df['Rotten_Tomatoes'] * 10
-    
+    ``` s = df['Rotten_Tomatoes'].str.replace(r'%', r'').astype('float')/100
+    ``` df['Rotten_Tomatoes']  = pd.to_numeric(df['Rotten_Tomatoes'], errors='coerce').fillna(s)
+    ``` df['Rotten_Tomatoes'] = df['Rotten_Tomatoes'] * 10
+
+    * The sunburst chart required the creaton of a brand new dataframe with fields reflecting an id, labels, parents and values schema. We used a list of lists approach, creating two lists for the ID layer, two lists for the Label layer, two lists for the parents layer and 1 list for the values layer and then appending 4 lists divided into the final dataframe to ensure all values align.
+    * Layer 1 ID Column: (1) Used .assign( ) function to append 'channel-' to a list of all unique channels; (2) Filter to only unique channels; (3) Remove all whitespaces in channel id list and title list; (4); Smash together "channel" + "-" + "title"; (5) Convert both series to lists; (6) Use .append( ) to join the two lists to create 372 rows.
+    * Layer 2 Label Column:
+    * Layer 3 Parents Column:
+    * Layer 4 Values Column:
+  
 
 ### Flask Installation
 * After loading our clean csv's into SQL, we needed a medium to display our website and visualizations. Creating a Flask app allowed us to query the SQL server and display results in a DataFrame that could then be parsed into JSON to help create interactive visualizations using Plotly.
@@ -70,7 +76,12 @@ Group Members: Stephen Brescher, Sharice Cananady, Alison Sadel, Chandler Gibbon
 
 <img align="center" src="img/channels_plot.png">
 
-### Wordcloud
+### Network, Title and Number of Emmy Nominations Sunburst Chart
+* A new dataframe was created out of combined_scores.csv to build the sunburst layers (parents, labels, values) and the visualization was created using Javascript, Plotly and d3. 
+
+![tv gif](img/sunburst.gif)
+
+### Emmy Nominated Shows Wordcloud
 
 * The code used to produce the wordcloud determines the size of each streaming program title by recognizing the frequency in which a specific title is mentioned as an Emmy’s nomination. The number of emmy nominations is being used as an indicator of popularity and quality. The Python wordcloud library was used to build the visualization. An initial challenge is that wordcloud normally counts the distribution of individual words rather then parsing the string whole. That would contribute to a distorted image with 3,004 individual words being reviewed. To leverage the full title in image generation ‘Counter’ was imported from the collections library and I was able to call the .generate_from_frequencies( ) method. 
 * The wordcloud provides a powerful visual representation of viewing patterns from 2016 to 2020. Ask yourself, do your personal viewing habits mirror the top titles here?
